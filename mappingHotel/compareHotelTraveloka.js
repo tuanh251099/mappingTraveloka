@@ -42,4 +42,6 @@ function main(){
         console.log('length of file: ', lstHotelsMapped.length)
       });
 }
+
+
 main()
