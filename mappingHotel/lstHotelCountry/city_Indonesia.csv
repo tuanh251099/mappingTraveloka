@@ -1,0 +1,405 @@
+City,Count
+"Aceh Barat",1
+"Aceh Barat Daya",1
+"Aceh Besar",7
+"Aceh Selatan",1
+"Aceh Singkil",2
+"Aceh Tamiang",9
+"Aceh Tengah",22
+"Aceh Tenggara",1
+"Aceh Timur",1
+"Agam",31
+"Alor",10
+"Ambon",67
+"Asahan",9
+"Badung",2424
+"Balikpapan",267
+"Banda Aceh",81
+"Bandar Lampung",236
+"Bandung",3175
+"Banggai",13
+"Bangka",47
+"Bangkalan, Madura Island",6
+"Bangli",99
+"Banjar",9
+"Banjarbaru, Banjarmasin",58
+"Banjarmasin",115
+"Banjarnegara",14
+"Bantaeng",7
+"Bantul",141
+"Banyuasin",4
+"Banyumas",145
+"Banyuwangi",385
+"Barito Kuala",4
+"Barito Selatan",1
+"Barito Timur",1
+"Barito Utara",2
+"Barru",1
+"Batam",553
+"Batang",3
+"Batanghari",2
+"Batubara",4
+"Bau-Bau",11
+"Bekasi",1175
+"Belitung",62
+"Belu",7
+"Bener Meriah",3
+"Bengkalis",21
+"Bengkayang",7
+"Bengkulu",68
+"Bengkulu Selatan",2
+"Bengkulu Utara",4
+"Berau",41
+"Biak Numfor",11
+"Bima",19
+"Binjai",4
+"Bintan",46
+"Bireuen",2
+"Bitung",23
+"Blitar",29
+"Blora",26
+"Boalemo",4
+"Bogor",583
+"Bojonegoro",24
+"Bolaang Mongondow",9
+"Bolaang Mongondow Selatan",1
+"Bolaang Mongondow Timur",1
+"Bombana",1
+"Bondowoso",15
+"Bone",5
+"Bone Bolango",1
+"Bontang",24
+"Boven Digoel",2
+"Boyolali",49
+"Brebes",10
+"Bukittinggi",172
+"Buleleng",464
+"Bulukumba",57
+"Bulungan",11
+"Bungo",17
+"Buol",1
+"Buru",3
+"Buton",1
+"Ciamis",20
+"Cianjur",54
+"Cilacap",53
+"Cilegon",23
+"Cirebon",152
+"Dairi",10
+"Danau Toba",169
+"Deli Serdang, Medan",54
+"Demak",7
+"Denpasar",612
+"Depok",665
+"Dharmasraya",1
+"Dompu",8
+"Donggala",2
+"Dumai",29
+"Ende",48
+"Fakfak",5
+"Flores Timur",12
+"Garut",155
+"Gayo Lues",1
+"Gianyar",1699
+"Gili Islands",510
+"Gowa",28
+"Gresik",23
+"Grobogan",15
+"Gunung Kidul",103
+"Gunung Mas",1
+"Gunungsitoli City",7
+"Halmahera Barat",2
+"Halmahera Selatan",1
+"Halmahera Tengah",1
+"Halmahera Timur",1
+"Halmahera Utara",7
+"Hulu Sungai Selatan",2
+"Hulu Sungai Utara",2
+"Humbang Hasundutan",6
+"Indragiri Hilir",4
+"Indragiri Hulu",3
+"Indramayu",11
+"Jakarta Barat",925
+"Jakarta Pusat",1302
+"Jakarta Selatan",1489
+"Jakarta Timur",705
+"Jakarta Utara",489
+"Jambi",109
+"Jayapura",22
+"Jayawijaya",3
+"Jember",89
+"Jembrana",94
+"Jeneponto",7
+"Jepara",109
+"Jombang",19
+"Kabupaten Gorontalo",1
+"Kaimana",4
+"Kampar",15
+"Kapuas",6
+"Kapuas Hulu",1
+"Karanganyar",80
+"Karangasem",258
+"Karawang",134
+"Karo",76
+"Katingan",1
+"Kayong Utara",3
+"Kebumen",31
+"Kediri City",71
+"Keerom",1
+"Kendal",17
+"Kendari",49
+"Kepahiang",1
+"Kepulauan Anambas",1
+"Kepulauan Aru",2
+"Kepulauan Mentawai",5
+"Kepulauan Pangkajene",4
+"Kepulauan Sangihe",3
+"Kepulauan Sitaro",1
+"Kepulauan Yapen",1
+"Kerinci",7
+"Ketapang",21
+"Klaten",34
+"Klungkung",644
+"Kolaka",5
+"Konawe Selatan",1
+"Kota Gorontalo",32
+"Kota Jayapura, Jayapura",56
+"Kota Tegal, Tegal",45
+"Kotabaru",1
+"Kotawaringin Barat",26
+"Kotawaringin Timur",22
+"Kuantan Singingi",3
+"Kubu Raya, Pontianak",6
+"Kudus",32
+"Kulon Progo",72
+"Kuningan",36
+"Kupang",106
+"Kuta, Badung",2124
+"Kutai Barat",4
+"Kutai Kartanegara",16
+"Kutai Timur",8
+"Labuhanbatu",15
+"Lahat",14
+"Lamongan",24
+"Lampung Barat",2
+"Lampung Selatan",25
+"Lampung Tengah",8
+"Lampung Timur",2
+"Lampung Utara",2
+"Landak",1
+"Langkat",19
+"Langsa",1
+"Lebak",38
+"Lembata",2
+"Lhokseumawe",9
+"Lima Puluh Kota",38
+"Limboto",2
+"Lingga",6
+"Lombok",431
+"Lombok Barat, Lombok",16
+"Lombok Tengah, Lombok",10
+"Lombok Timur, Lombok",107
+"Lombok Utara, Lombok",46
+"Lubuklinggau",32
+"Lumajang",21
+"Luwu",5
+"Luwu Timur",7
+"Luwu Utara",3
+"Madiun",48
+"Magelang",296
+"Magetan",51
+"Majalengka",22
+"Makassar",544
+"Malaka",2
+"Malang",2199
+"Malinau",1
+"Maluku Tengah",19
+"Maluku Tenggara",6
+"Mamuju",16
+"Manado",174
+"Mandailing Natal",1
+"Manggarai",24
+"Manggarai Barat",124
+"Manggarai Timur",3
+"Manokwari",19
+"Maros",12
+"Mataram, Lombok",182
+"Medan",529
+"Melawi",3
+"Merangin",7
+"Meranti Islands",6
+"Merauke",11
+"Metro",13
+"Mimika",25
+"Minahasa",14
+"Minahasa Selatan",2
+"Minahasa Tenggara",1
+"Minahasa Utara",29
+"Mojokerto",90
+"Morotai Island",5
+"Muara Enim",7
+"Muaro Jambi",18
+"Mukomuko",3
+"Murung Raya",1
+"Musi Banyuasin",7
+"Musi Rawas",2
+"Nabire",6
+"Nagekeo",5
+"Natuna",5
+"Ngada",25
+"Nganjuk",13
+"Ngawi",10
+"Nias",1
+"Nias Selatan",5
+"Nunukan",4
+"Ogan Ilir",7
+"Ogan Komering Ilir",6
+"Ogan Komering Ulu",13
+"Ogan Komering Ulu Selatan",14
+"Ogan Komering Ulu Timur",3
+"Pacitan",84
+"Padang",234
+"Padang Lawas",2
+"Padang Panjang",9
+"Padang Pariaman",15
+"Padang Sidempuan",6
+"Pagar Alam",27
+"Palangkaraya",89
+"Palembang",325
+"Palopo",15
+"Palu",86
+"Pamekasan, Madura Island",11
+"Pandeglang",24
+"Pangandaran",214
+"Pangkal Pinang, Bangka",48
+"Pare-Pare",26
+"Pariaman",9
+"Parigi Moutong",2
+"Pasaman",2
+"Pasaman Barat",1
+"Paser",2
+"Pasuruan",180
+"Pati",23
+"Payakumbuh",16
+"Pekalongan",35
+"Pekanbaru",250
+"Pelalawan",15
+"Pemalang",15
+"Pematangsiantar",29
+"Penajam Paser Utara",3
+"Pesawaran",15
+"Pesisir Barat",28
+"Pesisir Selatan",28
+"Pidie",2
+"Pinrang",4
+"Pohuwato",3
+"Polewali Mandar",1
+"Ponorogo",25
+"Pontianak",73
+"Poso",6
+"Prabumulih",19
+"Pringsewu",12
+"Probolinggo",186
+"Pulang Pisau",1
+"Pulau Seribu",51
+"Puncak",799
+"Purbalingga",12
+"Purwakarta",33
+"Purworejo",16
+"Raja Ampat",39
+"Rejang Lebong",8
+"Rembang",12
+"Rokan Hilir",3
+"Rokan Hulu",10
+"Rote Ndao",21
+"Sabang",52
+"Salatiga",36
+"Samarinda",124
+"Sambas",7
+"Sampang, Madura Island",4
+"Sanggau",3
+"Sanur",414
+"Sarolangun",4
+"Sawahlunto",19
+"Selayar",10
+"Semarang",745
+"Seram Bagian Barat",2
+"Serang",171
+"Serdang Bedagai",5
+"Seruyan",1
+"Siak",3
+"Sibolga",6
+"Sidenreng Rappang",4
+"Sidoarjo",54
+"Sigi",1
+"Sijunjung",2
+"Sikka",31
+"Simalungun",5
+"Simeulue",2
+"Singkawang",43
+"Sinjai",3
+"Sintang",8
+"Situbondo",17
+"Sleman",409
+"Solo",350
+"Solok",13
+"Soppeng",6
+"Sorong",36
+"Sragen",10
+"Subang",24
+"Subulussalam",1
+"Sukabumi",219
+"Sukoharjo",5
+"Sumba Barat, Sumba Island",27
+"Sumba Timur, Sumba Island",27
+"Sumbawa",32
+"Sumbawa Barat",25
+"Sumedang",17
+"Sumenep, Madura Island",24
+"Surabaya",1403
+"Tabalong",4
+"Tabanan",247
+"Takalar",3
+"Tana Tidung",1
+"Tana Toraja",5
+"Tanah Bumbu",9
+"Tanah Datar",12
+"Tanah Laut",3
+"Tangerang",942
+"Tangerang Selatan",1441
+"Tanggamus",16
+"Tanjung Balai",3
+"Tanjung Balai Karimun",25
+"Tanjung Jabung Barat",5
+"Tanjung Pandan, Belitung",71
+"Tanjung Pinang",49
+"Tapanuli Tengah",7
+"Tapanuli Utara",13
+"Tapin",1
+"Tarakan",37
+"Tasikmalaya",59
+"Tebing Tinggi",9
+"Tebo",3
+"Tegal",30
+"Telaga Biru",1
+"Teluk Bintuni",4
+"Teluk Wondama",4
+"Temanggung",12
+"Ternate",31
+"Tidore",1
+"Timor Tengah Selatan",7
+"Timor Tengah Utara",8
+"Toba Samosir",20
+"Tojo Una-Una",8
+"Tomohon",25
+"Toraja Utara",30
+"Trenggalek",12
+"Tuban",23
+"Tulangbawang",7
+"Tulungagung",34
+"Wajo",10
+"Wakatobi",15
+"Way Kanan",4
+"Wonogiri",13
+"Wonosobo",145
+"Yogyakarta",2543
