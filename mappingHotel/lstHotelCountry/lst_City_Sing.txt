@@ -1,0 +1,382 @@
+City: Pasay, Count: 124
+City: Batangas City, Count: 11 
+City: Manila, Count: 244       
+City: Tagaytay City, Count: 163
+City: Quezon City, Count: 204  
+City: Samal Island, Count: 26  
+City: Makati, Count: 247
+City: Davao City, Count: 162
+City: Cebu City, Count: 254
+City: Tarlac City, Count: 6
+City: Boracay Island, Count: 379
+City: El Nido, Count: 160
+City: Cordova, Mactan Island, Count: 7
+City: Pasig, Count: 43
+City: Panglao, Panglao Island, Count: 129
+City: Lapu-Lapu City, Mactan Island, Count: 101
+City: Cabanatuan City, Count: 12
+City: Legazpi City, Count: 44
+City: Mandaue City, Count: 35
+City: Bacacay (Misimis Bay), Count: 2
+City: General Trias, Count: 4
+City: Mandaluyong, Count: 48
+City: Baclayon, Count: 8
+City: Talisay, Count: 12
+City: Iloilo City, Count: 66
+City: Puerto Princesa, Count: 250
+City: Oslob, Count: 39
+City: Baguio City, Count: 171
+City: Puerto Galera, Count: 60
+City: Lipa, Count: 10
+City: Muntinlupa City, Count: 20
+City: Angeles, Count: 101
+City: Laoag City, Count: 21
+City: Coron, Count: 111
+City: Mabini, Count: 22
+City: Socorro, Siargao Islands, Count: 3
+City: Rosario, Count: 4
+City: Alfonso, Count: 6
+City: Parañaque, Count: 96
+City: Las Piñas, Count: 22
+City: Bacolod City, Count: 56
+City: San Juan, Count: 51
+City: Olongapo, Subic, Count: 18
+City: Nasugbu, Count: 17
+City: Taguig, Count: 61
+City: Antipolo, Count: 23
+City: Malabon, Count: 2
+City: Caloocan, Count: 10
+City: Roxas City, Count: 30
+City: San Fernando, Count: 8
+City: Balete, Count: 2
+City: Daanbantayan, Count: 16
+City: Sipalay City, Count: 23
+City: Tacloban City, Count: 35
+City: Toledo City, Count: 2
+City: Dauin, Count: 13
+City: Mabalacat, Count: 7
+City: Cagayan de Oro City, Count: 61
+City: Vigan City, Vigan, Count: 39
+City: San Isidro, Siargao Islands, Count: 2
+City: Naga, Count: 23
+City: Busuanga, Coron, Count: 9
+City: Santa Rosa, Count: 8
+City: Biñan, Count: 5
+City: Tagbilaran City, Count: 50
+City: Dauis, Panglao Island, Count: 23
+City: Santiago, Count: 3
+City: Santa Fe, Bantayan Island, Count: 26
+City: Oton, Count: 3
+City: Dumaguete City, Count: 47
+City: City of Balanga, Count: 11
+City: Bolinao, Count: 9
+City: Bantay, Vigan, Count: 7
+City: San Fernando City, Count: 10
+City: San Pedro, Count: 2
+City: Bacoor City, Count: 6
+City: Dipolog City, Count: 2
+City: Kalawit, Count: 1
+City: Baybay City, Count: 2
+City: Maasin City, Count: 2
+City: Catarman, Count: 14
+City: Catbalogan City, Count: 14
+City: Borongan City, Count: 3
+City: Mati, Count: 7
+City: Butuan City, Count: 17
+City: Subic Bay Freeport Zone, Subic, Count: 30
+City: Calape, Count: 2
+City: Anda, Count: 13
+City: Dapitan City, Count: 2
+City: Loboc, Count: 6
+City: Tagum City, Count: 28
+City: Dagupan, Count: 9
+City: Kalibo, Count: 35
+City: Santa Barbara, Count: 2
+City: San Vicente, Count: 39
+City: Cainta, Count: 4
+City: Moalboal, Count: 32
+City: General Santos, Count: 51
+City: Zamboanguita, Count: 1
+City: Subic Bay, Subic, Count: 17
+City: Santander, Count: 5
+City: General Luna, Siargao Islands, Count: 47
+City: Laguindingan, Count: 2
+City: Siquijor, Count: 7
+City: Mambajao, Count: 26
+City: Calumpit, Count: 2
+City: Santa Catalina, Count: 3
+City: Cuenca, Count: 1
+City: Banaue, Count: 17
+City: Dasmarinas City, Count: 3
+City: Hinoba-an, Count: 3
+City: Argao, Count: 5
+City: Pasuquin, Count: 3
+City: Baler, Count: 63
+City: Guindulman, Count: 1
+City: Los Baños, Count: 13
+City: San Narciso, Count: 10
+City: Baliuag, Count: 2
+City: Caramoan, Count: 15
+City: Naic, Count: 2
+City: Romblon City, Count: 3
+City: Alaminos City, Count: 26
+City: Calatagan, Count: 9
+City: Morong, Count: 19
+City: Marikina, Count: 3
+City: Nueva Valencia, Count: 3
+City: Boljoon, Count: 1
+City: Tanauan City, Count: 4
+City: Valencia City, Count: 6
+City: Taytay, El Nido, Count: 2
+City: Candon City, Count: 1
+City: Silang, Count: 8
+City: Laurel, Count: 5
+City: Liloan, Count: 3
+City: Lian, Count: 8
+City: San Nicolas, Laoag City, Count: 3
+City: Talisay City, Count: 10
+City: Caoayan, Count: 1
+City: Paoay, Count: 2
+City: Masbate City, Count: 16
+City: Calubian, Count: 2
+City: Ormoc City, Count: 7
+City: Ozamiz City, Count: 2
+City: Pagadian City, Count: 1
+City: Sogod, Count: 2
+City: Tuba, Count: 1
+City: Valenzuela, Count: 5
+City: Surigao City, Count: 28
+City: Bauang, Count: 10
+City: Pagudpud, Count: 26
+City: Currimao, Count: 4
+City: Bauan, Count: 2
+City: Sarrat, Laoag City, Count: 1
+City: Santo Domingo, Count: 1
+City: Bagac, Count: 7
+City: Binangonan, Count: 1
+City: Jordan, Count: 7
+City: Candelaria, Count: 3
+City: Bulacan City, Count: 1
+City: Urdaneta City, Count: 5
+City: Meycauayan City, Count: 3
+City: Calamba, Count: 18
+City: Basco, Count: 32
+City: Labrador, Count: 3
+City: Lucena, Count: 6
+City: Mauban, Count: 3
+City: Mangaldan, Count: 3
+City: Barotac Nuevo, Count: 1
+City: San Remigio, Count: 5
+City: Caba, Count: 2
+City: San Pablo City, Count: 8
+City: Pagsanjan, Count: 5
+City: Tabuk, Count: 1
+City: Paniqui, Count: 1
+City: Sibunag, Count: 2
+City: Maramag, Count: 3
+City: Rosales, Count: 2
+City: Bantayan Island, Count: 1
+City: San Jacinto, Ticao Island, Count: 3
+City: Calbayog City, Count: 13
+City: Tayabas City, Count: 3
+City: Solano, Count: 3
+City: Bagabag, Count: 1
+City: Santiago City, Count: 9
+City: Santa Cruz, Count: 3
+City: Atimonan, Count: 3
+City: Tuguegarao City, Count: 22
+City: Virac, Count: 6
+City: Santa Ana, Count: 6
+City: Baras, Count: 6
+City: Castillejos, Count: 3
+City: Lagonoy, Count: 1
+City: Bambang, Count: 1
+City: Daraga, Count: 9
+City: Mendez, Count: 4
+City: Santo Tomas, Count: 3
+City: Donsol, Count: 8
+City: Lucban, Count: 2
+City: Sorsogon City, Count: 10
+City: Gonzaga, Count: 2
+City: Sagada, Count: 32
+City: Alitagtag, Count: 4
+City: Pilar, Count: 1
+City: La Trinidad, Count: 2
+City: Calasiao, Count: 2
+City: Ramon, Count: 1
+City: Jimalalud, Count: 1
+City: Lemery, Count: 8
+City: Manolo Fortich, Count: 3
+City: Malaybalay City, Count: 15
+City: Imus City, Count: 1
+City: Taal, Count: 5
+City: Larena, Count: 2
+City: Cabangan, Count: 2
+City: San Antonio, Count: 6
+City: Iba, Count: 6
+City: Mobo, Masbate City, Count: 1
+City: Real, Count: 2
+City: Infanta, Count: 1
+City: Bacong, Count: 2
+City: Looc, Tablas Island, Count: 2
+City: Ligao, Count: 1
+City: Binalonan, Count: 2
+City: Lavezares, Count: 1
+City: Lingayen, Count: 3
+City: Alcantara, Tablas Island, Count: 1
+City: Cabugao, Count: 1
+City: Santa Fe, Tablas Island, Count: 1
+City: Cauayan City, Count: 6
+City: Marihatag, Count: 1
+City: Municipality of Ibaan, Count: 2
+City: Gerona, Count: 1
+City: Mariveles, Count: 8
+City: Orion, Count: 2
+City: Alicia, Count: 1
+City: Calaca, Count: 1
+City: Luna, Count: 1
+City: Orani, Count: 3
+City: Limay, Count: 1
+City: Roxas, Count: 4
+City: Sibulan, Count: 1
+City: Hermosa, Count: 2
+City: Badian, Count: 4
+City: San Fabian, Count: 3
+City: Iligan, Count: 9
+City: Guiguinto, Count: 2
+City: Catmon, Count: 1
+City: Bayugan City, Count: 1
+City: Ilagan City, Count: 2
+City: San Mateo, Count: 1
+City: Dapa, Siargao Islands, Count: 2
+City: Dimiao, Count: 1
+City: Bugallon, Count: 1
+City: Jagna, Count: 1
+City: Duero, Count: 1
+City: Angono, Count: 1
+City: Nabunturan, Count: 2
+City: Malolos, Count: 2
+City: Bobon, Count: 1
+City: Hinunangan, Count: 1
+City: Tabogon, Count: 1
+City: Buruanga, Count: 1
+City: San Jose, Carabao Island, Count: 2
+City: Plaridel, Count: 4
+City: Taytay, Count: 1
+City: Lumban, Count: 2
+City: Daet, Count: 2
+City: Calatrava, Tablas Island, Count: 1
+City: Oroquieta City, Count: 1
+City: Mataas Na Kahoy, Count: 2
+City: Aborlan, Puerto Princesa, Count: 1
+City: Tabaco City, Count: 2
+City: San Francisco, Pacijan Island, Count: 6
+City: Santa Maria, Count: 7
+City: Tagbina, Count: 1
+City: San Jose, Count: 2
+City: Janiuay, Count: 1
+City: Carmen, Count: 2
+City: Carles, Count: 5
+City: Pandan, Count: 1
+City: Poro, Poro Island, Count: 1
+City: Dumaran, Count: 1
+City: San Felipe, Count: 5
+City: Estancia, Count: 1
+City: Carabao Island, Count: 1
+City: San Luis, Count: 1
+City: Dalaguete, Count: 2
+City: Irosin, Count: 1
+City: Paete, Count: 1
+City: Polomolok, Count: 1
+City: Malay, Count: 4
+City: Palo, Count: 1
+City: Carmona, Count: 1
+City: Javier, Count: 1
+City: Cabatuan, Count: 2
+City: Angat, Count: 1
+City: Ipil, Count: 1
+City: Cotabato City, Count: 1
+City: Dipaculao, Count: 2
+City: Bantayan, Bantayan Island, Count: 1
+City: Tiwi, Count: 1
+City: Culion, Count: 1
+City: Ivana, Count: 1
+City: Sabtang, Count: 3
+City: Tanza, Count: 2
+City: Loon, Count: 2
+City: Tongkil, Count: 1
+City: Catanauan, Count: 1
+City: Majayjay, Count: 2
+City: Maragondon, Count: 1
+City: Bogo City, Count: 2
+City: Zamboanga, Count: 2
+City: Municipality of San Antonio, Count: 1
+City: Cabuyao City, Count: 2
+City: Oas, Count: 1
+City: Dupax Del Sur, Count: 1
+City: Cadiz City, Count: 1
+City: Batuan, Count: 1
+City: Pilar, Siargao Islands, Count: 2
+City: Malitbog, Count: 1
+City: Pavia, Count: 2
+City: San Jose del Monte City, Count: 2
+City: Lanuza, Count: 1
+City: Tabuelan, Count: 1
+City: Palayan City, Count: 1
+City: Pototan, Count: 1
+City: Nabas, Count: 2
+City: Hilongos, Count: 1
+City: Malungon, Count: 1
+City: San Rafael, Count: 1
+City: Indang, Count: 3
+City: Mapandan, Count: 1
+City: Agoo, Count: 1
+City: Mexico, Count: 1
+City: Tanay, Count: 2
+City: Del Carmen, Siargao Islands, Count: 1
+City: Mahinog, Count: 1
+City: Bacnotan, Count: 1
+City: Dinalungan, Count: 1
+City: San Marcelino, Count: 1
+City: San Lorenzo, Count: 1
+City: Madridejos, Bantayan Island, Count: 1
+City: Pili, Count: 1
+City: Santa Rita, Count: 1
+City: Panabo, Count: 1
+City: Science City of Munoz, Count: 1
+City: San Jose City, Count: 2
+City: Dao, Count: 1
+City: City of Naga, Count: 1
+City: Garcia Hernandez, Count: 1
+City: Balayan, Count: 1
+City: Capas, Count: 1
+City: Bangui, Count: 1
+City: Marabut, Count: 1
+City: Bongabon, Count: 1
+City: Pagbilao, Count: 1
+City: Culasi, Count: 1
+City: Balamban, Count: 1
+City: Asturias, Count: 1
+City: Magalang, Count: 2
+City: Balilihan, Count: 1
+City: Camalaniugan, Count: 1
+City: San Simon, Count: 1
+City: Pandi, Count: 1
+City: Balingasag, Count: 1
+City: Alcantara, Count: 1
+City: General Tinio, Count: 1
+City: Carcar City, Count: 1
+City: Santa Lucia, Count: 1
+City: Molave, Count: 1
+City: Braulio E. Dujali, Count: 1
+City: Lagonglong, Count: 1
+City: Pantabangan, Count: 1
+City: Lobo, Count: 1
+City: Urbiztondo, Count: 1
+City: Asingan, Count: 1
+City: Bansud, Count: 1
+City: Brooke's Point, Count: 1
+City: Bustos, Count: 1
+City: Mansalay, Count: 1
+City: Solana, Count: 1
+City: Dumarao, Count: 1

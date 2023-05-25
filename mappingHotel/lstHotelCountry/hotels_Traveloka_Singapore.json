@@ -1,0 +1,4565 @@
+[
+    {
+        "TravelLokaId": 1007,
+        "HotelName": "PARKROYAL on Kitchener Road",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "181 Kitchener Road",
+        "Lat": 1.3106349,
+        "Lng": 103.8557348
+    },
+    {
+        "TravelLokaId": 1045,
+        "HotelName": "Hotel 81 Palace",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "25 Lorong 16 Geylang",
+        "Lat": 1.311819,
+        "Lng": 103.880174
+    },
+    {
+        "TravelLokaId": 1284,
+        "HotelName": "Hotel 81 Geylang",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "20 Lorong 16 Geylang",
+        "Lat": 1.311824,
+        "Lng": 103.879606
+    },
+    {
+        "TravelLokaId": 1635,
+        "HotelName": "M Hotel Singapore City Centre",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "81 Anson Road",
+        "Lat": 1.273753161,
+        "Lng": 103.84504989
+    },
+    {
+        "TravelLokaId": 2020,
+        "HotelName": "Hotel 81 Orchid",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "21 Lorong 8 Geylang",
+        "Lat": 1.31169,
+        "Lng": 103.877372
+    },
+    {
+        "TravelLokaId": 3198,
+        "HotelName": "Hotel 81 Premier Hollywood",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "61 Lorong 8 Geylang",
+        "Lat": 1.310565,
+        "Lng": 103.877429
+    },
+    {
+        "TravelLokaId": 5057,
+        "HotelName": "Hotel 81 Princess",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "21 Lorong 12 Geylang",
+        "Lat": 1.312215,
+        "Lng": 103.878651
+    },
+    {
+        "TravelLokaId": 5227,
+        "HotelName": "Village Hotel Changi by Far East Hospitality (SG Clean)",
+        "Country": "Singapore",
+        "City": "Changi",
+        "Address": "1 Netheravon Road",
+        "Lat": 1.3905472,
+        "Lng": 103.9859695
+    },
+    {
+        "TravelLokaId": 7405,
+        "HotelName": "Paradox Singapore Merchant Court at Clarke Quay",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "20 Merchant Road",
+        "Lat": 1.2887138,
+        "Lng": 103.8456287
+    },
+    {
+        "TravelLokaId": 8024,
+        "HotelName": "Amara Singapore",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "165 Tanjong Pagar Road",
+        "Lat": 1.275235,
+        "Lng": 103.84371
+    },
+    {
+        "TravelLokaId": 8653,
+        "HotelName": "Venue Hotel",
+        "Country": "Singapore",
+        "City": "East Coast",
+        "Address": "305 Joo Chiat Road",
+        "Lat": 1.30944,
+        "Lng": 103.902428
+    },
+    {
+        "TravelLokaId": 10577,
+        "HotelName": "Village Hotel Albert Court by Far East Hospitality (SG Clean)",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "180 Albert Street",
+        "Lat": 1.3041967,
+        "Lng": 103.8508284
+    },
+    {
+        "TravelLokaId": 10581,
+        "HotelName": "Grand Mercure Singapore Roxy",
+        "Country": "Singapore",
+        "City": "East Coast",
+        "Address": "50 East Coast Road,Roxy Square,Marine Parade Rd",
+        "Lat": 1.303559,
+        "Lng": 103.904625
+    },
+    {
+        "TravelLokaId": 10582,
+        "HotelName": "30 Bencoolen",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "30 Bencoolen Street",
+        "Lat": 1.2985317,
+        "Lng": 103.8503005
+    },
+    {
+        "TravelLokaId": 10587,
+        "HotelName": "Peninsula Excelsior Hotel",
+        "Country": "Singapore",
+        "City": "Marina Bay",
+        "Address": "5 Coleman Street",
+        "Lat": 1.292004,
+        "Lng": 103.849897
+    },
+    {
+        "TravelLokaId": 10589,
+        "HotelName": "The Fullerton Hotel Singapore",
+        "Country": "Singapore",
+        "City": "Marina Bay",
+        "Address": "1 Fullerton Square",
+        "Lat": 1.2862279,
+        "Lng": 103.8530525
+    },
+    {
+        "TravelLokaId": 10590,
+        "HotelName": "Furama City Centre",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "60 Eu Tong Sen Street",
+        "Lat": 1.286586,
+        "Lng": 103.844727
+    },
+    {
+        "TravelLokaId": 10592,
+        "HotelName": "Goodwood Park Hotel",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "22 Scotts Road",
+        "Lat": 1.3088649,
+        "Lng": 103.834322
+    },
+    {
+        "TravelLokaId": 10593,
+        "HotelName": "Grand Copthorne Waterfront (SG Clean)",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "392 Havelock Road",
+        "Lat": 1.290266,
+        "Lng": 103.835135
+    },
+    {
+        "TravelLokaId": 10595,
+        "HotelName": "Grand Park City Hall",
+        "Country": "Singapore",
+        "City": "Marina Bay",
+        "Address": "10 Coleman Street",
+        "Lat": 1.2927,
+        "Lng": 103.850189
+    },
+    {
+        "TravelLokaId": 10596,
+        "HotelName": "voco ORCHARD SINGAPORE",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "581 Orchard Road",
+        "Lat": 1.30588,
+        "Lng": 103.829308
+    },
+    {
+        "TravelLokaId": 10600,
+        "HotelName": "Rendezvous Hotel Singapore by Far East Hospitality (SG Clean)",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "9 Bras Basah Road",
+        "Lat": 1.298593,
+        "Lng": 103.8493116
+    },
+    {
+        "TravelLokaId": 10601,
+        "HotelName": "Concorde Hotel Singapore",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "100 Orchard Road",
+        "Lat": 1.300784,
+        "Lng": 103.8423409
+    },
+    {
+        "TravelLokaId": 10603,
+        "HotelName": "PARKROYAL COLLECTION Marina Bay, Singapore",
+        "Country": "Singapore",
+        "City": "Marina Bay",
+        "Address": "6 Raffles Boulevard",
+        "Lat": 1.291692,
+        "Lng": 103.856994
+    },
+    {
+        "TravelLokaId": 10604,
+        "HotelName": "Singapore Marriott Tang Plaza Hotel",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "320 Orchard Road",
+        "Lat": 1.3049283,
+        "Lng": 103.8331385
+    },
+    {
+        "TravelLokaId": 10606,
+        "HotelName": "Pan Pacific Orchard, Singapore",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "10 Claymore Road",
+        "Lat": 1.3075828,
+        "Lng": 103.8298653
+    },
+    {
+        "TravelLokaId": 10610,
+        "HotelName": "Orchard Hotel Singapore",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "442 Orchard Road",
+        "Lat": 1.307737,
+        "Lng": 103.828436
+    },
+    {
+        "TravelLokaId": 10611,
+        "HotelName": "Orchard Rendezvous Hotel by Far East Hospitality (SG Clean)",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "1 Tanglin Road",
+        "Lat": 1.3066294,
+        "Lng": 103.8276686
+    },
+    {
+        "TravelLokaId": 10613,
+        "HotelName": "PARKROYAL on Beach Road",
+        "Country": "Singapore",
+        "City": "Marina Bay",
+        "Address": "7500 Beach Road",
+        "Lat": 1.2998042,
+        "Lng": 103.8606655
+    },
+    {
+        "TravelLokaId": 10615,
+        "HotelName": "Fairmont Singapore",
+        "Country": "Singapore",
+        "City": "Marina Bay",
+        "Address": "80 Bras Basah Road",
+        "Lat": 1.293396,
+        "Lng": 103.8534619
+    },
+    {
+        "TravelLokaId": 10616,
+        "HotelName": "Four Points by Sheraton Singapore, Riverview (SG Clean) (Staycation Approved)",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "382 Havelock Road",
+        "Lat": 1.2893323,
+        "Lng": 103.8366509
+    },
+    {
+        "TravelLokaId": 10617,
+        "HotelName": "Royal Plaza on Scotts",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "25 Scotts Road",
+        "Lat": 1.3071373,
+        "Lng": 103.8325097
+    },
+    {
+        "TravelLokaId": 10618,
+        "HotelName": "Shangri-La Singapore (SG Clean)",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "22 Orange Grove Road",
+        "Lat": 1.3108046,
+        "Lng": 103.8267982
+    },
+    {
+        "TravelLokaId": 10619,
+        "HotelName": "Shangri-La Rasa Sentosa, Singapore",
+        "Country": "Singapore",
+        "City": "Sentosa Island",
+        "Address": "101 Siloso Road",
+        "Lat": 1.25775,
+        "Lng": 103.810027
+    },
+    {
+        "TravelLokaId": 10620,
+        "HotelName": "Sheraton Towers Singapore",
+        "Country": "Singapore",
+        "City": "Newton",
+        "Address": "39 Scotts Road",
+        "Lat": 1.3119879,
+        "Lng": 103.8363441
+    },
+    {
+        "TravelLokaId": 10621,
+        "HotelName": "Swissotel The Stamford",
+        "Country": "Singapore",
+        "City": "Marina Bay",
+        "Address": "2 Stamford Road",
+        "Lat": 1.2933597,
+        "Lng": 103.8531036
+    },
+    {
+        "TravelLokaId": 10623,
+        "HotelName": "Furama RiverFront",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "405 Havelock Road",
+        "Lat": 1.287742,
+        "Lng": 103.836043
+    },
+    {
+        "TravelLokaId": 10625,
+        "HotelName": "Pan Pacific Singapore",
+        "Country": "Singapore",
+        "City": "Marina Bay",
+        "Address": "7 Raffles Boulevard, Marina Square",
+        "Lat": 1.2923963,
+        "Lng": 103.8584834
+    },
+    {
+        "TravelLokaId": 10628,
+        "HotelName": "JEN Singapore Tanglin by Shangri-La (SG Clean)",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "1A Cuscaden Road",
+        "Lat": 1.3042445,
+        "Lng": 103.8240241
+    },
+    {
+        "TravelLokaId": 44923,
+        "HotelName": "Copthorne King’s Hotel on Havelock",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "403 Havelock Road",
+        "Lat": 1.288387,
+        "Lng": 103.836747
+    },
+    {
+        "TravelLokaId": 48642,
+        "HotelName": "YWCA Fort Canning",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "6 Fort Canning Road",
+        "Lat": 1.297606,
+        "Lng": 103.845039
+    },
+    {
+        "TravelLokaId": 50023,
+        "HotelName": "ibis budget Singapore Crystal",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "50 Lorong 18 Geylang, 398824 Singapore, Singapore",
+        "Lat": 1.310694,
+        "Lng": 103.880682
+    },
+    {
+        "TravelLokaId": 50024,
+        "HotelName": "ibis budget Singapore Emerald",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "20 Lorong 6 Geylang, 399174 Singapura, Singapura",
+        "Lat": 1.3110062,
+        "Lng": 103.8763413
+    },
+    {
+        "TravelLokaId": 50025,
+        "HotelName": "ibis budget Singapore Pearl",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "1 Lorong 14 Geylang, 398961 Singapore, Singapore",
+        "Lat": 1.3116125,
+        "Lng": 103.8792824
+    },
+    {
+        "TravelLokaId": 50026,
+        "HotelName": "ibis budget Singapore Ruby",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "10 Lorong 20 Geylang, 398730 Singapura, Singapura",
+        "Lat": 1.3121636,
+        "Lng": 103.8811033
+    },
+    {
+        "TravelLokaId": 51374,
+        "HotelName": "ibis budget Singapore Joo Chiat",
+        "Country": "Singapore",
+        "City": "East Coast",
+        "Address": "219 Joo Chiat Road, 427485 Singapore, Singapore",
+        "Lat": 1.31154,
+        "Lng": 103.901307
+    },
+    {
+        "TravelLokaId": 51376,
+        "HotelName": "Hotel 81 Chinatown",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "181 New Bridge Road",
+        "Lat": 1.284601,
+        "Lng": 103.844104
+    },
+    {
+        "TravelLokaId": 51377,
+        "HotelName": "Hotel 81 Premier Star",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "31 Lorong 18 Geylang",
+        "Lat": 1.311665,
+        "Lng": 103.880876
+    },
+    {
+        "TravelLokaId": 51378,
+        "HotelName": "The Inn at Temple Street",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "36 Temple Street",
+        "Lat": 1.283182,
+        "Lng": 103.843915
+    },
+    {
+        "TravelLokaId": 70328,
+        "HotelName": "ibis budget Singapore Selegie",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "183 Selegie Road, 188329 Singapura, Singapura",
+        "Lat": 1.3036924,
+        "Lng": 103.8499932
+    },
+    {
+        "TravelLokaId": 71554,
+        "HotelName": "The Claremont Hotel",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "301 Serangoon Road",
+        "Lat": 1.311464,
+        "Lng": 103.854775
+    },
+    {
+        "TravelLokaId": 71555,
+        "HotelName": "Fragrance Hotel - Rose",
+        "Country": "Singapore",
+        "City": "Novena",
+        "Address": "(5 mins ride to Novena, Farrer Park and Boon Keng MRT stations) 263 Balestier Road",
+        "Lat": 1.322051,
+        "Lng": 103.852681
+    },
+    {
+        "TravelLokaId": 73493,
+        "HotelName": "Harbour Ville Hotel",
+        "Country": "Singapore",
+        "City": "HarbourFront",
+        "Address": "512 Kampong Bahru Road",
+        "Lat": 1.272696,
+        "Lng": 103.827704
+    },
+    {
+        "TravelLokaId": 77323,
+        "HotelName": "Robertson Quay Hotel",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "15 Merbau Road",
+        "Lat": 1.291283,
+        "Lng": 103.842057
+    },
+    {
+        "TravelLokaId": 89704,
+        "HotelName": "ibis budget Singapore Sapphire",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "3 Lorong 10 Geylang, 399037 Singapura, Singapura",
+        "Lat": 1.3121376,
+        "Lng": 103.8776675
+    },
+    {
+        "TravelLokaId": 89722,
+        "HotelName": "Amara Sanctuary Resort Sentosa",
+        "Country": "Singapore",
+        "City": "Sentosa Island",
+        "Address": "1 Larkhill Road Sentosa Island",
+        "Lat": 1.251245,
+        "Lng": 103.822343
+    },
+    {
+        "TravelLokaId": 90401,
+        "HotelName": "Link Hotel Singapore (SG Clean Certified)",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "50 Tiong Bahru Road",
+        "Lat": 1.2848666,
+        "Lng": 103.8343245
+    },
+    {
+        "TravelLokaId": 91266,
+        "HotelName": "Naumi Hotel Singapore",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "41 Seah Street",
+        "Lat": 1.295837,
+        "Lng": 103.85519
+    },
+    {
+        "TravelLokaId": 96909,
+        "HotelName": "Hotel Royal",
+        "Country": "Singapore",
+        "City": "Novena",
+        "Address": "36 Newton Road",
+        "Lat": 1.316971,
+        "Lng": 103.841916
+    },
+    {
+        "TravelLokaId": 97215,
+        "HotelName": "ibis budget Singapore Imperial",
+        "Country": "Singapore",
+        "City": "Lavender",
+        "Address": "28 Penhas Road",
+        "Lat": 1.309452,
+        "Lng": 103.862521
+    },
+    {
+        "TravelLokaId": 97551,
+        "HotelName": "Hotel 81 Bugis",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "31 Middle Road",
+        "Lat": 1.297971,
+        "Lng": 103.855519
+    },
+    {
+        "TravelLokaId": 97552,
+        "HotelName": "Hotel 81 Elegance",
+        "Country": "Singapore",
+        "City": "Lavender",
+        "Address": "30 Foch Road",
+        "Lat": 1.312522,
+        "Lng": 103.860278
+    },
+    {
+        "TravelLokaId": 97554,
+        "HotelName": "Hotel 81 Rochor",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "5 Jalan Besar",
+        "Lat": 1.303703,
+        "Lng": 103.854074
+    },
+    {
+        "TravelLokaId": 97555,
+        "HotelName": "Hotel 81 Tristar",
+        "Country": "Singapore",
+        "City": "East Coast",
+        "Address": "1 Onan Road",
+        "Lat": 1.315578,
+        "Lng": 103.89734
+    },
+    {
+        "TravelLokaId": 98946,
+        "HotelName": "Siloso Beach Resort, Sentosa",
+        "Country": "Singapore",
+        "City": "Sentosa Island",
+        "Address": "51 Imbiah Walk Sentosa Island",
+        "Lat": 1.254573,
+        "Lng": 103.814779
+    },
+    {
+        "TravelLokaId": 100195,
+        "HotelName": "Somerset Liang Court Singapore",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "177B River Valley Road",
+        "Lat": 1.2917857,
+        "Lng": 103.8452166
+    },
+    {
+        "TravelLokaId": 100196,
+        "HotelName": "Somerset Orchard Singapore",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "160 Orchard Road, #06-01 OG Orchard Point",
+        "Lat": 1.30148,
+        "Lng": 103.840781
+    },
+    {
+        "TravelLokaId": 100198,
+        "HotelName": "Somerset Bencoolen Singapore",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "51 Bencoolen Street",
+        "Lat": 1.2994638,
+        "Lng": 103.8504567
+    },
+    {
+        "TravelLokaId": 104067,
+        "HotelName": "Fragrance Hotel - Oasis",
+        "Country": "Singapore",
+        "City": "Novena",
+        "Address": "(12 mins walk to Novena MRT station) 435 Balestier Road",
+        "Lat": 1.326205,
+        "Lng": 103.848146
+    },
+    {
+        "TravelLokaId": 108273,
+        "HotelName": "Hotel Re! @ Pearl's Hill",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "175A Chin Swee Road",
+        "Lat": 1.2853,
+        "Lng": 103.838608
+    },
+    {
+        "TravelLokaId": 108402,
+        "HotelName": "Hotel 81 Selegie",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "161 Selegie Road",
+        "Lat": 1.303638,
+        "Lng": 103.849995
+    },
+    {
+        "TravelLokaId": 108571,
+        "HotelName": "Hotel 81 Dickson",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "3 Dickson Road",
+        "Lat": 1.304955,
+        "Lng": 103.854283
+    },
+    {
+        "TravelLokaId": 108811,
+        "HotelName": "ibis budget Singapore West Coast",
+        "Country": "Singapore",
+        "City": "HarbourFront",
+        "Address": "418 Pasir Panjang Road, 118759 Singapore, Singapore",
+        "Lat": 1.2921943,
+        "Lng": 103.7688834
+    },
+    {
+        "TravelLokaId": 108813,
+        "HotelName": "Fragrance Hotel - Ocean View",
+        "Country": "Singapore",
+        "City": "HarbourFront",
+        "Address": "432 Pasir Panjang Road",
+        "Lat": 1.292482,
+        "Lng": 103.768514
+    },
+    {
+        "TravelLokaId": 108938,
+        "HotelName": "Ascott Raffles Place Singapore",
+        "Country": "Singapore",
+        "City": "Marina Bay",
+        "Address": "No 2 Finlayson Green",
+        "Lat": 1.2823982,
+        "Lng": 103.851687
+    },
+    {
+        "TravelLokaId": 109168,
+        "HotelName": "Quincy Hotel Singapore by Far East Hospitality (SG Clean)",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "22 Mount Elizabeth",
+        "Lat": 1.3077667,
+        "Lng": 103.8356875
+    },
+    {
+        "TravelLokaId": 109266,
+        "HotelName": "Orchard Parksuites by Far East Hospitality",
+        "Country": "Singapore",
+        "City": "River Valley",
+        "Address": "11 Orchard Turn",
+        "Lat": 1.3029191,
+        "Lng": 103.8326532
+    },
+    {
+        "TravelLokaId": 109267,
+        "HotelName": "Citadines Mount Sophia Singapore",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "8 Wilkie Road #01-26 Wilkie Edge",
+        "Lat": 1.302102,
+        "Lng": 103.849615
+    },
+    {
+        "TravelLokaId": 109268,
+        "HotelName": "Adina Serviced Apartment Singapore Orchard",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "121 Penang Road",
+        "Lat": 1.2994556,
+        "Lng": 103.8420178
+    },
+    {
+        "TravelLokaId": 109878,
+        "HotelName": "Value Hotel Balestier",
+        "Country": "Singapore",
+        "City": "Novena",
+        "Address": "218 Balestier Road",
+        "Lat": 1.322008,
+        "Lng": 103.852634
+    },
+    {
+        "TravelLokaId": 129583,
+        "HotelName": "ibis Budget Singapore Ametrine",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "10 Lorong 10 Geylang",
+        "Lat": 1.311439,
+        "Lng": 103.877566
+    },
+    {
+        "TravelLokaId": 147907,
+        "HotelName": "Hotel Classic by Venue",
+        "Country": "Singapore",
+        "City": "East Coast",
+        "Address": "12 Joo Chiat Road",
+        "Lat": 1.315691,
+        "Lng": 103.897534
+    },
+    {
+        "TravelLokaId": 147908,
+        "HotelName": "Hotel 81 Sakura",
+        "Country": "Singapore",
+        "City": "East Coast",
+        "Address": "181 Joo Chiat Road",
+        "Lat": 1.312295,
+        "Lng": 103.900473
+    },
+    {
+        "TravelLokaId": 159109,
+        "HotelName": "Value Hotel Thomson",
+        "Country": "Singapore",
+        "City": "Novena",
+        "Address": "592 Balestier Road,",
+        "Lat": 1.326856,
+        "Lng": 103.842759
+    },
+    {
+        "TravelLokaId": 159124,
+        "HotelName": "Value Hotel Nice",
+        "Country": "Singapore",
+        "City": "Novena",
+        "Address": "302 Balestier Road",
+        "Lat": 1.323326,
+        "Lng": 103.852468
+    },
+    {
+        "TravelLokaId": 159151,
+        "HotelName": "Fraser Place Robertson Walk",
+        "Country": "Singapore",
+        "City": "River Valley",
+        "Address": "11 Unity Street",
+        "Lat": 1.291794,
+        "Lng": 103.841517
+    },
+    {
+        "TravelLokaId": 159170,
+        "HotelName": "Fraser Suites Singapore",
+        "Country": "Singapore",
+        "City": "River Valley",
+        "Address": "491A River Valley Road",
+        "Lat": 1.293071,
+        "Lng": 103.8270919
+    },
+    {
+        "TravelLokaId": 159262,
+        "HotelName": "Arianna Hotel",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "83 Syed Alwi Road",
+        "Lat": 1.3090529,
+        "Lng": 103.8560047
+    },
+    {
+        "TravelLokaId": 159265,
+        "HotelName": "Regent SINGAPORE",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "1 Cuscaden Road",
+        "Lat": 1.304655,
+        "Lng": 103.824931
+    },
+    {
+        "TravelLokaId": 159284,
+        "HotelName": "ibis budget Singapore Mount Faber",
+        "Country": "Singapore",
+        "City": "HarbourFront",
+        "Address": "400 Telok Blangah Road, 098838 Singapura, Singapura",
+        "Lat": 1.2697225,
+        "Lng": 103.8138727
+    },
+    {
+        "TravelLokaId": 164221,
+        "HotelName": "Rest Bugis Hotel",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "8 Jalan Kubor",
+        "Lat": 1.304055,
+        "Lng": 103.859511
+    },
+    {
+        "TravelLokaId": 164241,
+        "HotelName": "Orchid Country Club",
+        "Country": "Singapore",
+        "City": "Yishun",
+        "Address": "1 Orchid Club Road",
+        "Lat": 1.411219,
+        "Lng": 103.844251
+    },
+    {
+        "TravelLokaId": 165202,
+        "HotelName": "Nostalgia Hotel",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "77 Tiong Bahru Road",
+        "Lat": 1.28511,
+        "Lng": 103.833671
+    },
+    {
+        "TravelLokaId": 165660,
+        "HotelName": "Hotel 81 Osaka",
+        "Country": "Singapore",
+        "City": "Tiong Bahru",
+        "Address": "1 Eng Hoon Street",
+        "Lat": 1.283361,
+        "Lng": 103.83498
+    },
+    {
+        "TravelLokaId": 165693,
+        "HotelName": "Studio M Hotel",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "3 Nanson Road",
+        "Lat": 1.290754,
+        "Lng": 103.839169
+    },
+    {
+        "TravelLokaId": 185969,
+        "HotelName": "Hotel 81 Lucky",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "23 Lorong 20 Geylang",
+        "Lat": 1.311957,
+        "Lng": 103.881426
+    },
+    {
+        "TravelLokaId": 185973,
+        "HotelName": "Hotel 81 Gold",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "20 Lorong 20 Geylang",
+        "Lat": 1.31259,
+        "Lng": 103.88114
+    },
+    {
+        "TravelLokaId": 186088,
+        "HotelName": "Asphodel Inn",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "(5 mins walk to Farrer Park MRT) 380 Race Course Road",
+        "Lat": 1.315129,
+        "Lng": 103.857255
+    },
+    {
+        "TravelLokaId": 186361,
+        "HotelName": "Perak Hotel",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "(besides Rochor MRT) 12 Perak Road",
+        "Lat": 1.304779,
+        "Lng": 103.85321
+    },
+    {
+        "TravelLokaId": 196024,
+        "HotelName": "Wanderlust, The Unlimited Collection by Oakwood",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "2 Dickson Road",
+        "Lat": 1.305121895,
+        "Lng": 103.854605746
+    },
+    {
+        "TravelLokaId": 216234,
+        "HotelName": "ibis budget Singapore Bugis",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "33 Middle Road, 188942 Singapura, Singapura",
+        "Lat": 1.297009,
+        "Lng": 103.855585
+    },
+    {
+        "TravelLokaId": 237427,
+        "HotelName": "Park Regis Singapore",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "23 Merchant Road",
+        "Lat": 1.287719,
+        "Lng": 103.845113
+    },
+    {
+        "TravelLokaId": 237531,
+        "HotelName": "Hotel Fort Canning",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "11 Canning Walk",
+        "Lat": 1.295955,
+        "Lng": 103.845493
+    },
+    {
+        "TravelLokaId": 239470,
+        "HotelName": "Hotel 81 Kovan",
+        "Country": "Singapore",
+        "City": "Serangoon",
+        "Address": "768 Upper Serangoon Road",
+        "Lat": 1.354178,
+        "Lng": 103.878897
+    },
+    {
+        "TravelLokaId": 246347,
+        "HotelName": "Hotel Conforto",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "16 Carpenter Street",
+        "Lat": 1.288207,
+        "Lng": 103.847816
+    },
+    {
+        "TravelLokaId": 247609,
+        "HotelName": "7 Wonders Capsule Hostel @ Jalan Besar",
+        "Country": "Singapore",
+        "City": "Kallang",
+        "Address": "(5 mins walk from Farrer Park MRT, 8 mins from Jalan Besar MRT) 257 Jalan Besar",
+        "Lat": 1.310073,
+        "Lng": 103.858287
+    },
+    {
+        "TravelLokaId": 254056,
+        "HotelName": "V Hotel Lavender",
+        "Country": "Singapore",
+        "City": "Lavender",
+        "Address": "70 Jellicoe Road",
+        "Lat": 1.307744,
+        "Lng": 103.862695
+    },
+    {
+        "TravelLokaId": 255009,
+        "HotelName": "Parc Sovereign Hotel – Albert St",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "175 Albert Street, 189970 Singapore, Singapore",
+        "Lat": 1.3035871,
+        "Lng": 103.8512415
+    },
+    {
+        "TravelLokaId": 255493,
+        "HotelName": "Far East Plaza Residences by Far East Hospitality",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "14 Scotts Road",
+        "Lat": 1.3071502,
+        "Lng": 103.8337132
+    },
+    {
+        "TravelLokaId": 256506,
+        "HotelName": "Oasia Hotel Novena, Singapore, by Far East Hospitality (SG Clean)",
+        "Country": "Singapore",
+        "City": "Novena",
+        "Address": "8 Sinaran Drive",
+        "Lat": 1.3200182,
+        "Lng": 103.8447218
+    },
+    {
+        "TravelLokaId": 272553,
+        "HotelName": "Hotel Snow Lavender",
+        "Country": "Singapore",
+        "City": "Lavender",
+        "Address": "26 Cavan Road",
+        "Lat": 1.31101,
+        "Lng": 103.861625
+    },
+    {
+        "TravelLokaId": 276827,
+        "HotelName": "Sofitel Singapore Sentosa Resort & Spa",
+        "Country": "Singapore",
+        "City": "Sentosa Island",
+        "Address": "2 Bukit Manis Road Singapore 099891",
+        "Lat": 1.245666,
+        "Lng": 103.8278285
+    },
+    {
+        "TravelLokaId": 286087,
+        "HotelName": "Hotel 81 Heritage",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "71 Jalan Sultan",
+        "Lat": 1.302679,
+        "Lng": 103.861321
+    },
+    {
+        "TravelLokaId": 286910,
+        "HotelName": "The Sultan",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "(6-10 mins walk to nearest Nicoll Highway, Lavender & Bugis MRT stations) 101 Jalan Sultan #01-00",
+        "Lat": 1.30332,
+        "Lng": 103.861009
+    },
+    {
+        "TravelLokaId": 291266,
+        "HotelName": "ibis budget Singapore Clarke Quay",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "20 Hong Kong Street, 059663 Singapura, Singapura",
+        "Lat": 1.2879125,
+        "Lng": 103.8471873
+    },
+    {
+        "TravelLokaId": 291267,
+        "HotelName": "Fragrance Hotel - Kovan",
+        "Country": "Singapore",
+        "City": "Serangoon",
+        "Address": "760 Upper Serangoon Road",
+        "Lat": 1.354111,
+        "Lng": 103.878728
+    },
+    {
+        "TravelLokaId": 294325,
+        "HotelName": "Fragrance Hotel - Classic",
+        "Country": "Singapore",
+        "City": "Novena",
+        "Address": "418 Balestier Road",
+        "Lat": 1.325831,
+        "Lng": 103.849595
+    },
+    {
+        "TravelLokaId": 294326,
+        "HotelName": "Fragrance Hotel - Balestier",
+        "Country": "Singapore",
+        "City": "Novena",
+        "Address": "(5 mins ride to Novena, Farrer Park & Boon Keng MRT stations) 255 Balestier Road",
+        "Lat": 1.321973,
+        "Lng": 103.852682
+    },
+    {
+        "TravelLokaId": 294327,
+        "HotelName": "Fragrance Hotel - Viva",
+        "Country": "Singapore",
+        "City": "HarbourFront",
+        "Address": "(8 mins walk to Telok Blangah MRT & Mount Faber Park, 5 minutes bus to Vivocity Shopping Mall) 75 Wishart Road",
+        "Lat": 1.269877,
+        "Lng": 103.813938
+    },
+    {
+        "TravelLokaId": 294328,
+        "HotelName": "Fragrance Hotel - Lavender",
+        "Country": "Singapore",
+        "City": "Lavender",
+        "Address": "(5 mins walk to Lavender MRT station) 51 Lavender Street",
+        "Lat": 1.309958,
+        "Lng": 103.8631
+    },
+    {
+        "TravelLokaId": 296332,
+        "HotelName": "Travelodge Harbourfront Singapore",
+        "Country": "Singapore",
+        "City": "HarbourFront",
+        "Address": "50 Telok Blangah Road",
+        "Lat": 1.266384,
+        "Lng": 103.823796
+    },
+    {
+        "TravelLokaId": 298765,
+        "HotelName": "Hotel 81 Balestier",
+        "Country": "Singapore",
+        "City": "Novena",
+        "Address": "226 Balestier Road",
+        "Lat": 1.321337,
+        "Lng": 103.853125
+    },
+    {
+        "TravelLokaId": 299561,
+        "HotelName": "Orchard Scotts Residences by Far East Hospitality",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "5 Anthony Road",
+        "Lat": 1.3099,
+        "Lng": 103.8369221
+    },
+    {
+        "TravelLokaId": 299593,
+        "HotelName": "Kam Leng Hotel",
+        "Country": "Singapore",
+        "City": "Kallang",
+        "Address": "383 Jalan Besar",
+        "Lat": 1.313215,
+        "Lng": 103.859734
+    },
+    {
+        "TravelLokaId": 300604,
+        "HotelName": "Lanson Place Winsland, Singapore (SG Clean)",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "(5 mins walk to Dhoby Ghaut & Somerset MRT station) 167 Penang Road",
+        "Lat": 1.2999301,
+        "Lng": 103.840511
+    },
+    {
+        "TravelLokaId": 335555,
+        "HotelName": "Capri by Fraser, Changi City",
+        "Country": "Singapore",
+        "City": "Changi",
+        "Address": "(3 minutes walk to Expo MRT station, 5 minutes drive to Changi airport) 3 Changi Business Park Central 1",
+        "Lat": 1.334117,
+        "Lng": 103.96367
+    },
+    {
+        "TravelLokaId": 393838,
+        "HotelName": "Days Hotel Singapore At Zhongshan Park",
+        "Country": "Singapore",
+        "City": "Novena",
+        "Address": "1 Jalan Rajah",
+        "Lat": 1.326925,
+        "Lng": 103.84737
+    },
+    {
+        "TravelLokaId": 394557,
+        "HotelName": "GUSTI Bed & Breakfast Singapore",
+        "Country": "Singapore",
+        "City": "Lavender",
+        "Address": "30A, B, C, Penhas Road",
+        "Lat": 1.30943,
+        "Lng": 103.862516
+    },
+    {
+        "TravelLokaId": 401178,
+        "HotelName": "Bliss Hotel Singapore (Staycation Approved)",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "62 Upper Cross Street",
+        "Lat": 1.284538,
+        "Lng": 103.844343
+    },
+    {
+        "TravelLokaId": 407120,
+        "HotelName": "PARKROYAL COLLECTION Pickering, Singapore",
+        "Country": "Singapore",
+        "City": "Marina Bay",
+        "Address": "3 Upper Pickering Street",
+        "Lat": 1.2856837,
+        "Lng": 103.8461793
+    },
+    {
+        "TravelLokaId": 408551,
+        "HotelName": "Dorsett Singapore",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "333 New Bridge Road",
+        "Lat": 1.279665,
+        "Lng": 103.840117
+    },
+    {
+        "TravelLokaId": 409796,
+        "HotelName": "Ramada Singapore At Zhongshan Park",
+        "Country": "Singapore",
+        "City": "Novena",
+        "Address": "16 Ah Hood Road",
+        "Lat": 1.326815,
+        "Lng": 103.846526
+    },
+    {
+        "TravelLokaId": 410039,
+        "HotelName": "Park Avenue Changi",
+        "Country": "Singapore",
+        "City": "Changi",
+        "Address": "2 Changi Business Park Avenue 1",
+        "Lat": 1.335836,
+        "Lng": 103.963296
+    },
+    {
+        "TravelLokaId": 410565,
+        "HotelName": "Hotel Clover 769 North Bridge Road",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "769 North Bridge Road",
+        "Lat": 1.303531,
+        "Lng": 103.859706
+    },
+    {
+        "TravelLokaId": 433173,
+        "HotelName": "V Hotel Bencoolen",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "48 Bencoolen Street",
+        "Lat": 1.299075,
+        "Lng": 103.850718
+    },
+    {
+        "TravelLokaId": 446168,
+        "HotelName": "Pan Pacific Serviced Suites Beach Road",
+        "Country": "Singapore",
+        "City": "Marina Bay",
+        "Address": "7500B Beach Road",
+        "Lat": 1.2995208,
+        "Lng": 103.8600482
+    },
+    {
+        "TravelLokaId": 460426,
+        "HotelName": "Carlton City Hotel Singapore",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "1 Gopeng Street",
+        "Lat": 1.275987,
+        "Lng": 103.843716
+    },
+    {
+        "TravelLokaId": 461887,
+        "HotelName": "Hotel Miramar Singapore",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "401 Havelock Road",
+        "Lat": 1.28831,
+        "Lng": 103.837407
+    },
+    {
+        "TravelLokaId": 470453,
+        "HotelName": "Jayleen 1918 Hotel",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "42 Carpenter Street, Boat Quay",
+        "Lat": 1.287786,
+        "Lng": 103.8481
+    },
+    {
+        "TravelLokaId": 479243,
+        "HotelName": "The Pod @ Beach Road Boutique Capsule Hotel",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "289 Beach Road",
+        "Lat": 1.300974011,
+        "Lng": 103.860580444
+    },
+    {
+        "TravelLokaId": 488688,
+        "HotelName": "Village Hotel Katong by Far East Hospitality (SG Clean)",
+        "Country": "Singapore",
+        "City": "East Coast",
+        "Address": "25 Marine Parade Road",
+        "Lat": 1.3016931,
+        "Lng": 103.9033742
+    },
+    {
+        "TravelLokaId": 489470,
+        "HotelName": "Duxton Reserve Singapore, Autograph Collection by Marriott Hotels",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "83 Duxton Road",
+        "Lat": 1.2786983,
+        "Lng": 103.84319
+    },
+    {
+        "TravelLokaId": 489889,
+        "HotelName": "AMOY by Far East Hospitality (SG Clean)",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "76 Telok Ayer Street",
+        "Lat": 1.2829025,
+        "Lng": 103.8487312
+    },
+    {
+        "TravelLokaId": 522329,
+        "HotelName": "One Farrer Hotel",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "1 Farrer Park Station Road",
+        "Lat": 1.3127619,
+        "Lng": 103.8545562
+    },
+    {
+        "TravelLokaId": 523011,
+        "HotelName": "Sandpiper Hotel @ Little India",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "63 Dunlop Street",
+        "Lat": 1.304806,
+        "Lng": 103.853621
+    },
+    {
+        "TravelLokaId": 542502,
+        "HotelName": "Changi Cove",
+        "Country": "Singapore",
+        "City": "Changi",
+        "Address": "351 Cranwell Road",
+        "Lat": 1.38944,
+        "Lng": 103.97521
+    },
+    {
+        "TravelLokaId": 547148,
+        "HotelName": "Drop Inn Singapore",
+        "Country": "Singapore",
+        "City": "Lavender",
+        "Address": "247 Lavender Street",
+        "Lat": 1.31538,
+        "Lng": 103.859239
+    },
+    {
+        "TravelLokaId": 569650,
+        "HotelName": "Hotel NuVe Bugis",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "9A - 13 Jalan Pinang",
+        "Lat": 1.302721,
+        "Lng": 103.85832
+    },
+    {
+        "TravelLokaId": 611406,
+        "HotelName": "Hotel Clover The Arts",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "58 South Bridge Road",
+        "Lat": 1.287453,
+        "Lng": 103.848225
+    },
+    {
+        "TravelLokaId": 10754600000,
+        "HotelName": "Holiday Inn SINGAPORE ORCHARD CITY CENTRE",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "11 Cavenagh Road",
+        "Lat": 1.302358,
+        "Lng": 103.841014
+    },
+    {
+        "TravelLokaId": 14096000000,
+        "HotelName": "Holiday Inn SINGAPORE ATRIUM",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "317 Outram Road",
+        "Lat": 1.289536,
+        "Lng": 103.834
+    },
+    {
+        "TravelLokaId": 17270300000,
+        "HotelName": "Oxford Hotel",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "218 Queen Street",
+        "Lat": 1.297916,
+        "Lng": 103.851863
+    },
+    {
+        "TravelLokaId": 21338400000,
+        "HotelName": "Mandarin Oriental, Singapore",
+        "Country": "Singapore",
+        "City": "Marina Bay",
+        "Address": "5 Raffles Ave, Marina Square",
+        "Lat": 1.2908185,
+        "Lng": 103.8582972
+    },
+    {
+        "TravelLokaId": 27061300000,
+        "HotelName": "Crowne Plaza CHANGI AIRPORT",
+        "Country": "Singapore",
+        "City": "Changi",
+        "Address": "75 Airport Boulevard 01-01",
+        "Lat": 1.358654,
+        "Lng": 103.985833
+    },
+    {
+        "TravelLokaId": 36808800000,
+        "HotelName": "Venue Hotel The Lily",
+        "Country": "Singapore",
+        "City": "East Coast",
+        "Address": "238 Joo Chiat Road",
+        "Lat": 1.311564,
+        "Lng": 103.900613
+    },
+    {
+        "TravelLokaId": 43579200000,
+        "HotelName": "Holiday Inn Express SINGAPORE ORCHARD ROAD",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "20 Bideford Road",
+        "Lat": 1.30335,
+        "Lng": 103.83661
+    },
+    {
+        "TravelLokaId": 43943800000,
+        "HotelName": "Holiday Inn Express SINGAPORE CLARKE QUAY",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "2 Magazine Road",
+        "Lat": 1.288906,
+        "Lng": 103.842114
+    },
+    {
+        "TravelLokaId": 44807000000,
+        "HotelName": "Hotel NuVe Heritage",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "13 Purvis Street",
+        "Lat": 1.296525,
+        "Lng": 103.855243
+    },
+    {
+        "TravelLokaId": 45605400000,
+        "HotelName": "YMCA @ One Orchard",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "One Orchard Road",
+        "Lat": 1.2976348,
+        "Lng": 103.8479932
+    },
+    {
+        "TravelLokaId": 1000000134927,
+        "HotelName": "Village Hotel Bugis by Far East Hospitality (SG Clean)",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "390 Victoria Street",
+        "Lat": 1.3019085,
+        "Lng": 103.8578808
+    },
+    {
+        "TravelLokaId": 1000000191920,
+        "HotelName": "InterContinental Hotels SINGAPORE ROBERTSON QUAY",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "1 Nanson Road",
+        "Lat": 1.290267,
+        "Lng": 103.836492
+    },
+    {
+        "TravelLokaId": 1000000223585,
+        "HotelName": "Hotel Bencoolen Singapore",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "47 Bencoolen Street",
+        "Lat": 1.299255,
+        "Lng": 103.850181
+    },
+    {
+        "TravelLokaId": 1000000462882,
+        "HotelName": "Arton Boutique Hotel",
+        "Country": "Singapore",
+        "City": "Lavender",
+        "Address": "176 Tyrwhitt Road",
+        "Lat": 1.312181,
+        "Lng": 103.860859
+    },
+    {
+        "TravelLokaId": 1000000463060,
+        "HotelName": "Wink @ Mosque Street",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "8A Mosque Street",
+        "Lat": 1.28394,
+        "Lng": 103.844209
+    },
+    {
+        "TravelLokaId": 1000000464363,
+        "HotelName": "Orchid Hotel",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "1 Tras Link",
+        "Lat": 1.276922,
+        "Lng": 103.843911
+    },
+    {
+        "TravelLokaId": 1000000469108,
+        "HotelName": "Quarters Capsule Hostel",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "12 Circular Road",
+        "Lat": 1.287764,
+        "Lng": 103.849022
+    },
+    {
+        "TravelLokaId": 1000000469976,
+        "HotelName": "Gap Year Hostel",
+        "Country": "Singapore",
+        "City": "Lavender",
+        "Address": "322 Lavender Street",
+        "Lat": 1.315698,
+        "Lng": 103.859373
+    },
+    {
+        "TravelLokaId": 1000000470121,
+        "HotelName": "Coziee Lodge",
+        "Country": "Singapore",
+        "City": "Kallang",
+        "Address": "77A & No.79A Geylang Road",
+        "Lat": 1.310747,
+        "Lng": 103.872796
+    },
+    {
+        "TravelLokaId": 1000000471735,
+        "HotelName": "Royal Hostel Singapore",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "73A Pagoda Street",
+        "Lat": 1.283685,
+        "Lng": 103.8437405
+    },
+    {
+        "TravelLokaId": 1000000473763,
+        "HotelName": "J8 Hotel Singapore",
+        "Country": "Singapore",
+        "City": "Lavender",
+        "Address": "No. 8 Townshend Road, #01-01",
+        "Lat": 1.307622,
+        "Lng": 103.858464
+    },
+    {
+        "TravelLokaId": 1000000474034,
+        "HotelName": "Joyfor Backpackers' Hostel",
+        "Country": "Singapore",
+        "City": "Kallang",
+        "Address": "135 Geylang Road",
+        "Lat": 1.311096,
+        "Lng": 103.87394
+    },
+    {
+        "TravelLokaId": 1000000474747,
+        "HotelName": "JEN Singapore Orchardgateway by Shangri-La",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "277 Orchard Road",
+        "Lat": 1.30088,
+        "Lng": 103.83883
+    },
+    {
+        "TravelLokaId": 1000000475431,
+        "HotelName": "iStay.inn Singapore",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "211A-217A South Bridge Road",
+        "Lat": 1.282947,
+        "Lng": 103.845905
+    },
+    {
+        "TravelLokaId": 1000000476868,
+        "HotelName": "Beary Best! Chinatown",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "16 Upper Cross Street",
+        "Lat": 1.2838713,
+        "Lng": 103.8453925
+    },
+    {
+        "TravelLokaId": 1000000478806,
+        "HotelName": "The Hive Singapore Hostel",
+        "Country": "Singapore",
+        "City": "Lavender",
+        "Address": "624A Serangoon Road",
+        "Lat": 1.3157216,
+        "Lng": 103.8587447
+    },
+    {
+        "TravelLokaId": 1000000480883,
+        "HotelName": "Heritage @ Clarke Quay",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "80 Boat Quay",
+        "Lat": 1.288429,
+        "Lng": 103.849282
+    },
+    {
+        "TravelLokaId": 1000000484754,
+        "HotelName": "JW Marriott Hotel Singapore South Beach",
+        "Country": "Singapore",
+        "City": "Marina Bay",
+        "Address": "30 Beach Road, Access via Nicoll Highway",
+        "Lat": 1.2947842,
+        "Lng": 103.856524
+    },
+    {
+        "TravelLokaId": 1000000490243,
+        "HotelName": "Louis Kienne Serviced Residences - Havelock",
+        "Country": "Singapore",
+        "City": "Tiong Bahru",
+        "Address": "554 Havelock Road",
+        "Lat": 1.289534,
+        "Lng": 103.831444
+    },
+    {
+        "TravelLokaId": 1000000493782,
+        "HotelName": "Champion Hotel",
+        "Country": "Singapore",
+        "City": "East Coast",
+        "Address": "60 Joo Chiat Road #01-06",
+        "Lat": 1.314776,
+        "Lng": 103.898389
+    },
+    {
+        "TravelLokaId": 1000000494173,
+        "HotelName": "Spacepod@Lavender",
+        "Country": "Singapore",
+        "City": "Lavender",
+        "Address": "111J King George's Avenue",
+        "Lat": 1.310309,
+        "Lng": 103.861729
+    },
+    {
+        "TravelLokaId": 1000000494183,
+        "HotelName": "Traveller@SG",
+        "Country": "Singapore",
+        "City": "Lavender",
+        "Address": "111H King George's Avenue",
+        "Lat": 1.310479,
+        "Lng": 103.861821
+    },
+    {
+        "TravelLokaId": 1000000497700,
+        "HotelName": "PARKROYAL Serviced Suites Singapore",
+        "Country": "Singapore",
+        "City": "Marina Bay",
+        "Address": "7500A Beach Road, The Plaza #01-345/346",
+        "Lat": 1.299782,
+        "Lng": 103.860659
+    },
+    {
+        "TravelLokaId": 1000000497713,
+        "HotelName": "Resorts World Sentosa - Equarius Villas",
+        "Country": "Singapore",
+        "City": "Sentosa Island",
+        "Address": "(Buggy Service around the resort) 8 Sentosa Gateway, Sentosa Island",
+        "Lat": 1.256752,
+        "Lng": 103.820331
+    },
+    {
+        "TravelLokaId": 1000000502029,
+        "HotelName": "Pan Pacific Serviced Suites Orchard",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "96 Somerset Road",
+        "Lat": 1.3009596,
+        "Lng": 103.8378805
+    },
+    {
+        "TravelLokaId": 1000000502230,
+        "HotelName": "Resorts World Sentosa - Equarius Hotel",
+        "Country": "Singapore",
+        "City": "Sentosa Island",
+        "Address": "(10 mins walk to Universal Studios Singapore) 8 Sentosa Gateway, Sentosa Island",
+        "Lat": 1.2580521,
+        "Lng": 103.816643
+    },
+    {
+        "TravelLokaId": 1000000504686,
+        "HotelName": "Resorts World Sentosa - Hard Rock Hotel",
+        "Country": "Singapore",
+        "City": "Sentosa Island",
+        "Address": "(7 mins walk from Universal Studios Singapore) 8 Sentosa Gateway, Sentosa Island",
+        "Lat": 1.256752,
+        "Lng": 103.820331
+    },
+    {
+        "TravelLokaId": 1000000504700,
+        "HotelName": "Resorts World Sentosa - Hotel Michael",
+        "Country": "Singapore",
+        "City": "Sentosa Island",
+        "Address": "(7 mins walk to Universal Studios Singapore) 8 Sentosa Gateway, Sentosa Island",
+        "Lat": 1.256752,
+        "Lng": 103.820331
+    },
+    {
+        "TravelLokaId": 1000000506665,
+        "HotelName": "Great World Serviced Apartments",
+        "Country": "Singapore",
+        "City": "River Valley",
+        "Address": "2 Kim Seng Walk",
+        "Lat": 1.294688,
+        "Lng": 103.831787
+    },
+    {
+        "TravelLokaId": 1000000507739,
+        "HotelName": "CUBE Family Boutique Capsule Hotel @ Chinatown",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "68A Smith Street",
+        "Lat": 1.28304,
+        "Lng": 103.84321
+    },
+    {
+        "TravelLokaId": 1000000507743,
+        "HotelName": "City Backpackers @ Hongkong Street",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "18 Hongkong Street",
+        "Lat": 1.2878,
+        "Lng": 103.847301
+    },
+    {
+        "TravelLokaId": 1000000509302,
+        "HotelName": "Villa Samadhi Singapore by Samadhi – Adults Only",
+        "Country": "Singapore",
+        "City": "HarbourFront",
+        "Address": "20, Labrador Villa Road",
+        "Lat": 1.26889,
+        "Lng": 103.800995
+    },
+    {
+        "TravelLokaId": 1000000511485,
+        "HotelName": "Village Residence Hougang by Far East Hospitality",
+        "Country": "Singapore",
+        "City": "Serangoon",
+        "Address": "1 Hougang Street 91",
+        "Lat": 1.3758021,
+        "Lng": 103.8794307
+    },
+    {
+        "TravelLokaId": 1000000511486,
+        "HotelName": "Village Residence West Coast by Far East Hospitality",
+        "Country": "Singapore",
+        "City": "West Coast",
+        "Address": "154 West Coast Road",
+        "Lat": 1.3038431,
+        "Lng": 103.7662917
+    },
+    {
+        "TravelLokaId": 1000000512346,
+        "HotelName": "Triple 2 Studio",
+        "Country": "Singapore",
+        "City": "Central Business District",
+        "Address": "231 Cantonment Road",
+        "Lat": 1.2752308,
+        "Lng": 103.8410683
+    },
+    {
+        "TravelLokaId": 1000000528618,
+        "HotelName": "The Capitol Kempinski Hotel Singapore",
+        "Country": "Singapore",
+        "City": "Marina Bay",
+        "Address": "15 Stamford Road",
+        "Lat": 1.2938971,
+        "Lng": 103.8515804
+    },
+    {
+        "TravelLokaId": 1000000529223,
+        "HotelName": "Aqueen Hotel Paya Lebar (SG Clean, Staycation Approved)",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "33 Jalan Afifi",
+        "Lat": 1.322156,
+        "Lng": 103.891539
+    },
+    {
+        "TravelLokaId": 1000000531486,
+        "HotelName": "Chic Capsule Otel",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "(3 mins walk to Chinatown MRT) 13 Mosque Street",
+        "Lat": 1.283945,
+        "Lng": 103.844426
+    },
+    {
+        "TravelLokaId": 1000000536328,
+        "HotelName": "The Vagabond Club Singapore",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "39 Syed Alwi Road",
+        "Lat": 1.306965,
+        "Lng": 103.858287
+    },
+    {
+        "TravelLokaId": 1000000539317,
+        "HotelName": "Mori Hostel Singapore",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "429 Race Course Rd",
+        "Lat": 1.315956,
+        "Lng": 103.8575749
+    },
+    {
+        "TravelLokaId": 1000000545693,
+        "HotelName": "Hotel Fuji",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "22 Jalan Molek (off Geylang Lorong 24)",
+        "Lat": 1.311718,
+        "Lng": 103.882699
+    },
+    {
+        "TravelLokaId": 1000000546469,
+        "HotelName": "BudgetOne Hotel",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "10 Lorong 18 Geylang",
+        "Lat": 1.312279,
+        "Lng": 103.880505
+    },
+    {
+        "TravelLokaId": 1000000547379,
+        "HotelName": "MKS Backpackers Hostel - Dalhousie Lane",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "11 Dalhousine Lane",
+        "Lat": 1.304985,
+        "Lng": 103.852135
+    },
+    {
+        "TravelLokaId": 1000000547380,
+        "HotelName": "MKS Backpackers Hostel - Campbell Lane",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "36 Campbell Lane",
+        "Lat": 1.305244,
+        "Lng": 103.8525
+    },
+    {
+        "TravelLokaId": 1000000547382,
+        "HotelName": "MKS Backpackers Hostel - Cuff Road",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "44 Cuff Road",
+        "Lat": 1.306883,
+        "Lng": 103.85351
+    },
+    {
+        "TravelLokaId": 1000000547491,
+        "HotelName": "Hotel YAN (SG Clean, Staycation Approved)",
+        "Country": "Singapore",
+        "City": "Lavender",
+        "Address": "162 Tyrwhitt Road",
+        "Lat": 1.31179,
+        "Lng": 103.860475
+    },
+    {
+        "TravelLokaId": 1000000548205,
+        "HotelName": "Capsule Pod Boutique Hostel",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "38 Upper Cross Street #02-01 & #03-01",
+        "Lat": 1.284167,
+        "Lng": 103.844889
+    },
+    {
+        "TravelLokaId": 1000000553768,
+        "HotelName": "Ark Hostel",
+        "Country": "Singapore",
+        "City": "Kallang",
+        "Address": "89 Geylang Road",
+        "Lat": 1.310833,
+        "Lng": 103.873136
+    },
+    {
+        "TravelLokaId": 1000000554710,
+        "HotelName": "BEAT. Capsule Hostel @ Boat Quay",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "50A Boat Quay",
+        "Lat": 1.287054,
+        "Lng": 103.849358
+    },
+    {
+        "TravelLokaId": 1000000555794,
+        "HotelName": "Hotel Grand Central (SG Clean, Staycation Approved)",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "22 Cavenagh Road / Orchard Road",
+        "Lat": 1.301349,
+        "Lng": 103.841687
+    },
+    {
+        "TravelLokaId": 1000000556184,
+        "HotelName": "The Haven by JetQuay",
+        "Country": "Singapore",
+        "City": "Changi",
+        "Address": "65 Airport Boulevard Changi Airport Terminal 3, #01-18",
+        "Lat": 1.351415,
+        "Lng": 103.984879
+    },
+    {
+        "TravelLokaId": 1000000556722,
+        "HotelName": "Hotel 165",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "165 Kitchener Road",
+        "Lat": 1.310619,
+        "Lng": 103.856334
+    },
+    {
+        "TravelLokaId": 1000000558059,
+        "HotelName": "Seng Wah Hotel",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "15 Lorong 22 Geylang",
+        "Lat": 1.312443,
+        "Lng": 103.882303
+    },
+    {
+        "TravelLokaId": 1000000558935,
+        "HotelName": "The Amazing Inn",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "1 Lorong 14 Geylang",
+        "Lat": 1.312242,
+        "Lng": 103.879182
+    },
+    {
+        "TravelLokaId": 1000000559018,
+        "HotelName": "Aerotel Singapore Transit Hotel @ Changi Terminal 1",
+        "Country": "Singapore",
+        "City": "Changi",
+        "Address": "(Inside Changi Airport Terminal 1 Transit Duty-Free area) Level 3, Departure Transit Lounge, Terminal 1 (above Gate D41), Singapore Changi Airport",
+        "Lat": 1.362178,
+        "Lng": 103.990053
+    },
+    {
+        "TravelLokaId": 1000000564077,
+        "HotelName": "Bright Star Hotel",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "No. 20 Lorong 17",
+        "Lat": 1.3142919,
+        "Lng": 103.8784257
+    },
+    {
+        "TravelLokaId": 1000000565442,
+        "HotelName": "Shangri-La Apartments",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "1 Anderson Road",
+        "Lat": 1.309444,
+        "Lng": 103.826661
+    },
+    {
+        "TravelLokaId": 1000000569073,
+        "HotelName": "Holiday Inn Express SINGAPORE KATONG",
+        "Country": "Singapore",
+        "City": "East Coast",
+        "Address": "88 East Coast Road",
+        "Lat": 1.304545,
+        "Lng": 103.904748
+    },
+    {
+        "TravelLokaId": 1000000571149,
+        "HotelName": "Ambassador Transit Hotel Terminal 2",
+        "Country": "Singapore",
+        "City": "Changi",
+        "Address": "(Inside Changi Airport Terminal 2 Transit Duty-Free area) 036-162, Departure Transit Lounge South, Level 3 Singapore Changi Airport",
+        "Lat": 1.355169,
+        "Lng": 103.988879
+    },
+    {
+        "TravelLokaId": 1000000573483,
+        "HotelName": "Hotel Indigo SINGAPORE KATONG",
+        "Country": "Singapore",
+        "City": "East Coast",
+        "Address": "86 East Coast Road",
+        "Lat": 1.304306,
+        "Lng": 103.904831
+    },
+    {
+        "TravelLokaId": 1000000575635,
+        "HotelName": "River City Inn",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "33C Hongkong Street",
+        "Lat": 1.287447,
+        "Lng": 103.847213
+    },
+    {
+        "TravelLokaId": 1000000589133,
+        "HotelName": "Oasia Hotel Downtown, Singapore, by Far East Hospitality (SG Clean)",
+        "Country": "Singapore",
+        "City": "Central Business District",
+        "Address": "100 Peck Seah Street",
+        "Lat": 1.2758528,
+        "Lng": 103.8443611
+    },
+    {
+        "TravelLokaId": 1000000591158,
+        "HotelName": "M Social Singapore",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "90 Robertson Quay",
+        "Lat": 1.290682,
+        "Lng": 103.837227
+    },
+    {
+        "TravelLokaId": 1000000601899,
+        "HotelName": "RM Hotel Singapore",
+        "Country": "Singapore",
+        "City": "Jurong",
+        "Address": "10 Tuas West Drive",
+        "Lat": 1.3414422,
+        "Lng": 103.6353134
+    },
+    {
+        "TravelLokaId": 1000000608706,
+        "HotelName": "Thad's Boutique Hostel",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "259 Outram Road",
+        "Lat": 1.285044,
+        "Lng": 103.834854
+    },
+    {
+        "TravelLokaId": 1000000622829,
+        "HotelName": "Resorts World Sentosa - Crockfords Tower",
+        "Country": "Singapore",
+        "City": "Sentosa Island",
+        "Address": "(5 mins walk to Universal Studios Singapore) 8 Sentosa Gateway, Sentosa Island",
+        "Lat": 1.256752,
+        "Lng": 103.820331
+    },
+    {
+        "TravelLokaId": 1000000623614,
+        "HotelName": "Oasia Residence Singapore by Far East Hospitality",
+        "Country": "Singapore",
+        "City": "West Coast",
+        "Address": "123 West Coast Crescent",
+        "Lat": 1.2992735,
+        "Lng": 103.7648747
+    },
+    {
+        "TravelLokaId": 1000000648492,
+        "HotelName": "Hotel Mono",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "18 Mosque Street",
+        "Lat": 1.283821,
+        "Lng": 103.8446001
+    },
+    {
+        "TravelLokaId": 1000000666386,
+        "HotelName": "five/6 Hotel Splendour",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "5 Lorong 6 Geylang",
+        "Lat": 1.3114873,
+        "Lng": 103.8765088
+    },
+    {
+        "TravelLokaId": 1000000853738,
+        "HotelName": "HI Hotel BUGIS",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "11 Jalan Klapa",
+        "Lat": 1.304325,
+        "Lng": 103.859722
+    },
+    {
+        "TravelLokaId": 1000001137345,
+        "HotelName": "Six Senses Maxwell",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "2 Cook Street",
+        "Lat": 1.2795427,
+        "Lng": 103.8444857
+    },
+    {
+        "TravelLokaId": 1000001627416,
+        "HotelName": "Village Hotel Sentosa by Far East Hospitality (SG Clean)",
+        "Country": "Singapore",
+        "City": "Sentosa Island",
+        "Address": "10 Artillery Avenue #02-01",
+        "Lat": 1.2536829,
+        "Lng": 103.8204015
+    },
+    {
+        "TravelLokaId": 1000001627933,
+        "HotelName": "The Outpost Hotel Sentosa by Far East Hospitality (SG Clean)",
+        "Country": "Singapore",
+        "City": "Sentosa Island",
+        "Address": "10 Artillery Avenue, Sentosa Island",
+        "Lat": 1.2536829,
+        "Lng": 103.8204015
+    },
+    {
+        "TravelLokaId": 2000000074283,
+        "HotelName": "Hotel Grand Pacific",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "101 Victoria Street",
+        "Lat": 1.297511,
+        "Lng": 103.852747
+    },
+    {
+        "TravelLokaId": 2000000074299,
+        "HotelName": "Hotel Royal @ Queens",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "12 Queen Street",
+        "Lat": 1.297574,
+        "Lng": 103.85225
+    },
+    {
+        "TravelLokaId": 2000000074323,
+        "HotelName": "York Hotel",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "21 Mount Elizabeth",
+        "Lat": 1.3071446,
+        "Lng": 103.8353228
+    },
+    {
+        "TravelLokaId": 2000000081079,
+        "HotelName": "Summer View Hotel (SG Clean and Staycation Approved)",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "173 Bencoolen Street",
+        "Lat": 1.301627,
+        "Lng": 103.852363
+    },
+    {
+        "TravelLokaId": 2000000107491,
+        "HotelName": "Holiday Inn Express SINGAPORE SERANGOON",
+        "Country": "Singapore",
+        "City": "Kallang",
+        "Address": "270 Jalan Besar",
+        "Lat": 1.310223,
+        "Lng": 103.858662
+    },
+    {
+        "TravelLokaId": 2000000133417,
+        "HotelName": "The Quay Hotel West Coast",
+        "Country": "Singapore",
+        "City": "HarbourFront",
+        "Address": "428 Pasir Panjang Road",
+        "Lat": 1.292323,
+        "Lng": 103.768629
+    },
+    {
+        "TravelLokaId": 2000000156654,
+        "HotelName": "Hotel 81 Cosy",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "8 Jiak Chuan Road",
+        "Lat": 1.27972,
+        "Lng": 103.841901
+    },
+    {
+        "TravelLokaId": 2000000156796,
+        "HotelName": "Hotel Supreme",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "15 Kramat Road",
+        "Lat": 1.301317,
+        "Lng": 103.842555
+    },
+    {
+        "TravelLokaId": 2000000160865,
+        "HotelName": "Village Residence Robertson Quay by Far East Hospitality",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "30 Robertson Quay",
+        "Lat": 1.291333,
+        "Lng": 103.8414166
+    },
+    {
+        "TravelLokaId": 2000000161052,
+        "HotelName": "Metropolitan YMCA Singapore",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "60 Stevens Road",
+        "Lat": 1.316581,
+        "Lng": 103.826595
+    },
+    {
+        "TravelLokaId": 2000000187327,
+        "HotelName": "Santa Grand Hotel East Coast",
+        "Country": "Singapore",
+        "City": "East Coast",
+        "Address": "171 East Coast Road",
+        "Lat": 1.306797,
+        "Lng": 103.905831
+    },
+    {
+        "TravelLokaId": 2000000189288,
+        "HotelName": "The Seacare Hotel",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "52 Chin Swee Road (Off Jalan Kukoh)",
+        "Lat": 1.287809,
+        "Lng": 103.839969
+    },
+    {
+        "TravelLokaId": 2000000190349,
+        "HotelName": "Capsules @ The Little Red Dot Singapore",
+        "Country": "Singapore",
+        "City": "Lavender",
+        "Address": "125 Lavender Street",
+        "Lat": 1.312145,
+        "Lng": 103.861573
+    },
+    {
+        "TravelLokaId": 2000000215814,
+        "HotelName": "Checkers Backpackers",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "58 Dunlop Street",
+        "Lat": 1.305062,
+        "Lng": 103.853439
+    },
+    {
+        "TravelLokaId": 2000000230887,
+        "HotelName": "Vintage Inn Boutique Capsule @ Little India",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "60 Race Course Road",
+        "Lat": 1.308542,
+        "Lng": 103.851034
+    },
+    {
+        "TravelLokaId": 2000000231451,
+        "HotelName": "Park Avenue Rochester",
+        "Country": "Singapore",
+        "City": "HarbourFront",
+        "Address": "31 Rochester Drive",
+        "Lat": 1.305047,
+        "Lng": 103.788859
+    },
+    {
+        "TravelLokaId": 2000000231454,
+        "HotelName": "Le Grove Serviced Residences (SG Clean)",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "32 Orange Grove Road",
+        "Lat": 1.313477,
+        "Lng": 103.825638
+    },
+    {
+        "TravelLokaId": 2000000231456,
+        "HotelName": "Darlene Hotel",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "32 Lorong 8, Geylang",
+        "Lat": 1.310955,
+        "Lng": 103.876964
+    },
+    {
+        "TravelLokaId": 2000000231459,
+        "HotelName": "Vintage Inn @ Clarke Quay",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "33B Hong Kong Street",
+        "Lat": 1.2874674,
+        "Lng": 103.8471688
+    },
+    {
+        "TravelLokaId": 2000000231463,
+        "HotelName": "ONE15 Marina Club",
+        "Country": "Singapore",
+        "City": "Sentosa Island",
+        "Address": "11 Cove Drive, #01-01, Sentosa Cove",
+        "Lat": 1.2455573,
+        "Lng": 103.8398887
+    },
+    {
+        "TravelLokaId": 2000000231467,
+        "HotelName": "RELC International Hotel",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "30 Orange Grove Road",
+        "Lat": 1.313013,
+        "Lng": 103.826068
+    },
+    {
+        "TravelLokaId": 2000000231484,
+        "HotelName": "Aliwal Park Hotel",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "77/79 Aliwal St",
+        "Lat": 1.30352,
+        "Lng": 103.860191
+    },
+    {
+        "TravelLokaId": 2000000232402,
+        "HotelName": "Blanc Inn",
+        "Country": "Singapore",
+        "City": "Lavender",
+        "Address": "151 Tyrwhitt Road",
+        "Lat": 1.311751,
+        "Lng": 103.860214
+    },
+    {
+        "TravelLokaId": 2000000232587,
+        "HotelName": "G4 Station Backpackers Hostel",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "11 Mackenzie Road",
+        "Lat": 1.304361,
+        "Lng": 103.849881
+    },
+    {
+        "TravelLokaId": 2000000232661,
+        "HotelName": "Four Chain View Hotel",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "757 Geylang Road Lorong 39",
+        "Lat": 1.315024,
+        "Lng": 103.891043
+    },
+    {
+        "TravelLokaId": 2000000368016,
+        "HotelName": "Mercure Singapore Tyrwhitt",
+        "Country": "Singapore",
+        "City": "Lavender",
+        "Address": "165 Tyrwhitt Road, 207569 Singapore, Singapore",
+        "Lat": 1.3122769,
+        "Lng": 103.8606598
+    },
+    {
+        "TravelLokaId": 2000000402358,
+        "HotelName": "Genting Hotel Jurong",
+        "Country": "Singapore",
+        "City": "Jurong",
+        "Address": "(24-hour shuttle service to Resorts World Sentosa) 2 Town Hall Link",
+        "Lat": 1.331365,
+        "Lng": 103.739439
+    },
+    {
+        "TravelLokaId": 2000000404779,
+        "HotelName": "Hotel Chancellor@Orchard",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "28 Cavenagh Road",
+        "Lat": 1.301193,
+        "Lng": 103.842194
+    },
+    {
+        "TravelLokaId": 2000000585143,
+        "HotelName": "Sofitel Singapore City Centre",
+        "Country": "Singapore",
+        "City": "Central Business District",
+        "Address": "9 Wallich Street, 078885 SINGAPORE, Singapore",
+        "Lat": 1.2768338,
+        "Lng": 103.8454143
+    },
+    {
+        "TravelLokaId": 2000000597661,
+        "HotelName": "YOTEL Singapore Orchard Road",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "366 Orchard Road",
+        "Lat": 1.30613,
+        "Lng": 103.8304487
+    },
+    {
+        "TravelLokaId": 2000000609381,
+        "HotelName": "Mercure Singapore on Stevens",
+        "Country": "Singapore",
+        "City": "Tanglin",
+        "Address": "28 Stevens Road",
+        "Lat": 1.314066798,
+        "Lng": 103.828365109
+    },
+    {
+        "TravelLokaId": 2000000609382,
+        "HotelName": "Novotel Singapore On Stevens",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "Orchard District,28 Stevens Road, #01-01,257878",
+        "Lat": 1.313439,
+        "Lng": 103.828417
+    },
+    {
+        "TravelLokaId": 2000000628469,
+        "HotelName": "Aqueen Heritage Hotel Little India (SG Clean, Staycation Approved)",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "(3 minutes walk to Little India MRT station) 22 Belilios Lane",
+        "Lat": 1.307447,
+        "Lng": 103.85177
+    },
+    {
+        "TravelLokaId": 3000010007572,
+        "HotelName": "Hotel 81 Fuji",
+        "Country": "Singapore",
+        "City": "Novena",
+        "Address": "269 Balestier Road",
+        "Lat": 1.322096,
+        "Lng": 103.852564
+    },
+    {
+        "TravelLokaId": 3000010007851,
+        "HotelName": "Hotel Boss",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "500 Jalan Sultan Road",
+        "Lat": 1.305817,
+        "Lng": 103.860307
+    },
+    {
+        "TravelLokaId": 3000010008373,
+        "HotelName": "Jayleen Clarke Quay Hotel",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "25 New Bridge Road,",
+        "Lat": 1.289127,
+        "Lng": 103.846661
+    },
+    {
+        "TravelLokaId": 3000010009100,
+        "HotelName": "The Noble Hotel",
+        "Country": "Singapore",
+        "City": "Kallang",
+        "Address": "407 Jalan Besar",
+        "Lat": 1.313686,
+        "Lng": 103.859878
+    },
+    {
+        "TravelLokaId": 3000010009437,
+        "HotelName": "New Cape Inn",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "3 Seng Poh Road",
+        "Lat": 1.285631,
+        "Lng": 103.834172
+    },
+    {
+        "TravelLokaId": 3000010009520,
+        "HotelName": "ABC Hostel",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "3 Jalan Kubor",
+        "Lat": 1.303773646,
+        "Lng": 103.859350411
+    },
+    {
+        "TravelLokaId": 3000010009637,
+        "HotelName": "Tai Hoe Hotel",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "(2 mins walk to City Square mall & Farrer Park MRT station) 163 Kitchener Road",
+        "Lat": 1.310353,
+        "Lng": 103.856633
+    },
+    {
+        "TravelLokaId": 3000010009647,
+        "HotelName": "CherryLoft Resorts",
+        "Country": "Singapore",
+        "City": "Pasir Ris",
+        "Address": "159 Jalan Loyang Besar",
+        "Lat": 1.379031,
+        "Lng": 103.958855
+    },
+    {
+        "TravelLokaId": 3000010009999,
+        "HotelName": "Meriton Hotel",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "43A Jalan Besar",
+        "Lat": 1.304781,
+        "Lng": 103.854679
+    },
+    {
+        "TravelLokaId": 3000010010004,
+        "HotelName": "Treetops Executive Residences",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "7 Orange Grove Road, Orchard",
+        "Lat": 1.308186,
+        "Lng": 103.826713
+    },
+    {
+        "TravelLokaId": 3000010010203,
+        "HotelName": "L Hotel @ Broadway",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "195 Serangoon Road",
+        "Lat": 1.309207,
+        "Lng": 103.853174
+    },
+    {
+        "TravelLokaId": 3000010010207,
+        "HotelName": "Adamson Lodge @ Rochor",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "6 Perak Road",
+        "Lat": 1.304403,
+        "Lng": 103.8529
+    },
+    {
+        "TravelLokaId": 3000010010568,
+        "HotelName": "Royal Lodge @ Pagoda Street",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "66A & 66B Pagoda Street",
+        "Lat": 1.283791,
+        "Lng": 103.844007
+    },
+    {
+        "TravelLokaId": 3000010010693,
+        "HotelName": "D'Resort @ Downtown East",
+        "Country": "Singapore",
+        "City": "Pasir Ris",
+        "Address": "1 Pasir Ris Close",
+        "Lat": 1.378203,
+        "Lng": 103.955146
+    },
+    {
+        "TravelLokaId": 3000010010933,
+        "HotelName": "Alocassia Serviced Apartments",
+        "Country": "Singapore",
+        "City": "Tanglin",
+        "Address": "383, off Robin Drive, Bukit Timah Road",
+        "Lat": 1.319512,
+        "Lng": 103.827377
+    },
+    {
+        "TravelLokaId": 3000010011236,
+        "HotelName": "Arcadia Hotel",
+        "Country": "Singapore",
+        "City": "Lavender",
+        "Address": "(3 mins walk from Bendeemer MRT Downtown Line) 32 Hamilton Road",
+        "Lat": 1.311698,
+        "Lng": 103.861411
+    },
+    {
+        "TravelLokaId": 3000010011341,
+        "HotelName": "Hotel Bencoolen @ Hong Kong Street",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "47 Hongkong Street",
+        "Lat": 1.287185,
+        "Lng": 103.84778
+    },
+    {
+        "TravelLokaId": 3000010011807,
+        "HotelName": "Betel Box Backpackers Hostel",
+        "Country": "Singapore",
+        "City": "East Coast",
+        "Address": "200 Joo Chiat Road",
+        "Lat": 1.312242,
+        "Lng": 103.900226
+    },
+    {
+        "TravelLokaId": 3000010012006,
+        "HotelName": "Dream Lodge",
+        "Country": "Singapore",
+        "City": "Lavender",
+        "Address": "172 Tyrwhitt Road",
+        "Lat": 1.312097,
+        "Lng": 103.860767
+    },
+    {
+        "TravelLokaId": 3000010012135,
+        "HotelName": "The Southbridge Hotel",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "210 South Bridge Road",
+        "Lat": 1.283296,
+        "Lng": 103.845863
+    },
+    {
+        "TravelLokaId": 3000010012136,
+        "HotelName": "Harbour Ville Hotel Hamilton @ Lavender",
+        "Country": "Singapore",
+        "City": "Lavender",
+        "Address": "40 Hamilton Road",
+        "Lat": 1.311611055,
+        "Lng": 103.861538053
+    },
+    {
+        "TravelLokaId": 3000010012214,
+        "HotelName": "The11Room",
+        "Country": "Singapore",
+        "City": "Kallang",
+        "Address": "6A Jalan Ayer",
+        "Lat": 1.3111,
+        "Lng": 103.873
+    },
+    {
+        "TravelLokaId": 3000010012698,
+        "HotelName": "CSW Hostel",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "Blk 5 Banda Street, #02-70/82",
+        "Lat": 1.281258,
+        "Lng": 103.843593
+    },
+    {
+        "TravelLokaId": 3000010012939,
+        "HotelName": "Malacca Hotel Singapore",
+        "Country": "Singapore",
+        "City": "East Coast",
+        "Address": "97 Still Road",
+        "Lat": 1.313453,
+        "Lng": 103.906362
+    },
+    {
+        "TravelLokaId": 3000010012950,
+        "HotelName": "Hawaii Hostel",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "171-A Bencoolen Street",
+        "Lat": 1.301627,
+        "Lng": 103.85229
+    },
+    {
+        "TravelLokaId": 3000010013649,
+        "HotelName": "Hotel Compass (SG Clean, Staycation Approved)",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "(8 mins walk to Aljunied MRT) 36 Lor 22 Geylang",
+        "Lat": 1.310979,
+        "Lng": 103.882041
+    },
+    {
+        "TravelLokaId": 3000010013911,
+        "HotelName": "Meadows Hostel",
+        "Country": "Singapore",
+        "City": "Lavender",
+        "Address": "7A Hamilton Road",
+        "Lat": 1.311162,
+        "Lng": 103.860539
+    },
+    {
+        "TravelLokaId": 3000010014034,
+        "HotelName": "The Bohemian",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "40 Mosque Street",
+        "Lat": 1.283834,
+        "Lng": 103.844916
+    },
+    {
+        "TravelLokaId": 3000010014067,
+        "HotelName": "Hotel Clover 7",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "7 Hongkong Street",
+        "Lat": 1.287424,
+        "Lng": 103.847714
+    },
+    {
+        "TravelLokaId": 3000010015030,
+        "HotelName": "Yaju Hotel",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "12 Lorong 12 Geylang",
+        "Lat": 1.311003,
+        "Lng": 103.876656
+    },
+    {
+        "TravelLokaId": 3000010015166,
+        "HotelName": "New Society Backpackers Hostel",
+        "Country": "Singapore",
+        "City": "Kallang",
+        "Address": "(7 mins walk to MRT) 259A-D Jalan Besar",
+        "Lat": 1.310221,
+        "Lng": 103.85832
+    },
+    {
+        "TravelLokaId": 3000010015221,
+        "HotelName": "Lai Ming Hotel Cosmoland",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "(Children stay for Free, Free Breakfast & Water, 10 minutes walk to Aljunied MRT station) 424 Geylang Road",
+        "Lat": 1.312812,
+        "Lng": 103.882868
+    },
+    {
+        "TravelLokaId": 3000010015974,
+        "HotelName": "Pasir Panjang Inn",
+        "Country": "Singapore",
+        "City": "West Coast",
+        "Address": "404 Pasir Panjang Road",
+        "Lat": 1.291915,
+        "Lng": 103.770136
+    },
+    {
+        "TravelLokaId": 3000010017451,
+        "HotelName": "Ambassador Transit Hotel Terminal 3",
+        "Country": "Singapore",
+        "City": "Changi",
+        "Address": "(Inside Changi Airport Terminal 3 Transit Duty-Free Area) 03-15, Departure Transit Lounge North Mezzanine Level 3, Next to Movie Theatre, Singapore Changi Airport Terminal 3",
+        "Lat": 1.356449,
+        "Lng": 103.986862
+    },
+    {
+        "TravelLokaId": 3000010017804,
+        "HotelName": "Ambassador Transit Lounge @ Singapore Changi Airport Terminal 2",
+        "Country": "Singapore",
+        "City": "Changi",
+        "Address": "(Inside Changi Airport Terminal 3 Transit Duty-Free Area) Departure Transit Lounge South, Unit # 03-036-123 (Level 3, Next to Sun-Flower Garden), Singapore Changi Airport Terminal 2",
+        "Lat": 1.355171,
+        "Lng": 103.988878
+    },
+    {
+        "TravelLokaId": 3000010017815,
+        "HotelName": "Ambassador Transit Lounge @ Singapore Changi Airport Terminal 3",
+        "Country": "Singapore",
+        "City": "Changi",
+        "Address": "(Inside Changi Airport Terminal 3 Transit Duty-Free Area) Departure Transit Lounge North, Mezzanine Level, Unit # 03-14 (Level 3, Next to Movie Theatre), Singapore Changi Airport Terminal 3",
+        "Lat": 1.356449,
+        "Lng": 103.986862
+    },
+    {
+        "TravelLokaId": 3000010018852,
+        "HotelName": "CUBE Boutique Capsule Hotel @ Chinatown",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "76-78 Smith Street",
+        "Lat": 1.283132,
+        "Lng": 103.842844
+    },
+    {
+        "TravelLokaId": 3000010020180,
+        "HotelName": "Check-Inn @ Little India",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "60 Kerbau Road",
+        "Lat": 1.307537,
+        "Lng": 103.850698
+    },
+    {
+        "TravelLokaId": 3000010020675,
+        "HotelName": "Ace Manor",
+        "Country": "Singapore",
+        "City": "Novena",
+        "Address": "(5 minutes drive to Novena, Farrer Park MRT stations & shopping malls) 2 Ava Road",
+        "Lat": 1.322488,
+        "Lng": 103.852632
+    },
+    {
+        "TravelLokaId": 3000010020692,
+        "HotelName": "Ace Suites",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "(8 mins walk to Paya Lebar MRT & Aljunied MRT stations) 34 Lorong 33 Geylang",
+        "Lat": 1.31546,
+        "Lng": 103.887704
+    },
+    {
+        "TravelLokaId": 3000010023016,
+        "HotelName": "Champion Hotel City",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "37 North Canal",
+        "Lat": 1.286978,
+        "Lng": 103.847069
+    },
+    {
+        "TravelLokaId": 3000010023719,
+        "HotelName": "Hotel 81 Changi",
+        "Country": "Singapore",
+        "City": "East Coast",
+        "Address": "428 Changi Road",
+        "Lat": 1.318735,
+        "Lng": 103.911717
+    },
+    {
+        "TravelLokaId": 3000010024466,
+        "HotelName": "Hotel G Singapore (SG Clean)",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "200 Middle Road",
+        "Lat": 1.300997,
+        "Lng": 103.851596
+    },
+    {
+        "TravelLokaId": 3000010025046,
+        "HotelName": "Ascott Orchard Singapore",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "No. 11 Cairnhill Road",
+        "Lat": 1.3041335,
+        "Lng": 103.8374227
+    },
+    {
+        "TravelLokaId": 3000010028317,
+        "HotelName": "Oakwood Studios Singapore",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "18 Mount Elizabeth",
+        "Lat": 1.306975,
+        "Lng": 103.83596
+    },
+    {
+        "TravelLokaId": 3000010028676,
+        "HotelName": "Draper Startup House for Entrepreneurs @ Singapore",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "(5 mins walk to Telok Ayer, Tanjong Pagar & Chinatown MRT) 39 Ann Siang Road",
+        "Lat": 1.2806406,
+        "Lng": 103.8459933
+    },
+    {
+        "TravelLokaId": 3000010029006,
+        "HotelName": "Amrise Hotel",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "(6 mins walk from Aljunied MRT station) 112 Sims Avenue",
+        "Lat": 1.313993,
+        "Lng": 103.877921
+    },
+    {
+        "TravelLokaId": 3000010029008,
+        "HotelName": "Rain Forest 149 Hostel",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "Block 149, Silat Avenue, Unit No.#01-64",
+        "Lat": 1.277358,
+        "Lng": 103.831752
+    },
+    {
+        "TravelLokaId": 3000010029223,
+        "HotelName": "Urban Hostel",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "67B/69B Lorong 27, Geylang",
+        "Lat": 1.316183,
+        "Lng": 103.883878
+    },
+    {
+        "TravelLokaId": 3000010029320,
+        "HotelName": "Golden Star Hotel",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "31 Lorong 8 Geylang",
+        "Lat": 1.310536,
+        "Lng": 103.877407
+    },
+    {
+        "TravelLokaId": 3000010029654,
+        "HotelName": "Kim Tian Hotel",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "21 Lorong 22 Geylang",
+        "Lat": 1.311965,
+        "Lng": 103.882232
+    },
+    {
+        "TravelLokaId": 3000010029655,
+        "HotelName": "Kim Tian Hotel (Han)",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "29 Lorong 4, Geylang",
+        "Lat": 1.3101933,
+        "Lng": 103.876207
+    },
+    {
+        "TravelLokaId": 3000010029656,
+        "HotelName": "VIP Hotel",
+        "Country": "Singapore",
+        "City": "Novena",
+        "Address": "5 Balmoral Crescent",
+        "Lat": 1.315754,
+        "Lng": 103.834547
+    },
+    {
+        "TravelLokaId": 3000010030522,
+        "HotelName": "Cayden Riverfront Residences",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "6 Eu Tong Sen Street #05-01 The Central",
+        "Lat": 1.288415,
+        "Lng": 103.8467014
+    },
+    {
+        "TravelLokaId": 3000010031303,
+        "HotelName": "Thanksgiving Serviced Residence",
+        "Country": "Singapore",
+        "City": "River Valley",
+        "Address": "328 River Valley Road",
+        "Lat": 1.2963875,
+        "Lng": 103.8409143
+    },
+    {
+        "TravelLokaId": 3000010039369,
+        "HotelName": "Dao by Dorsett AMTD Singapore",
+        "Country": "Singapore",
+        "City": "Central Business District",
+        "Address": "6 Shenton Way, OUE Downtown 1",
+        "Lat": 1.2767434,
+        "Lng": 103.8482644
+    },
+    {
+        "TravelLokaId": 3000010039480,
+        "HotelName": "Lodge 41",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "41 Lorong 16 Geylang",
+        "Lat": 1.3116714,
+        "Lng": 103.8799318
+    },
+    {
+        "TravelLokaId": 3000010039508,
+        "HotelName": "Penta Hotel Singapore",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "33 Birch Road",
+        "Lat": 1.311107,
+        "Lng": 103.853702
+    },
+    {
+        "TravelLokaId": 3000010043076,
+        "HotelName": "Hotel Nuve Urbane",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "3 King George's Avenue",
+        "Lat": 1.3070217,
+        "Lng": 103.8588581
+    },
+    {
+        "TravelLokaId": 3000020000764,
+        "HotelName": "Hotel Mi",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "41 Bencoolen Street",
+        "Lat": 1.2989872,
+        "Lng": 103.8502288
+    },
+    {
+        "TravelLokaId": 3000020001023,
+        "HotelName": "CUBE Boutique Capsule Hotel @ Kampong Glam",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "54, 55, 56 Bussorah Street",
+        "Lat": 1.301504,
+        "Lng": 103.859414
+    },
+    {
+        "TravelLokaId": 3000020001666,
+        "HotelName": "Plaza Premium Transit Lounge @ Changi Airport Terminal 1",
+        "Country": "Singapore",
+        "City": "Changi",
+        "Address": "(Inside Changi Airport Terminal 1 Transit duty-free area) Level 3, Departure/Transit Lounge West, Terminal 1, Singapore Changi Airport",
+        "Lat": 1.3612372,
+        "Lng": 103.990198
+    },
+    {
+        "TravelLokaId": 3000020002054,
+        "HotelName": "Backpacker Cozy Corner Guesthouse",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "490 North Bridge Road",
+        "Lat": 1.298373,
+        "Lng": 103.855557
+    },
+    {
+        "TravelLokaId": 3000020003215,
+        "HotelName": "Courtyard by Marriott Singapore Novena",
+        "Country": "Singapore",
+        "City": "Novena",
+        "Address": "99 Irrawaddy Road",
+        "Lat": 1.3207891,
+        "Lng": 103.8431449
+    },
+    {
+        "TravelLokaId": 3000020003568,
+        "HotelName": "Marina Bay Sands",
+        "Country": "Singapore",
+        "City": "Marina Bay",
+        "Address": "10 Bayfront Avenue",
+        "Lat": 1.282302,
+        "Lng": 103.8585308
+    },
+    {
+        "TravelLokaId": 3000020003648,
+        "HotelName": "Heritage @ Chinatown",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "229 South Bridge Road",
+        "Lat": 1.2826808,
+        "Lng": 103.8457273
+    },
+    {
+        "TravelLokaId": 3000020003655,
+        "HotelName": "Eighteen By Three Cabins",
+        "Country": "Singapore",
+        "City": "Central Business District",
+        "Address": "3 Stanley Street",
+        "Lat": 1.279858,
+        "Lng": 103.847723
+    },
+    {
+        "TravelLokaId": 3000020003713,
+        "HotelName": "The Quay Hotel",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "57 South Bridge Road",
+        "Lat": 1.2871169,
+        "Lng": 103.8482414
+    },
+    {
+        "TravelLokaId": 3000020004251,
+        "HotelName": "Galaxy Pods @ Chinatown",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "27 Mosque Street",
+        "Lat": 1.2834953,
+        "Lng": 103.8455346
+    },
+    {
+        "TravelLokaId": 3000020005045,
+        "HotelName": "Orchard Point Serviced Apartments",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "160 Orchard Road #06-01",
+        "Lat": 1.3014911,
+        "Lng": 103.8407568
+    },
+    {
+        "TravelLokaId": 3000020005639,
+        "HotelName": "Spacepod@com",
+        "Country": "Singapore",
+        "City": "Kallang",
+        "Address": "6 Jalan Ayer",
+        "Lat": 1.3112018,
+        "Lng": 103.8728412
+    },
+    {
+        "TravelLokaId": 3000020005865,
+        "HotelName": "Ann Siang House, The Unlimited Collection by Oakwood",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "28 Ann Siang Road",
+        "Lat": 1.2807043,
+        "Lng": 103.8458104
+    },
+    {
+        "TravelLokaId": 3000020006173,
+        "HotelName": "Spacepod@SG",
+        "Country": "Singapore",
+        "City": "Kallang",
+        "Address": "12A Lorong 1 Geylang",
+        "Lat": 1.3111339,
+        "Lng": 103.8725833
+    },
+    {
+        "TravelLokaId": 3000020006406,
+        "HotelName": "Heritage Shophouse @ City Hall",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "Bras Basah",
+        "Lat": 1.295952208,
+        "Lng": 103.854816366
+    },
+    {
+        "TravelLokaId": 3000020006621,
+        "HotelName": "Mayo Inn",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "9 Jalan Besar",
+        "Lat": 1.30382,
+        "Lng": 103.854246
+    },
+    {
+        "TravelLokaId": 3000020006964,
+        "HotelName": "Atlantis Pods @ Bugis",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "2 Tan Quee Lan Street #02-00",
+        "Lat": 1.2981321,
+        "Lng": 103.8569609
+    },
+    {
+        "TravelLokaId": 3000020006966,
+        "HotelName": "Atlantis Pods @ Little India",
+        "Country": "Singapore",
+        "City": "Lavender",
+        "Address": "622 Serangoon Road",
+        "Lat": 1.3156699,
+        "Lng": 103.858761
+    },
+    {
+        "TravelLokaId": 3000020006974,
+        "HotelName": "City Room w/ 2 Beds @ Town 1",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "Orchard Road",
+        "Lat": 1.304224,
+        "Lng": 103.834267
+    },
+    {
+        "TravelLokaId": 3000020007339,
+        "HotelName": "City Room w/ 2 Queen Beds @ Town 2",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "Orchard Road",
+        "Lat": 1.304224,
+        "Lng": 103.834267
+    },
+    {
+        "TravelLokaId": 3000020007340,
+        "HotelName": "City Room w/ 2 Beds + Bathroom @ Town 3",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "Orchard Road",
+        "Lat": 1.304224,
+        "Lng": 103.834267
+    },
+    {
+        "TravelLokaId": 3000020007341,
+        "HotelName": "City Room w/ 2 Beds @ Town 4",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "Orchard Road",
+        "Lat": 1.304224,
+        "Lng": 103.834267
+    },
+    {
+        "TravelLokaId": 3000020007342,
+        "HotelName": "City Room w/ Queen Bed @ Town 5",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "Orchard Road",
+        "Lat": 1.304224,
+        "Lng": 103.834267
+    },
+    {
+        "TravelLokaId": 3000020007343,
+        "HotelName": "City Room w/ Queen Bed @ Town 6",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "Orchard Road",
+        "Lat": 1.304224,
+        "Lng": 103.834267
+    },
+    {
+        "TravelLokaId": 3000020007344,
+        "HotelName": "City Room w/ 2 Beds @ Town 8",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "Orchard Road",
+        "Lat": 1.304224,
+        "Lng": 103.834267
+    },
+    {
+        "TravelLokaId": 3000020007345,
+        "HotelName": "City Room w/ 2 Beds @ Town 9",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "Orchard Road",
+        "Lat": 1.304224,
+        "Lng": 103.834267
+    },
+    {
+        "TravelLokaId": 3000020007346,
+        "HotelName": "City Room w/ 2 Beds + Bathroom @ Town 10",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "Orchard Road",
+        "Lat": 1.304224,
+        "Lng": 103.834267
+    },
+    {
+        "TravelLokaId": 3000020007347,
+        "HotelName": "City Room w/ King Bed @ Town 11",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "Orchard Road",
+        "Lat": 1.304224,
+        "Lng": 103.834267
+    },
+    {
+        "TravelLokaId": 3000020007348,
+        "HotelName": "City Room w/ Queen Bed @ Town 12",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "Orchard Road",
+        "Lat": 1.304224,
+        "Lng": 103.834267
+    },
+    {
+        "TravelLokaId": 3000020008367,
+        "HotelName": "Butternut Tree Hotels",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "22 Teck Lim Road",
+        "Lat": 1.2806261,
+        "Lng": 103.8418588
+    },
+    {
+        "TravelLokaId": 3000020009006,
+        "HotelName": "Greendili Backpackers Hostel",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "427 Race Course Road",
+        "Lat": 1.3159391,
+        "Lng": 103.8575146
+    },
+    {
+        "TravelLokaId": 3000020010316,
+        "HotelName": "Wanderloft Capsule Hostel",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "49A South Bridge Road",
+        "Lat": 1.287294,
+        "Lng": 103.848332
+    },
+    {
+        "TravelLokaId": 3000020011744,
+        "HotelName": "Campbell Inn",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "(3 mins walk to Rochor MRT station, 8 mins walk to Bugis) 50 Campbell Lane",
+        "Lat": 1.305057,
+        "Lng": 103.852727
+    },
+    {
+        "TravelLokaId": 3000020013901,
+        "HotelName": "Diamond Hotel Singapore",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "25 Lorong 18 Geylang, 398806",
+        "Lat": 1.3119093,
+        "Lng": 103.8807752
+    },
+    {
+        "TravelLokaId": 3000020014605,
+        "HotelName": "MET A Space Pod @ Arab Street",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "56 Arab Street",
+        "Lat": 1.300982,
+        "Lng": 103.859557
+    },
+    {
+        "TravelLokaId": 3000020015479,
+        "HotelName": "Golden Hostel",
+        "Country": "Singapore",
+        "City": "Tiong Bahru",
+        "Address": "146 Jalan Bukit Merah #01-1088",
+        "Lat": 1.277938,
+        "Lng": 103.8309096
+    },
+    {
+        "TravelLokaId": 3000020015562,
+        "HotelName": "Atlantis Pods @ Chinatown",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "52A Pagoda Street",
+        "Lat": 1.2835797,
+        "Lng": 103.8442517
+    },
+    {
+        "TravelLokaId": 3000020015795,
+        "HotelName": "K2 Guesthouse",
+        "Country": "Singapore",
+        "City": "HarbourFront",
+        "Address": "15 South Buona Vista Road",
+        "Lat": 1.2804964,
+        "Lng": 103.7865745
+    },
+    {
+        "TravelLokaId": 3000020016134,
+        "HotelName": "Ace Residences @ East Coast",
+        "Country": "Singapore",
+        "City": "East Coast",
+        "Address": "(5 minutes drive to Paya Lebar MRT & shopping malls) 1 Seraya Lane",
+        "Lat": 1.3067697,
+        "Lng": 103.8991717
+    },
+    {
+        "TravelLokaId": 3000020016821,
+        "HotelName": "Snooze Inn @ Dickson Road",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "43 Dickson Road",
+        "Lat": 1.3055471,
+        "Lng": 103.8538288
+    },
+    {
+        "TravelLokaId": 3000020017052,
+        "HotelName": "Oh My Pods",
+        "Country": "Singapore",
+        "City": "Lavender",
+        "Address": "23A Hamilton Road",
+        "Lat": 1.3116294,
+        "Lng": 103.8609835
+    },
+    {
+        "TravelLokaId": 3000020018253,
+        "HotelName": "Fraser Residence Orchard, Singapore",
+        "Country": "Singapore",
+        "City": "River Valley",
+        "Address": "31 Paterson Road",
+        "Lat": 1.3015601,
+        "Lng": 103.8296645
+    },
+    {
+        "TravelLokaId": 3000020018405,
+        "HotelName": "OSS Backpackers Hostel @ Lavender",
+        "Country": "Singapore",
+        "City": "Lavender",
+        "Address": "9 Hamilton Road",
+        "Lat": 1.311396,
+        "Lng": 103.86079
+    },
+    {
+        "TravelLokaId": 3000020018600,
+        "HotelName": "Bond Boutique Capsule Hotel",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "7 Jalan Pinang",
+        "Lat": 1.3027234,
+        "Lng": 103.8584056
+    },
+    {
+        "TravelLokaId": 3000020018853,
+        "HotelName": "Snooze Inn @ Dunlop Street",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "28 Dunlop Street",
+        "Lat": 1.304583,
+        "Lng": 103.853975
+    },
+    {
+        "TravelLokaId": 3000020018864,
+        "HotelName": "JetQuay Suites",
+        "Country": "Singapore",
+        "City": "Changi",
+        "Address": "60 Airport Boulevard, CIP Terminal",
+        "Lat": 1.3550971,
+        "Lng": 103.9890242
+    },
+    {
+        "TravelLokaId": 3000020018986,
+        "HotelName": "K Hotel 12",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "12 Lorong 10 Geylang",
+        "Lat": 1.3113277,
+        "Lng": 103.877589
+    },
+    {
+        "TravelLokaId": 3000020019000,
+        "HotelName": "K Hotel 14",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "14 Lorong 10 Geylang",
+        "Lat": 1.3112344,
+        "Lng": 103.8776409
+    },
+    {
+        "TravelLokaId": 3000020019492,
+        "HotelName": "Hotel 1888 Collection",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "20 Trengganu Street #03-01",
+        "Lat": 1.2828053,
+        "Lng": 103.843971
+    },
+    {
+        "TravelLokaId": 3000020019897,
+        "HotelName": "JH HOTEL",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "No.8 Lorong 10 Geylang",
+        "Lat": 1.311549,
+        "Lng": 103.87748
+    },
+    {
+        "TravelLokaId": 3000020020075,
+        "HotelName": "Capri by Fraser, China Square",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "181 South Bridge Road",
+        "Lat": 1.284606,
+        "Lng": 103.8470357
+    },
+    {
+        "TravelLokaId": 3000020020141,
+        "HotelName": "Rucksack Inn @ Tyrwhitt",
+        "Country": "Singapore",
+        "City": "Lavender",
+        "Address": "153A Tyrwhitt Road",
+        "Lat": 1.3118223,
+        "Lng": 103.8601729
+    },
+    {
+        "TravelLokaId": 3000020020727,
+        "HotelName": "Cherryloft @ Rangoon",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "(5 mins walk from Farrer Park MRT station) 180 Rangoon Road",
+        "Lat": 1.316974,
+        "Lng": 103.8532632
+    },
+    {
+        "TravelLokaId": 3000020020728,
+        "HotelName": "CherryLoft Express",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "(5 mins walk from Jalan Besar & Rochor MRT station) 41 Upper Weld Road",
+        "Lat": 1.3062919,
+        "Lng": 103.8536427
+    },
+    {
+        "TravelLokaId": 3000020021113,
+        "HotelName": "Q Loft Hotels@Bedok",
+        "Country": "Singapore",
+        "City": "Bedok",
+        "Address": "359A Bedok Road",
+        "Lat": 1.331607,
+        "Lng": 103.947187
+    },
+    {
+        "TravelLokaId": 3000020021152,
+        "HotelName": "Spacepod@hive",
+        "Country": "Singapore",
+        "City": "Lavender",
+        "Address": "624 Serangoon Road",
+        "Lat": 1.3157216,
+        "Lng": 103.8587447
+    },
+    {
+        "TravelLokaId": 3000020022045,
+        "HotelName": "Beary Best! Kampong Glam",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "64 Arab Street",
+        "Lat": 1.301136,
+        "Lng": 103.8593111
+    },
+    {
+        "TravelLokaId": 4000001067536,
+        "HotelName": "Ariva on Shan Serviced Residences",
+        "Country": "Singapore",
+        "City": "Novena",
+        "Address": "12 Shan Road",
+        "Lat": 1.3250523,
+        "Lng": 103.8465306
+    },
+    {
+        "TravelLokaId": 5000000838777,
+        "HotelName": "South East Asia Hotel",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "190 Waterloo Street",
+        "Lat": 1.30108,
+        "Lng": 103.852972
+    },
+    {
+        "TravelLokaId": 9000000000976,
+        "HotelName": "7 Wonders Hostel @ Upper Dickson",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "(5 mins walk to Jalan Besar & Little India MRT stations) 12a Upper Dickson Road",
+        "Lat": 1.306377,
+        "Lng": 103.852287
+    },
+    {
+        "TravelLokaId": 9000000122539,
+        "HotelName": "The Barracks Hotel Sentosa by Far East Hospitality (SG Clean)",
+        "Country": "Singapore",
+        "City": "Sentosa Island",
+        "Address": "2 Gunner Lane, Sentosa Island",
+        "Lat": 1.2528382,
+        "Lng": 103.8207408
+    },
+    {
+        "TravelLokaId": 9000000122540,
+        "HotelName": "Circular House Capsule Hotel",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "6 Circular Road",
+        "Lat": 1.2879378,
+        "Lng": 103.8488738
+    },
+    {
+        "TravelLokaId": 9000000134130,
+        "HotelName": "ST Residences Novena",
+        "Country": "Singapore",
+        "City": "Novena",
+        "Address": "145A Moulmein Road",
+        "Lat": 1.3183621,
+        "Lng": 103.8477574
+    },
+    {
+        "TravelLokaId": 9000000134659,
+        "HotelName": "Hotel Soloha @ Chinatown",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "12 Teck Lim Road",
+        "Lat": 1.2803746,
+        "Lng": 103.841949
+    },
+    {
+        "TravelLokaId": 9000000134864,
+        "HotelName": "BEAT. Sports Hostel",
+        "Country": "Singapore",
+        "City": "Kallang",
+        "Address": "290A Jalan Besar",
+        "Lat": 1.3106174,
+        "Lng": 103.8589003
+    },
+    {
+        "TravelLokaId": 9000000135043,
+        "HotelName": "ST Signature Chinatown (SG Clean Certified)",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "273 South Bridge Road",
+        "Lat": 1.2817896,
+        "Lng": 103.8452678
+    },
+    {
+        "TravelLokaId": 9000000181168,
+        "HotelName": "Yotelair Singapore Changi Airport",
+        "Country": "Singapore",
+        "City": "Changi",
+        "Address": "78 Airport Boulevard #04-280, Jewel Changi",
+        "Lat": 1.3470364,
+        "Lng": 103.9843203
+    },
+    {
+        "TravelLokaId": 9000000321237,
+        "HotelName": "Citadines Balestier Singapore",
+        "Country": "Singapore",
+        "City": "Novena",
+        "Address": "207 Balestier Road",
+        "Lat": 1.3210106,
+        "Lng": 103.8525798
+    },
+    {
+        "TravelLokaId": 9000000324125,
+        "HotelName": "Hmlet Cantonment",
+        "Country": "Singapore",
+        "City": "Central Business District",
+        "Address": "150 Cantonment Road",
+        "Lat": 1.2746586,
+        "Lng": 103.8408068
+    },
+    {
+        "TravelLokaId": 9000000324745,
+        "HotelName": "Wink @ McCallum Street",
+        "Country": "Singapore",
+        "City": "Central Business District",
+        "Address": "2B McCallum Street",
+        "Lat": 1.2797147,
+        "Lng": 103.8476008
+    },
+    {
+        "TravelLokaId": 9000000325151,
+        "HotelName": "CapsulePod@Aljunied",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "76A Lorong 27 Geylang",
+        "Lat": 1.3159406,
+        "Lng": 103.8839767
+    },
+    {
+        "TravelLokaId": 9000000369463,
+        "HotelName": "JJH Serviced Apartments",
+        "Country": "Singapore",
+        "City": "Serangoon",
+        "Address": "2A Wolskel Road",
+        "Lat": 1.3464805,
+        "Lng": 103.8713326
+    },
+    {
+        "TravelLokaId": 9000000370372,
+        "HotelName": "Tree In Lodge",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "5 Jalan Pinang",
+        "Lat": 1.3026805,
+        "Lng": 103.8584025
+    },
+    {
+        "TravelLokaId": 9000000413708,
+        "HotelName": "CherryLoft @ Lorong 10",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "9 Lorong 10, Geylang",
+        "Lat": 1.311613,
+        "Lng": 103.877704
+    },
+    {
+        "TravelLokaId": 9000000417343,
+        "HotelName": "ST Signature Tanjong Pagar (SG Clean Certified)",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "32 Tras Street",
+        "Lat": 1.2786335,
+        "Lng": 103.8443306
+    },
+    {
+        "TravelLokaId": 9000000425854,
+        "HotelName": "Hotel Nuve Elements",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "41 Hongkong Street",
+        "Lat": 1.2873792,
+        "Lng": 103.847527
+    },
+    {
+        "TravelLokaId": 9000000495106,
+        "HotelName": "ST Signature Bugis Beach (SG Clean Certified)",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "85 Beach Road",
+        "Lat": 1.2973,
+        "Lng": 103.8565671
+    },
+    {
+        "TravelLokaId": 9000000495107,
+        "HotelName": "Ji Hotel Orchard Singapore",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "11 Penang Lane",
+        "Lat": 1.2977336,
+        "Lng": 103.8443831
+    },
+    {
+        "TravelLokaId": 9000000573849,
+        "HotelName": "ST Signature Jalan Besar (SG Clean Certified)",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "15 Upper Weld",
+        "Lat": 1.3054726,
+        "Lng": 103.8548494
+    },
+    {
+        "TravelLokaId": 9000000610778,
+        "HotelName": "K Hotel 8",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "37 Lorong 8",
+        "Lat": 1.3106976,
+        "Lng": 103.8772767
+    },
+    {
+        "TravelLokaId": 9000000635763,
+        "HotelName": "Citadines Rochor Singapore",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "2 Serangoon Rd",
+        "Lat": 1.3050631,
+        "Lng": 103.8514261
+    },
+    {
+        "TravelLokaId": 9000000642869,
+        "HotelName": "The Clan Hotel Singapore by Far East Hospitality",
+        "Country": "Singapore",
+        "City": "Central Business District",
+        "Address": "10 Cross Street",
+        "Lat": 1.2818896,
+        "Lng": 103.8490621
+    },
+    {
+        "TravelLokaId": 9000000690902,
+        "HotelName": "Dusit Thani Laguna Singapore",
+        "Country": "Singapore",
+        "City": "Tampines",
+        "Address": "11 Laguna Golf Green, Changi, East Coast",
+        "Lat": 1.323879768,
+        "Lng": 103.963287371
+    },
+    {
+        "TravelLokaId": 9000000744699,
+        "HotelName": "K Space Inn 569",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "569 Serangoon Road",
+        "Lat": 1.315587,
+        "Lng": 103.858168
+    },
+    {
+        "TravelLokaId": 9000000751933,
+        "HotelName": "ST Signature Bugis Beach, SHORT OVERNIGHT, 8 hours: 11PM-7AM (SG Clean)",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "85 Beach Road",
+        "Lat": 1.2973,
+        "Lng": 103.8565671
+    },
+    {
+        "TravelLokaId": 9000000806683,
+        "HotelName": "ST Signature Jalan Besar, SHORT OVERNIGHT, 8 hours: 11:59PM-8AM (SG Clean)",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "15 Upper Weld",
+        "Lat": 1.3054726,
+        "Lng": 103.8548494
+    },
+    {
+        "TravelLokaId": 9000000871349,
+        "HotelName": "KINN Capsule Hotel",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "39 South Bridge Road",
+        "Lat": 1.2874967,
+        "Lng": 103.8485556
+    },
+    {
+        "TravelLokaId": 9000000874820,
+        "HotelName": "Citadines Fusionopolis Singapore",
+        "Country": "Singapore",
+        "City": "HarbourFront",
+        "Address": "3 Fusionopolis Way, Symbiosis Tower",
+        "Lat": 1.2991684,
+        "Lng": 103.7875815
+    },
+    {
+        "TravelLokaId": 9000000882010,
+        "HotelName": "ST Signature Jalan Besar, DAYUSE, 5 hours: 5PM-10PM (SG Clean)",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "15 Upper Weld Road",
+        "Lat": 1.3054621,
+        "Lng": 103.8548538
+    },
+    {
+        "TravelLokaId": 9000000882033,
+        "HotelName": "ST Signature Bugis Beach, DAYUSE, 5 hours: 4PM-9PM (SG Clean)",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "85 Beach Road",
+        "Lat": 1.2973,
+        "Lng": 103.8565671
+    },
+    {
+        "TravelLokaId": 9000000889894,
+        "HotelName": "K2 Guesthouse Central",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "134 Jalan Besar Road",
+        "Lat": 1.3067055,
+        "Lng": 103.8563317
+    },
+    {
+        "TravelLokaId": 9000000889974,
+        "HotelName": "K Space Inn 14",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "14A/B Circular Road",
+        "Lat": 1.2866625,
+        "Lng": 103.8490248
+    },
+    {
+        "TravelLokaId": 9000000889983,
+        "HotelName": "Hotel Calmo Bugis",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "95 Beach Road",
+        "Lat": 1.297491,
+        "Lng": 103.8567369
+    },
+    {
+        "TravelLokaId": 9000000910280,
+        "HotelName": "ST Residences Tiong Bahru",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "265 Outram Road",
+        "Lat": 1.285346,
+        "Lng": 103.834724
+    },
+    {
+        "TravelLokaId": 9000000924701,
+        "HotelName": "Oasia Resort Sentosa by Far East Hospitality (SG Clean)",
+        "Country": "Singapore",
+        "City": "Sentosa Island",
+        "Address": "23 Beach View",
+        "Lat": 1.2531961,
+        "Lng": 103.8194919
+    },
+    {
+        "TravelLokaId": 9000000925862,
+        "HotelName": "The Quay Hotel Lavender",
+        "Country": "Singapore",
+        "City": "Lavender",
+        "Address": "139 Lavender Street",
+        "Lat": 1.312689,
+        "Lng": 103.861185
+    },
+    {
+        "TravelLokaId": 9000000927278,
+        "HotelName": "Hotel Ojonq-sg-2",
+        "Country": "Singapore",
+        "City": "Tengah",
+        "Address": "KJE",
+        "Lat": 1.362898262,
+        "Lng": 103.731501146
+    },
+    {
+        "TravelLokaId": 9000000927351,
+        "HotelName": "ST Signature Bugis Beach, DAYUSE, 5 hours: 9AM – 2PM (SG Clean)",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "85 Beach Road",
+        "Lat": 1.2973,
+        "Lng": 103.8565671
+    },
+    {
+        "TravelLokaId": 9000000927400,
+        "HotelName": "The Fullerton Bay Hotel Singapore",
+        "Country": "Singapore",
+        "City": "Marina Bay",
+        "Address": "80 Collyer Quay",
+        "Lat": 1.2826719,
+        "Lng": 103.8518211
+    },
+    {
+        "TravelLokaId": 9000000927418,
+        "HotelName": "D'Hotel Singapore",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "231 Outram Rd",
+        "Lat": 1.284276,
+        "Lng": 103.8349855
+    },
+    {
+        "TravelLokaId": 9000000927421,
+        "HotelName": "lyf Funan Singapore by Ascott",
+        "Country": "Singapore",
+        "City": "Marina Bay",
+        "Address": "67 Hill St, Level 4 Funan Mall",
+        "Lat": 1.2917357,
+        "Lng": 103.8494682
+    },
+    {
+        "TravelLokaId": 9000000927432,
+        "HotelName": "New Cathay Hotel",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "443A Geylang Road",
+        "Lat": 1.3132678,
+        "Lng": 103.8817311
+    },
+    {
+        "TravelLokaId": 9000000927616,
+        "HotelName": "RedDoorz Hotel @ Geylang",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "61 Westerhout Rd, Singapore 397662",
+        "Lat": 1.311171,
+        "Lng": 103.8810373
+    },
+    {
+        "TravelLokaId": 9000000927619,
+        "HotelName": "RedDoorz Hotel Premium @ Serangoon",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "3 Veerasamy Rd, Singapore",
+        "Lat": 1.307797,
+        "Lng": 103.853075
+    },
+    {
+        "TravelLokaId": 9000000927621,
+        "HotelName": "RedDoorz Hotel Premium @ Balestier",
+        "Country": "Singapore",
+        "City": "Novena",
+        "Address": "387 Balestier Rd, Singapore 329795",
+        "Lat": 1.3252794,
+        "Lng": 103.8499559
+    },
+    {
+        "TravelLokaId": 9000000927623,
+        "HotelName": "RedDoorz Hotel @ Aljunied",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "34 Lor 22 Geylang, Singapura",
+        "Lat": 1.3111609,
+        "Lng": 103.8818454
+    },
+    {
+        "TravelLokaId": 9000000927748,
+        "HotelName": "Wilby Central Serviced Apartments",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "15 Queen Street, #01-01 Tan Chong Tower",
+        "Lat": 1.298017,
+        "Lng": 103.8525811
+    },
+    {
+        "TravelLokaId": 9000000929043,
+        "HotelName": "K Hotel Aliwal (Premier)",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "10 Aliwal Street",
+        "Lat": 1.3020452,
+        "Lng": 103.8614394
+    },
+    {
+        "TravelLokaId": 9000000929044,
+        "HotelName": "K Space Inn Owen",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "91A Owen Road",
+        "Lat": 1.3147707,
+        "Lng": 103.8521392
+    },
+    {
+        "TravelLokaId": 9000000946131,
+        "HotelName": "SO/ Singapore",
+        "Country": "Singapore",
+        "City": "Central Business District",
+        "Address": "35 Robinson Road, Singapore",
+        "Lat": 1.2799728,
+        "Lng": 103.8497276
+    },
+    {
+        "TravelLokaId": 9000000948609,
+        "HotelName": "InterContinental Hotels SINGAPORE",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "80 Middle Road",
+        "Lat": 1.298444,
+        "Lng": 103.855056
+    },
+    {
+        "TravelLokaId": 9000000952975,
+        "HotelName": "Arabic Inn",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "48 Arab street",
+        "Lat": 1.300805,
+        "Lng": 103.8596349
+    },
+    {
+        "TravelLokaId": 9000000953566,
+        "HotelName": "The Great Madras by Hotel Calmo",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "28 Madras Street",
+        "Lat": 1.3049627,
+        "Lng": 103.8530341
+    },
+    {
+        "TravelLokaId": 9000000958611,
+        "HotelName": "Carlton Hotel Singapore",
+        "Country": "Singapore",
+        "City": "Marina Bay",
+        "Address": "76 Bras Basah Road",
+        "Lat": 1.2960301,
+        "Lng": 103.8527419
+    },
+    {
+        "TravelLokaId": 9000000958656,
+        "HotelName": "K Hotel 1515",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "15 Lorong 15 Geylang",
+        "Lat": 1.313192,
+        "Lng": 103.878186
+    },
+    {
+        "TravelLokaId": 9000000962994,
+        "HotelName": "KeSa House, The Unlimited Collection by Oakwood (SG Clean)",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "55 Keong Saik Road",
+        "Lat": 1.280629896,
+        "Lng": 103.84147672
+    },
+    {
+        "TravelLokaId": 9000000963774,
+        "HotelName": "The Scarlet Singapore",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "33 Erskine Road, Singapore 069333",
+        "Lat": 1.2806143,
+        "Lng": 103.8454151
+    },
+    {
+        "TravelLokaId": 9000000963810,
+        "HotelName": "ST Signature Bugis Beach, SHORT OVERNIGHT, 12 hours: check in 7PM or 9PM ( SG Clean)",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "85 Beach Road",
+        "Lat": 1.2973,
+        "Lng": 103.8565671
+    },
+    {
+        "TravelLokaId": 9000000964974,
+        "HotelName": "ST Signature Bugis Beach, DAYUSE, 8-9 hours: check in 8AM or 11AM (SG Clean)",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "85 Beach Road",
+        "Lat": 1.2973,
+        "Lng": 103.8565671
+    },
+    {
+        "TravelLokaId": 9000000968098,
+        "HotelName": "Hotel Calmo Chinatown",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "25 Trengganu Street",
+        "Lat": 1.2826176,
+        "Lng": 103.8440435
+    },
+    {
+        "TravelLokaId": 9000000969511,
+        "HotelName": "The Daulat by Hotel Calmo",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "16 Madras Street",
+        "Lat": 1.3048352,
+        "Lng": 103.8528382
+    },
+    {
+        "TravelLokaId": 9000000970450,
+        "HotelName": "Hotel 1929 (Staycation Approved)",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "50 Keong Saik Road",
+        "Lat": 1.2808016,
+        "Lng": 103.8417811
+    },
+    {
+        "TravelLokaId": 9000000971133,
+        "HotelName": "ST Signature Jalan Besar, DAYUSE, 7 hours: 9AM-4PM (SG Clean)",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "15 Upper Weld Road",
+        "Lat": 1.3054726,
+        "Lng": 103.8548494
+    },
+    {
+        "TravelLokaId": 9000000971158,
+        "HotelName": "Glamping Resort @ Kranji",
+        "Country": "Singapore",
+        "City": "Kranji",
+        "Address": "10 Neo Tiew Lane 2, 718813 Singapore, Singapore",
+        "Lat": 1.4192203,
+        "Lng": 103.7184637
+    },
+    {
+        "TravelLokaId": 9000000971425,
+        "HotelName": "ST Signature Jalan Besar, SHORT OVERNIGHT, 13 hours: 6PM-7AM (SG Clean)",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "15 Upper Weld Road",
+        "Lat": 1.3054726,
+        "Lng": 103.8548494
+    },
+    {
+        "TravelLokaId": 9000000971426,
+        "HotelName": "Villa Umbrella",
+        "Country": "Singapore",
+        "City": "Bukit Timah",
+        "Address": "100 Turf Club Road, #01-05",
+        "Lat": 1.333542,
+        "Lng": 103.7956439
+    },
+    {
+        "TravelLokaId": 9000000971462,
+        "HotelName": "Hotel Nuve Stellar",
+        "Country": "Singapore",
+        "City": "Kallang",
+        "Address": "230 Jalan Besar",
+        "Lat": 1.309377,
+        "Lng": 103.8579885
+    },
+    {
+        "TravelLokaId": 9000000971496,
+        "HotelName": "The Initial Residence",
+        "Country": "Singapore",
+        "City": "Novena",
+        "Address": "355 Balestier Road",
+        "Lat": 1.3244056,
+        "Lng": 103.8509191
+    },
+    {
+        "TravelLokaId": 9000000971994,
+        "HotelName": "SYNERGY B",
+        "Country": "Singapore",
+        "City": "West Coast",
+        "Address": "52 West Coast Ferry Road",
+        "Lat": 1.2926833,
+        "Lng": 103.7626794
+    },
+    {
+        "TravelLokaId": 9000000972515,
+        "HotelName": "Hotel Traveltine",
+        "Country": "Singapore",
+        "City": "Lavender",
+        "Address": "700 Beach Road",
+        "Lat": 1.3025087,
+        "Lng": 103.8642451
+    },
+    {
+        "TravelLokaId": 9000000972702,
+        "HotelName": "The Snooze Hotel @ Marine Parade (Staycation Approved) (SG Clean)",
+        "Country": "Singapore",
+        "City": "East Coast",
+        "Address": "400 East Coast Road",
+        "Lat": 1.3087218,
+        "Lng": 103.9119842
+    },
+    {
+        "TravelLokaId": 9000000973698,
+        "HotelName": "Glamping @ Bukit Timah HorseCity",
+        "Country": "Singapore",
+        "City": "Bukit Timah",
+        "Address": "100 Turf Club Rd, Singapore 287992",
+        "Lat": 1.3339722,
+        "Lng": 103.796382
+    },
+    {
+        "TravelLokaId": 9000000974217,
+        "HotelName": "Philip Hotel (Staycation Approved)",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "75 Desker Rd, Singapore 209598",
+        "Lat": 1.3088658,
+        "Lng": 103.8532492
+    },
+    {
+        "TravelLokaId": 9000000974749,
+        "HotelName": "lyf one-north Singapore",
+        "Country": "Singapore",
+        "City": "HarbourFront",
+        "Address": "80 Nepal Park",
+        "Lat": 1.3018212,
+        "Lng": 103.788691
+    },
+    {
+        "TravelLokaId": 9000000974924,
+        "HotelName": "Holiday Inn SINGAPORE LITTLE INDIA",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "10 Farrer Park Station Road",
+        "Lat": 1.312256,
+        "Lng": 103.854752
+    },
+    {
+        "TravelLokaId": 9000000974990,
+        "HotelName": "lyf Farrer Park Singapore",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "2 Perumal Rd, #01-01",
+        "Lat": 1.3127371,
+        "Lng": 103.8556006
+    },
+    {
+        "TravelLokaId": 9000000975100,
+        "HotelName": "Lion Peak Hotel Bugis",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "103 Beach Rd, Singapore 189704",
+        "Lat": 1.2978929,
+        "Lng": 103.8570701
+    },
+    {
+        "TravelLokaId": 9000000975281,
+        "HotelName": "Novotel Living Singapore Orchard",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "8 Claymore Hill, 229572 SINGAPORE, Singapore",
+        "Lat": 1.3076409,
+        "Lng": 103.8319669
+    },
+    {
+        "TravelLokaId": 9000000983647,
+        "HotelName": "Dash Living on Mackenzie",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "15 Mackenzie Road",
+        "Lat": 1.3044606,
+        "Lng": 103.8497427
+    },
+    {
+        "TravelLokaId": 9000000983695,
+        "HotelName": "Citadines Raffles Place Singapore",
+        "Country": "Singapore",
+        "City": "Central Business District",
+        "Address": "88 Market St, Level 9, Singapore 048948",
+        "Lat": 1.2838605,
+        "Lng": 103.8500779
+    },
+    {
+        "TravelLokaId": 9000000983732,
+        "HotelName": "Shophouse the Social Hostel",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "48 Arab Street",
+        "Lat": 1.300805,
+        "Lng": 103.859767
+    },
+    {
+        "TravelLokaId": 9000000983905,
+        "HotelName": "Mori Hostel",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "429 Race Course Rd",
+        "Lat": 1.315957,
+        "Lng": 103.857663
+    },
+    {
+        "TravelLokaId": 9000000984047,
+        "HotelName": "Pinnacle Hotel",
+        "Country": "Singapore",
+        "City": "Kallang",
+        "Address": "270 Jalan Besar",
+        "Lat": 1.310241,
+        "Lng": 103.858667
+    },
+    {
+        "TravelLokaId": 9000000984081,
+        "HotelName": "Heritage @ Cityhall",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "39 Seah Street",
+        "Lat": 1.295954,
+        "Lng": 103.854899
+    },
+    {
+        "TravelLokaId": 9000000984135,
+        "HotelName": "Heritage @ Southbridge",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "36 South Bridge Road",
+        "Lat": 1.2880491,
+        "Lng": 103.848728
+    },
+    {
+        "TravelLokaId": 9000000984588,
+        "HotelName": "AM Hotel Singapore",
+        "Country": "Singapore",
+        "City": "East Coast",
+        "Address": "51 Joo Chiat Road",
+        "Lat": 1.315077,
+        "Lng": 103.898489
+    },
+    {
+        "TravelLokaId": 9000000984964,
+        "HotelName": "Hotel Duke",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "44 Lorong 6 Geylang",
+        "Lat": 1.30999,
+        "Lng": 103.8764979
+    },
+    {
+        "TravelLokaId": 9000000985506,
+        "HotelName": "Rucksack Inn @ Temple Street",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "52 Temple Street",
+        "Lat": 1.2833629,
+        "Lng": 103.8435941
+    },
+    {
+        "TravelLokaId": 9000000985773,
+        "HotelName": "Riverside Hotel Robertson Quay Singapore",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "1 Unity Street",
+        "Lat": 1.2915905,
+        "Lng": 103.8422782
+    },
+    {
+        "TravelLokaId": 9000000986030,
+        "HotelName": "Lion Peak Hotel Dickson",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "23 Dickson Road, Singapore 209507",
+        "Lat": 1.3051509,
+        "Lng": 103.8541308
+    },
+    {
+        "TravelLokaId": 9000000986036,
+        "HotelName": "Lion Peak Hotel Hamilton",
+        "Country": "Singapore",
+        "City": "Lavender",
+        "Address": "35 Hamilton Road",
+        "Lat": 1.3118282,
+        "Lng": 103.8611802
+    },
+    {
+        "TravelLokaId": 9000000986290,
+        "HotelName": "Lion Peak Hotel Raffles",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "23 Middle Road, Singapore 188933",
+        "Lat": 1.296811,
+        "Lng": 103.8557291
+    },
+    {
+        "TravelLokaId": 9000000987611,
+        "HotelName": "Galaxy Pods Capsule Hotel Boat Quay",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "12 Circular Road",
+        "Lat": 1.2876562,
+        "Lng": 103.8489561
+    },
+    {
+        "TravelLokaId": 9000000988300,
+        "HotelName": "Atelier",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "259 South Bridge Road",
+        "Lat": 1.282147,
+        "Lng": 103.8454178
+    },
+    {
+        "TravelLokaId": 9000001026791,
+        "HotelName": "Seaside Glamping @ Heritage Chalet",
+        "Country": "Singapore",
+        "City": "Pasir Ris",
+        "Address": "125a Pasir Ris Road",
+        "Lat": 1.3863953,
+        "Lng": 103.9416986
+    },
+    {
+        "TravelLokaId": 9000001042325,
+        "HotelName": "Vibe Hotel Singapore Orchard",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "24 Mount Elizabeth",
+        "Lat": 1.3080008,
+        "Lng": 103.8356317
+    },
+    {
+        "TravelLokaId": 9000001043102,
+        "HotelName": "HI Hotel DOT",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "56 Sims Ave",
+        "Lat": 1.3132693,
+        "Lng": 103.8758989
+    },
+    {
+        "TravelLokaId": 9000001043137,
+        "HotelName": "Hotel Duke (Crystal)",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "586 Geylang Road",
+        "Lat": 1.3140613,
+        "Lng": 103.8875659
+    },
+    {
+        "TravelLokaId": 9000001043260,
+        "HotelName": "Coller Boutique Hostel",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "259 Outram Road",
+        "Lat": 1.2850454,
+        "Lng": 103.8347855
+    },
+    {
+        "TravelLokaId": 9000001043434,
+        "HotelName": "Citadines Connect City Centre Singapore",
+        "Country": "Singapore",
+        "City": "Orchard",
+        "Address": "182 Clemenceau Ave",
+        "Lat": 1.2977461,
+        "Lng": 103.8440925
+    },
+    {
+        "TravelLokaId": 9000001046846,
+        "HotelName": "Beverly Hotels Elements",
+        "Country": "Singapore",
+        "City": "Lavender",
+        "Address": "48 Horne Road",
+        "Lat": 1.3094292,
+        "Lng": 103.86198
+    },
+    {
+        "TravelLokaId": 9000001046970,
+        "HotelName": "Victoria Hotel, a NuVe Group Collection",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "87 Victoria Street",
+        "Lat": 1.2971551,
+        "Lng": 103.8524666
+    },
+    {
+        "TravelLokaId": 9000001069688,
+        "HotelName": "L Hotel @ 51 Desker",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "51 Desker Road",
+        "Lat": 1.3091021,
+        "Lng": 103.8552577
+    },
+    {
+        "TravelLokaId": 9000001070942,
+        "HotelName": "Haising Hotel",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "37 Jalan Besar",
+        "Lat": 1.3045851,
+        "Lng": 103.8546685
+    },
+    {
+        "TravelLokaId": 9000001072216,
+        "HotelName": "7 Wonders Capsule Hostel @ Boat Quay",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "65 South Bridge Road",
+        "Lat": 1.2869355,
+        "Lng": 103.8482216
+    },
+    {
+        "TravelLokaId": 9000001072996,
+        "HotelName": "Wink @ Upper Cross Street",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "38 Upper Cross Street",
+        "Lat": 1.2842273,
+        "Lng": 103.844889
+    },
+    {
+        "TravelLokaId": 9000001073135,
+        "HotelName": "Momentus Hotel Alexandra",
+        "Country": "Singapore",
+        "City": "HarbourFront",
+        "Address": "323 Alexandra Road",
+        "Lat": 1.286390009,
+        "Lng": 103.805023487
+    },
+    {
+        "TravelLokaId": 9000001099859,
+        "HotelName": "Citadines Connect Rochester Singapore",
+        "Country": "Singapore",
+        "City": "HarbourFront",
+        "Address": "1 Rochester Park",
+        "Lat": 1.305308,
+        "Lng": 103.787689
+    },
+    {
+        "TravelLokaId": 9000001100150,
+        "HotelName": "D'nova Hotel",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "14 Purvis Street",
+        "Lat": 1.2964406,
+        "Lng": 103.8553812
+    },
+    {
+        "TravelLokaId": 9000001109476,
+        "HotelName": "SG02 - Singapore (Bugis)",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "101 Victoria Street",
+        "Lat": 1.2974,
+        "Lng": 103.8528
+    },
+    {
+        "TravelLokaId": 9000001109576,
+        "HotelName": "I - Hotel",
+        "Country": "Singapore",
+        "City": "Clarke Quay",
+        "Address": "47A Circular Road",
+        "Lat": 1.2860436,
+        "Lng": 103.8494558
+    },
+    {
+        "TravelLokaId": 9000001109600,
+        "HotelName": "Hotel 1900 @ Chinatown",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "48 Mosque Street",
+        "Lat": 1.2842078,
+        "Lng": 103.8443301
+    },
+    {
+        "TravelLokaId": 9000001109849,
+        "HotelName": "Owen House by Hmlet",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "2 Owen Road",
+        "Lat": 1.3117237,
+        "Lng": 103.8549935
+    },
+    {
+        "TravelLokaId": 9000001110033,
+        "HotelName": "Hotel 81 Lavender",
+        "Country": "Singapore",
+        "City": "Lavender",
+        "Address": "85 Lavender Street",
+        "Lat": 1.310831,
+        "Lng": 103.86232
+    },
+    {
+        "TravelLokaId": 9000001133491,
+        "HotelName": "HOTEL JJH",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "747 North Bridge Road",
+        "Lat": 1.3030196,
+        "Lng": 103.8592189
+    },
+    {
+        "TravelLokaId": 9000001133868,
+        "HotelName": "Dream Chaser Boutique Capsule Hotel",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "38 Sultan Gate",
+        "Lat": 1.3015519,
+        "Lng": 103.8608735
+    },
+    {
+        "TravelLokaId": 9000001136086,
+        "HotelName": "The Assembly Place, a Co-living Hotel @ Veerasamy",
+        "Country": "Singapore",
+        "City": "Little India",
+        "Address": "3 Veerasamy Road",
+        "Lat": 1.3076218,
+        "Lng": 103.853906
+    },
+    {
+        "TravelLokaId": 9000001152036,
+        "HotelName": "Hotel 81 Joy",
+        "Country": "Singapore",
+        "City": "Geylang",
+        "Address": "11 Lor 11 Geylang",
+        "Lat": 1.3128125,
+        "Lng": 103.8769375
+    },
+    {
+        "TravelLokaId": 9000001152047,
+        "HotelName": "Arena eSports Hotel @ Bugis Village",
+        "Country": "Singapore",
+        "City": "Bugis",
+        "Address": "166A Rochor Road",
+        "Lat": 1.3009103,
+        "Lng": 103.8557062
+    },
+    {
+        "TravelLokaId": 9000001152051,
+        "HotelName": "Resorts World Sentosa - Hotel Ora",
+        "Country": "Singapore",
+        "City": "Sentosa Island",
+        "Address": "8 Sentosa Gateway",
+        "Lat": 1.257618,
+        "Lng": 103.8225831
+    },
+    {
+        "TravelLokaId": 9000001152874,
+        "HotelName": "Jyu Capsule Hotel",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "46 Smith Street, Level 2 & 3",
+        "Lat": 1.2827215,
+        "Lng": 103.8435698
+    },
+    {
+        "TravelLokaId": 9000001152992,
+        "HotelName": "ST Signature Tanjong Pagar, SHORT OVERNIGHT, 14 hours: 8PM-10AM",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "32 Tras Street, Singapore",
+        "Lat": 1.2786335,
+        "Lng": 103.8443306
+    },
+    {
+        "TravelLokaId": 9000001153009,
+        "HotelName": "ST Signature Tanjong Pagar, DAYUSE, 6 hours: 12PM-6PM",
+        "Country": "Singapore",
+        "City": "Chinatown",
+        "Address": "32 Tras Street",
+        "Lat": 1.2786335,
+        "Lng": 103.8443306
+    }
+]
