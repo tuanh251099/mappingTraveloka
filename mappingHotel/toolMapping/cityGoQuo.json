@@ -1,0 +1,743 @@
+[
+    {
+        "City": "Nha Trang"
+    },
+    {
+        "City": "Hanoi"
+    },
+    {
+        "City": "Hue"
+    },
+    {
+        "City": "Ho Chi Minh City"
+    },
+    {
+        "City": "Phan Thiet"
+    },
+    {
+        "City": "Ha Long"
+    },
+    {
+        "City": "Da Nang"
+    },
+    {
+        "City": "Hoi An"
+    },
+    {
+        "City": "Long Dien"
+    },
+    {
+        "City": "Phu Quoc"
+    },
+    {
+        "City": "Quy Nhon"
+    },
+    {
+        "City": "Dalat"
+    },
+    {
+        "City": "Hai Phong"
+    },
+    {
+        "City": "Ninh Hoa"
+    },
+    {
+        "City": "Phan Rang - Thap Cham"
+    },
+    {
+        "City": "Phu Loc"
+    },
+    {
+        "City": "Phu Quoc Island"
+    },
+    {
+        "City": "Tam Hai"
+    },
+    {
+        "City": "Da Lat"
+    },
+    {
+        "City": "Dien Ban"
+    },
+    {
+        "City": "Ham Thuan Nam"
+    },
+    {
+        "City": "Cat Ba Island"
+    },
+    {
+        "City": "Can Tho"
+    },
+    {
+        "City": "Haiphong"
+    },
+    {
+        "City": "Halong"
+    },
+    {
+        "City": "Con Dao Islands"
+    },
+    {
+        "City": "Doc Let"
+    },
+    {
+        "City": "Sa Pa"
+    },
+    {
+        "City": "HALONG BAY"
+    },
+    {
+        "City": "Vung Tau"
+    },
+    {
+        "City": "Xuyen Moc"
+    },
+    {
+        "City": "Chau Doc"
+    },
+    {
+        "City": "Mai Chau"
+    },
+    {
+        "City": "Dong Hoi"
+    },
+    {
+        "City": "Đà Nẵng"
+    },
+    {
+        "City": "Con Son"
+    },
+    {
+        "City": "Phu Vang"
+    },
+    {
+        "City": "DANANG"
+    },
+    {
+        "City": "Ouy Nhon"
+    },
+    {
+        "City": "Thuan An"
+    },
+    {
+        "City": "Van Ninh"
+    },
+    {
+        "City": "Cam Lam"
+    },
+    {
+        "City": "Gia Vien"
+    },
+    {
+        "City": "HO CHI MINH"
+    },
+    {
+        "City": "NHA TRANG City"
+    },
+    {
+        "City": "Sapa"
+    },
+    {
+        "City": "Ninh Binh"
+    },
+    {
+        "City": "Buon Ma Thuot"
+    },
+    {
+        "City": "Dien Bien Phu"
+    },
+    {
+        "City": "Trang Bom"
+    },
+    {
+        "City": "Pleiku (Gia Lai)"
+    },
+    {
+        "City": "Cai Be"
+    },
+    {
+        "City": "Bien Hoa"
+    },
+    {
+        "City": "Ninh Hai"
+    },
+    {
+        "City": "Tuy Hoa"
+    },
+    {
+        "City": "Quang Ngai"
+    },
+    {
+        "City": "Lao Cai"
+    },
+    {
+        "City": "Lang Son"
+    },
+    {
+        "City": "La Gi"
+    },
+    {
+        "City": "Phuc Yen"
+    },
+    {
+        "City": "Chau Doc (An Giang)"
+    },
+    {
+        "City": "Đồng Hới (Quảng Bình)"
+    },
+    {
+        "City": "Tuy Hoa (Phu Yen)"
+    },
+    {
+        "City": "Hai Duong"
+    },
+    {
+        "City": "Rach Gia"
+    },
+    {
+        "City": "Hoa Lu"
+    },
+    {
+        "City": "Mui Ne"
+    },
+    {
+        "City": "Vinh"
+    },
+    {
+        "City": "My Tho"
+    },
+    {
+        "City": "Pleiku"
+    },
+    {
+        "City": "Duong Dong"
+    },
+    {
+        "City": "Ha Noi"
+    },
+    {
+        "City": "My Tho (Tien Giang)"
+    },
+    {
+        "City": "Phan Rang"
+    },
+    {
+        "City": "Tulum"
+    },
+    {
+        "City": "Nho Quan"
+    },
+    {
+        "City": "Lien Son"
+    },
+    {
+        "City": "Bao Loc"
+    },
+    {
+        "City": "Cua Lo"
+    },
+    {
+        "City": "Viet Trì"
+    },
+    {
+        "City": "Ben Tre"
+    },
+    {
+        "City": "Binh Son"
+    },
+    {
+        "City": "Dong Ha"
+    },
+    {
+        "City": "Ha Tinh"
+    },
+    {
+        "City": "Thu Dau Mot"
+    },
+    {
+        "City": "Da-Nang"
+    },
+    {
+        "City": "Lai Chau"
+    },
+    {
+        "City": "Ho-Chi-Minh"
+    },
+    {
+        "City": "Tuan Chau"
+    },
+    {
+        "City": "Tan Phu"
+    },
+    {
+        "City": "Moc Chau"
+    },
+    {
+        "City": "Ky Anh"
+    },
+    {
+        "City": "Bo Trach"
+    },
+    {
+        "City": "Bac Giang"
+    },
+    {
+        "City": "Kon Tum"
+    },
+    {
+        "City": "Bac Ha"
+    },
+    {
+        "City": "Dien Chau"
+    },
+    {
+        "City": "Mai Chau (Hoa Binh)"
+    },
+    {
+        "City": "Tam Dao"
+    },
+    {
+        "City": "Thanh Hoa"
+    },
+    {
+        "City": "Hoa Binh"
+    },
+    {
+        "City": "Son Tinh"
+    },
+    {
+        "City": "Ha Giang"
+    },
+    {
+        "City": "Tam Ky"
+    },
+    {
+        "City": "Quang Tri"
+    },
+    {
+        "City": "Khe Sanh"
+    },
+    {
+        "City": "Sam Son"
+    },
+    {
+        "City": "Phong Dien"
+    },
+    {
+        "City": "Dat Do"
+    },
+    {
+        "City": "Cua Lap"
+    },
+    {
+        "City": "Phu My"
+    },
+    {
+        "City": "Bac Lieu"
+    },
+    {
+        "City": "Vi Thuy"
+    },
+    {
+        "City": "Da Huoai"
+    },
+    {
+        "City": "Ha Tien"
+    },
+    {
+        "City": "Long Ho"
+    },
+    {
+        "City": "Côn Đảo Islands"
+    },
+    {
+        "City": "Cham Islands"
+    },
+    {
+        "City": "Nam Dinh"
+    },
+    {
+        "City": "Vinh Phuc"
+    },
+    {
+        "City": "Binh Minh"
+    },
+    {
+        "City": "Ca Na"
+    },
+    {
+        "City": "Bac Ninh"
+    },
+    {
+        "City": "Kim Boi"
+    },
+    {
+        "City": "Thai Nguyen"
+    },
+    {
+        "City": "Tu Son"
+    },
+    {
+        "City": "Cu Yên"
+    },
+    {
+        "City": "Hai Hau"
+    },
+    {
+        "City": "Co Nhue"
+    },
+    {
+        "City": "Duc Pho"
+    },
+    {
+        "City": "Ly Son"
+    },
+    {
+        "City": "Rach Gia (Kien Giang)"
+    },
+    {
+        "City": "Lao Bao"
+    },
+    {
+        "City": "Long Xuyên"
+    },
+    {
+        "City": "Long Xuyen (An Giang)"
+    },
+    {
+        "City": "Cao Lanh"
+    },
+    {
+        "City": "Lagi"
+    },
+    {
+        "City": "Ba Ria"
+    },
+    {
+        "City": "Tuyen Quang"
+    },
+    {
+        "City": "Sa Dec"
+    },
+    {
+        "City": "Mong Cai"
+    },
+    {
+        "City": "Dong Ha (Quang Tri)"
+    },
+    {
+        "City": "Ca Mau"
+    },
+    {
+        "City": "Ho Coc"
+    },
+    {
+        "City": "Thach Loi"
+    },
+    {
+        "City": "Vinh Long"
+    },
+    {
+        "City": "Cai Lay"
+    },
+    {
+        "City": "Ham Tan"
+    },
+    {
+        "City": "Gio Linh"
+    },
+    {
+        "City": "Hoang Mai"
+    },
+    {
+        "City": "QUANG BINH"
+    },
+    {
+        "City": "Loc Ha"
+    },
+    {
+        "City": "Ba Thuoc"
+    },
+    {
+        "City": "Lac Duong"
+    },
+    {
+        "City": "Giong Trom"
+    },
+    {
+        "City": "Cam Ranh"
+    },
+    {
+        "City": "Dong Van"
+    },
+    {
+        "City": "Co To"
+    },
+    {
+        "City": "Hoa Vang"
+    },
+    {
+        "City": "DAO PHU QUOC"
+    },
+    {
+        "City": "Tay Ninh"
+    },
+    {
+        "City": "Thuan Nam"
+    },
+    {
+        "City": "Lak"
+    },
+    {
+        "City": "Phu Ly"
+    },
+    {
+        "City": "Hoang Hoa"
+    },
+    {
+        "City": "Quang Ninh"
+    },
+    {
+        "City": "Uông Bí"
+    },
+    {
+        "City": "Van Thanh"
+    },
+    {
+        "City": "Vinh Tuong"
+    },
+    {
+        "City": "Nam Cat Tien"
+    },
+    {
+        "City": "Con Cuong"
+    },
+    {
+        "City": "Cao Bang"
+    },
+    {
+        "City": "Mo Cay Bac"
+    },
+    {
+        "City": "Van Don"
+    },
+    {
+        "City": "Ninh Phuoc"
+    },
+    {
+        "City": "Pho Yen"
+    },
+    {
+        "City": "Cam Pha"
+    },
+    {
+        "City": "Ba Be"
+    },
+    {
+        "City": "Huong Tra"
+    },
+    {
+        "City": "Quy Nhon (Binh Dinh)"
+    },
+    {
+        "City": "Luc Yen"
+    },
+    {
+        "City": "Thai Binh"
+    },
+    {
+        "City": "Di Linh"
+    },
+    {
+        "City": "Lang Co"
+    },
+    {
+        "City": "Thai Nyguen"
+    },
+    {
+        "City": "Dong Hoi (Quang Binh)"
+    },
+    {
+        "City": "Dong Giang"
+    },
+    {
+        "City": "Phan Rang - Thap Cham (Ninh Thuan)"
+    },
+    {
+        "City": "Tinh Gia"
+    },
+    {
+        "City": "Phu Ninh"
+    },
+    {
+        "City": "Trang Bang"
+    },
+    {
+        "City": "Nam Can (Ca Mau)"
+    },
+    {
+        "City": "Binh Duong"
+    },
+    {
+        "City": "Chau Thanh"
+    },
+    {
+        "City": "Phu Cat"
+    },
+    {
+        "City": "Lao Cai City"
+    },
+    {
+        "City": "Cao Loc"
+    },
+    {
+        "City": "Ha Tien (Kien Giang)"
+    },
+    {
+        "City": "Tam Dao (Vinh Phuc)"
+    },
+    {
+        "City": "Bac Ha (Lao Cai)"
+    },
+    {
+        "City": "Thanh Hoa / Sam Son Beach"
+    },
+    {
+        "City": "Cua Lo Beach"
+    },
+    {
+        "City": "Vinh Loi"
+    },
+    {
+        "City": "Kiên Hai"
+    },
+    {
+        "City": "Son Tay"
+    },
+    {
+        "City": "Long Hai"
+    },
+    {
+        "City": "Soc Trang"
+    },
+    {
+        "City": "Huyen Van Don"
+    },
+    {
+        "City": "QUANG NAM"
+    },
+    {
+        "City": "Yen Minh"
+    },
+    {
+        "City": "Thang Binh"
+    },
+    {
+        "City": "Bao Thang"
+    },
+    {
+        "City": "Moc Hoa"
+    },
+    {
+        "City": "Vinh Yen"
+    },
+    {
+        "City": "Cho Lach"
+    },
+    {
+        "City": "Nghia Dan"
+    },
+    {
+        "City": "Cham Island"
+    },
+    {
+        "City": "Tan Lac"
+    },
+    {
+        "City": "Quy Nhơn (Bình Định)"
+    },
+    {
+        "City": "Son La"
+    },
+    {
+        "City": "Mu Cang Chai"
+    },
+    {
+        "City": "Bac Son"
+    },
+    {
+        "City": "Côn Son Island"
+    },
+    {
+        "City": "Trung Khanh"
+    },
+    {
+        "City": "Di An"
+    },
+    {
+        "City": "Song Cau"
+    },
+    {
+        "City": "Hoi-An"
+    },
+    {
+        "City": "Kon Plong"
+    },
+    {
+        "City": "Duc Trong"
+    },
+    {
+        "City": "Tu Son (Bac Ninh)"
+    },
+    {
+        "City": "Tu Ky"
+    },
+    {
+        "City": "Nui Thanh"
+    },
+    {
+        "City": "Que Vo"
+    },
+    {
+        "City": "Tu Nghia"
+    },
+    {
+        "City": "Tuy Phong"
+    },
+    {
+        "City": "Thanh Chuong"
+    },
+    {
+        "City": "Tinh Bien"
+    },
+    {
+        "City": "Yen Binh"
+    },
+    {
+        "City": "Phu-Quoc"
+    },
+    {
+        "City": "Tra Vinh"
+    },
+    {
+        "City": "Bien Hoa (Dong Nai)"
+    },
+    {
+        "City": "Tam Ky (Quang Nam)"
+    },
+    {
+        "City": "Lam Dong"
+    },
+    {
+        "City": "Gia Nghia"
+    },
+    {
+        "City": "Yen Phong"
+    },
+    {
+        "City": "Thuan Bac"
+    },
+    {
+        "City": "Duy Xuyen"
+    }
+]

@@ -1,0 +1,860 @@
+[
+  {
+    "City": "An Bien District"
+  },
+  {
+    "City": "An Duong District"
+  },
+  {
+    "City": "An Nhơn Town"
+  },
+  {
+    "City": "An Phu District"
+  },
+  {
+    "City": "Ba Be District"
+  },
+  {
+    "City": "Ba Dinh District"
+  },
+  {
+    "City": "Ba Ria City"
+  },
+  {
+    "City": "Ba Thuoc District"
+  },
+  {
+    "City": "Ba Vi District"
+  },
+  {
+    "City": "Bac Binh District"
+  },
+  {
+    "City": "Bac Giang City"
+  },
+  {
+    "City": "Bac Ha District"
+  },
+  {
+    "City": "Bac Lieu City"
+  },
+  {
+    "City": "Bac Ninh City"
+  },
+  {
+    "City": "Bac Quang District"
+  },
+  {
+    "City": "Bac Tu Liem District"
+  },
+  {
+    "City": "Bac Yen District"
+  },
+  {
+    "City": "Bao Lac District"
+  },
+  {
+    "City": "Bao Lam District"
+  },
+  {
+    "City": "Bao Loc City"
+  },
+  {
+    "City": "Ben Cat Town"
+  },
+  {
+    "City": "Ben Luc District"
+  },
+  {
+    "City": "Ben Tre City"
+  },
+  {
+    "City": "Bien Hoa City"
+  },
+  {
+    "City": "Bim Son Town"
+  },
+  {
+    "City": "Binh Chanh District"
+  },
+  {
+    "City": "Binh Minh Town"
+  },
+  {
+    "City": "Binh Son District"
+  },
+  {
+    "City": "Binh Tan District"
+  },
+  {
+    "City": "Binh Thanh District"
+  },
+  {
+    "City": "Binh Thuy District"
+  },
+  {
+    "City": "Binh Xuyen District"
+  },
+  {
+    "City": "Bo Trach District"
+  },
+  {
+    "City": "Buon Ma Thuot City"
+  },
+  {
+    "City": "Ca Mau city"
+  },
+  {
+    "City": "Cai Be District"
+  },
+  {
+    "City": "Cai Lay District"
+  },
+  {
+    "City": "Cai Rang District"
+  },
+  {
+    "City": "Cam Le District"
+  },
+  {
+    "City": "Cam Pha City"
+  },
+  {
+    "City": "Cam Ranh City"
+  },
+  {
+    "City": "Cam Xuyen District"
+  },
+  {
+    "City": "Can Gio District"
+  },
+  {
+    "City": "Cang Long District"
+  },
+  {
+    "City": "Cao Bang City"
+  },
+  {
+    "City": "Cao Lanh City"
+  },
+  {
+    "City": "Cao Phong District"
+  },
+  {
+    "City": "Cat Hai District"
+  },
+  {
+    "City": "Cau Giay District"
+  },
+  {
+    "City": "Chau Doc City"
+  },
+  {
+    "City": "Chau Duc District"
+  },
+  {
+    "City": "Chau Phu District"
+  },
+  {
+    "City": "Chau Thanh District"
+  },
+  {
+    "City": "Chu Puh District"
+  },
+  {
+    "City": "Chuong My District"
+  },
+  {
+    "City": "Co To District"
+  },
+  {
+    "City": "Con Cuong District"
+  },
+  {
+    "City": "Con Dao (Hon Son) District"
+  },
+  {
+    "City": "Cu Chi District"
+  },
+  {
+    "City": "Cua Lo Town"
+  },
+  {
+    "City": "Da Huoai District"
+  },
+  {
+    "City": "Da Lat"
+  },
+  {
+    "City": "Da Teh District"
+  },
+  {
+    "City": "Dai Tu District"
+  },
+  {
+    "City": "Dat Do District"
+  },
+  {
+    "City": "Di An Town"
+  },
+  {
+    "City": "Dien Ban District, Hoi An"
+  },
+  {
+    "City": "Dien Bien Phu City"
+  },
+  {
+    "City": "Dien Chau District"
+  },
+  {
+    "City": "District 1"
+  },
+  {
+    "City": "District 10"
+  },
+  {
+    "City": "District 11"
+  },
+  {
+    "City": "District 12"
+  },
+  {
+    "City": "District 2"
+  },
+  {
+    "City": "District 3"
+  },
+  {
+    "City": "District 4"
+  },
+  {
+    "City": "District 5"
+  },
+  {
+    "City": "District 6"
+  },
+  {
+    "City": "District 7"
+  },
+  {
+    "City": "District 8"
+  },
+  {
+    "City": "District 9"
+  },
+  {
+    "City": "Do Son District"
+  },
+  {
+    "City": "Dong Anh District"
+  },
+  {
+    "City": "Dong Da District"
+  },
+  {
+    "City": "Dong Giang District"
+  },
+  {
+    "City": "Dong Ha City"
+  },
+  {
+    "City": "Dong Hoa District"
+  },
+  {
+    "City": "Dong Hoi City"
+  },
+  {
+    "City": "Dong Hung District"
+  },
+  {
+    "City": "Dong Van District"
+  },
+  {
+    "City": "Dong Xoai Town"
+  },
+  {
+    "City": "Duc Hoa District"
+  },
+  {
+    "City": "Duc Pho"
+  },
+  {
+    "City": "Duc Trong District"
+  },
+  {
+    "City": "Duong Kinh District"
+  },
+  {
+    "City": "Duy Tien District"
+  },
+  {
+    "City": "Duy Xuyen District"
+  },
+  {
+    "City": "Gia Lam District"
+  },
+  {
+    "City": "Gia Nghia Town"
+  },
+  {
+    "City": "Gia Vien District"
+  },
+  {
+    "City": "Giong Trom District"
+  },
+  {
+    "City": "Go Vap District"
+  },
+  {
+    "City": "Ha Dong District"
+  },
+  {
+    "City": "Ha Giang City"
+  },
+  {
+    "City": "Ha Long City"
+  },
+  {
+    "City": "Ha Tien Town"
+  },
+  {
+    "City": "Ha Tinh City"
+  },
+  {
+    "City": "Hai An District"
+  },
+  {
+    "City": "Hai Ba Trung District"
+  },
+  {
+    "City": "Hai Chau District"
+  },
+  {
+    "City": "Hai Duong City"
+  },
+  {
+    "City": "Hai Lang District"
+  },
+  {
+    "City": "Ham Thuan Nam District"
+  },
+  {
+    "City": "Hoa Binh City"
+  },
+  {
+    "City": "Hoa Lu District"
+  },
+  {
+    "City": "Hoa Thanh District"
+  },
+  {
+    "City": "Hoa Vang District"
+  },
+  {
+    "City": "Hoai Duc District"
+  },
+  {
+    "City": "Hoan Kiem District"
+  },
+  {
+    "City": "Hoang Hoa District"
+  },
+  {
+    "City": "Hoang Mai District"
+  },
+  {
+    "City": "Hoang Su Phi District"
+  },
+  {
+    "City": "Hoc Mon District"
+  },
+  {
+    "City": "Hoi An"
+  },
+  {
+    "City": "Hong Bang District"
+  },
+  {
+    "City": "Hong Ngu Town"
+  },
+  {
+    "City": "Hoàng Mai Town"
+  },
+  {
+    "City": "Hue City"
+  },
+  {
+    "City": "Hung Nguyen District"
+  },
+  {
+    "City": "Huong Thuy Town"
+  },
+  {
+    "City": "Huong Tra Town"
+  },
+  {
+    "City": "Kien Hai District"
+  },
+  {
+    "City": "Kien Luong District"
+  },
+  {
+    "City": "Kien Xuong District"
+  },
+  {
+    "City": "Kim Bang District"
+  },
+  {
+    "City": "Kim Boi District"
+  },
+  {
+    "City": "Kon Plong District"
+  },
+  {
+    "City": "Kon Tum city"
+  },
+  {
+    "City": "Ky Anh Town"
+  },
+  {
+    "City": "Ky Son District"
+  },
+  {
+    "City": "La Gi Town"
+  },
+  {
+    "City": "Lac Duong District, Da Lat"
+  },
+  {
+    "City": "Lac Thuy District"
+  },
+  {
+    "City": "Lai Chau City"
+  },
+  {
+    "City": "Lak District"
+  },
+  {
+    "City": "Lang Son City"
+  },
+  {
+    "City": "Lao Cai City"
+  },
+  {
+    "City": "Le Chan District"
+  },
+  {
+    "City": "Lien Chieu District"
+  },
+  {
+    "City": "Loc Ha district"
+  },
+  {
+    "City": "Long Bien District"
+  },
+  {
+    "City": "Long Dien District"
+  },
+  {
+    "City": "Long Ho District"
+  },
+  {
+    "City": "Long Khanh Town"
+  },
+  {
+    "City": "Long Thanh District"
+  },
+  {
+    "City": "Long Xuyen City"
+  },
+  {
+    "City": "Luc Yen District"
+  },
+  {
+    "City": "Luong Son District"
+  },
+  {
+    "City": "Ly Nhan"
+  },
+  {
+    "City": "Ly Son District"
+  },
+  {
+    "City": "Mai Chau District"
+  },
+  {
+    "City": "Mang Yang District"
+  },
+  {
+    "City": "Me Linh District"
+  },
+  {
+    "City": "Meo Vac District"
+  },
+  {
+    "City": "Mo Cay Bac District"
+  },
+  {
+    "City": "Mo Cay Nam District"
+  },
+  {
+    "City": "Moc Chau District"
+  },
+  {
+    "City": "Moc Hoa District"
+  },
+  {
+    "City": "Mong Cai City"
+  },
+  {
+    "City": "My Duc District"
+  },
+  {
+    "City": "My Tho City"
+  },
+  {
+    "City": "Nam Can District"
+  },
+  {
+    "City": "Nam Dinh City"
+  },
+  {
+    "City": "Nam Tu Liem District"
+  },
+  {
+    "City": "Nghi Xuan district"
+  },
+  {
+    "City": "Nghia Dan District"
+  },
+  {
+    "City": "Nghia Tan Ward, Cau Giay District"
+  },
+  {
+    "City": "Ngo Quyen District"
+  },
+  {
+    "City": "Ngu Hanh Son District"
+  },
+  {
+    "City": "Nha Be District"
+  },
+  {
+    "City": "Nha Trang"
+  },
+  {
+    "City": "Nho Quan District"
+  },
+  {
+    "City": "Nhon Trach District"
+  },
+  {
+    "City": "Ninh Binh City"
+  },
+  {
+    "City": "Ninh Hai District"
+  },
+  {
+    "City": "Ninh Hoa Town, Nha Trang"
+  },
+  {
+    "City": "Ninh Kieu District"
+  },
+  {
+    "City": "Nong Cong District"
+  },
+  {
+    "City": "Nui Thanh District"
+  },
+  {
+    "City": "Phan Rang - Thap Cham City"
+  },
+  {
+    "City": "Phan Thiet City"
+  },
+  {
+    "City": "Pho Yen Town"
+  },
+  {
+    "City": "Phong Dien District"
+  },
+  {
+    "City": "Phu Cat District, Quy Nhon City"
+  },
+  {
+    "City": "Phu Loc District, Hue City"
+  },
+  {
+    "City": "Phu Ly City"
+  },
+  {
+    "City": "Phu Nhuan District"
+  },
+  {
+    "City": "Phu Ninh District"
+  },
+  {
+    "City": "Phu Quoc"
+  },
+  {
+    "City": "Phu Quy District"
+  },
+  {
+    "City": "Phu Vang District"
+  },
+  {
+    "City": "Phuc Yen Town"
+  },
+  {
+    "City": "Pleiku City"
+  },
+  {
+    "City": "Quan Ba District"
+  },
+  {
+    "City": "Quang Dien District"
+  },
+  {
+    "City": "Quang Ngai City"
+  },
+  {
+    "City": "Quang Ninh District"
+  },
+  {
+    "City": "Quoc Oai District"
+  },
+  {
+    "City": "Quy Nhon City"
+  },
+  {
+    "City": "Quynh Luu District"
+  },
+  {
+    "City": "Rach Gia City"
+  },
+  {
+    "City": "Sa Dec City"
+  },
+  {
+    "City": "Sa Pa District"
+  },
+  {
+    "City": "Sam Son Town"
+  },
+  {
+    "City": "Soc Son District"
+  },
+  {
+    "City": "Soc Trang City"
+  },
+  {
+    "City": "Son Hoa District"
+  },
+  {
+    "City": "Son La city"
+  },
+  {
+    "City": "Son Tay Town"
+  },
+  {
+    "City": "Son Tra District"
+  },
+  {
+    "City": "Song Cau Town"
+  },
+  {
+    "City": "Tam Dao District"
+  },
+  {
+    "City": "Tam Duong District"
+  },
+  {
+    "City": "Tam Ky City"
+  },
+  {
+    "City": "Tam Nong District"
+  },
+  {
+    "City": "Tan Binh District"
+  },
+  {
+    "City": "Tan Lac District"
+  },
+  {
+    "City": "Tan Phu District"
+  },
+  {
+    "City": "Tan Thanh District"
+  },
+  {
+    "City": "Tay Ho District"
+  },
+  {
+    "City": "Tay Ninh City"
+  },
+  {
+    "City": "Tay Son District"
+  },
+  {
+    "City": "Thach Ha District"
+  },
+  {
+    "City": "Thach That District"
+  },
+  {
+    "City": "Thai Binh City"
+  },
+  {
+    "City": "Thai Hoa Town"
+  },
+  {
+    "City": "Thai Nguyen City"
+  },
+  {
+    "City": "Thang Binh District"
+  },
+  {
+    "City": "Thanh Hoa City"
+  },
+  {
+    "City": "Thanh Khe District"
+  },
+  {
+    "City": "Thanh Thuy District"
+  },
+  {
+    "City": "Thanh Tri District"
+  },
+  {
+    "City": "Thanh Xuan District"
+  },
+  {
+    "City": "Thap Muoi District"
+  },
+  {
+    "City": "Thong Nhat District"
+  },
+  {
+    "City": "Thot Not District"
+  },
+  {
+    "City": "Thu Dau Mot City"
+  },
+  {
+    "City": "Thu Duc District"
+  },
+  {
+    "City": "Thuan An Town"
+  },
+  {
+    "City": "Thuan Nam District"
+  },
+  {
+    "City": "Thuong Tin District"
+  },
+  {
+    "City": "Thuy Nguyen District"
+  },
+  {
+    "City": "Tien Du District"
+  },
+  {
+    "City": "Tinh Bien District"
+  },
+  {
+    "City": "Tinh Gia District"
+  },
+  {
+    "City": "Tra Vinh City"
+  },
+  {
+    "City": "Tram Tau District"
+  },
+  {
+    "City": "Trang Bom District"
+  },
+  {
+    "City": "Tu Nghia District"
+  },
+  {
+    "City": "Tu Son Town"
+  },
+  {
+    "City": "Tuy An District"
+  },
+  {
+    "City": "Tuy Hoa City"
+  },
+  {
+    "City": "Tuy Phong District"
+  },
+  {
+    "City": "Tuy Phuoc District"
+  },
+  {
+    "City": "Tuyen Quang City"
+  },
+  {
+    "City": "U Minh District"
+  },
+  {
+    "City": "Uong Bi City"
+  },
+  {
+    "City": "Van Chan District"
+  },
+  {
+    "City": "Van Don District"
+  },
+  {
+    "City": "Van Giang District"
+  },
+  {
+    "City": "Van Ho District"
+  },
+  {
+    "City": "Van Ninh District"
+  },
+  {
+    "City": "Vi Thanh City"
+  },
+  {
+    "City": "Viet Tri City"
+  },
+  {
+    "City": "Viet Yen District"
+  },
+  {
+    "City": "Vinh City"
+  },
+  {
+    "City": "Vinh Long City"
+  },
+  {
+    "City": "Vinh Tuong District"
+  },
+  {
+    "City": "Vinh Yen City"
+  },
+  {
+    "City": "Vung Tau City"
+  },
+  {
+    "City": "Xuan Loc District"
+  },
+  {
+    "City": "Xuyen Moc District, Vung Tau City"
+  },
+  {
+    "City": "Yen Chau District"
+  },
+  {
+    "City": "Yen Minh District"
+  },
+  {
+    "City": "Yen Mo District"
+  },
+  {
+    "City": "Yen Phong District"
+  }
+]

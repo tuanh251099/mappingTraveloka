@@ -1,0 +1,23 @@
+[
+    {
+        "GoQuoCity": [
+            {
+                "City": "Rach Gia"
+            },
+            {
+                "City": "Rach Gia (Kien Giang)"
+            }
+        ],
+        "TravelokaCity": "An Bien District"
+    },
+    {
+        "GoQuoCity": [
+            {
+                "City": "Hai Phong"
+            }
+        ],
+        "TravelokaCity": "An Duong District"
+    }, {
+        
+    }
+]
