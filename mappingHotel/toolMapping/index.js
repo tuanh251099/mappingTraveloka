@@ -1,7 +1,9 @@
 require("dotenv").config({ path: ".env" });
 const fs = require('fs');
 const {knex} = require ('./model')
-const lstHotelsVN = require('./hotelsTravelokaManualVietNam.json')
+//const lstHotelsVN = require('./hotelsTravelokaManualVietNam.json');
+const lstHotelsVN = require('./hotelsVNManual/hotelsVN_0.json')
+const Promise = require ("bluebird")
 
 async function getCityGoQuo(){
     try {
@@ -18,19 +20,19 @@ async function getCityGoQuo(){
 }
 
 function storeFileJson(relativeHotelByName){
-    const outPutFile = 'hotelRelativebyName.json' 
+    const outPutFile = 'hotelsVNCompareName/hotelsVNRelativebyName0.json' 
     fs.writeFile(outPutFile, JSON.stringify(relativeHotelByName), 'utf8', (err) => {
         if (err) {
           console.error('fail to save file:', err);
           return;
         }
         console.log(`Succes save file with ${outPutFile}`);
-        console.log('length of file: ', relativeHotelByName)
+        console.log('length of file: ', relativeHotelByName.length)
       });
 }
 
 async function getRelativeHotel() {
-    lstHotelsVN.map(async (hotel) => {
+    return Promise.all (lstHotelsVN.map(async (hotel) => {
         let hotelName = hotel.HotelName;
         const ignoreWords = [
             "Hotel",
@@ -62,22 +64,25 @@ async function getRelativeHotel() {
           }
       const data = await knex('hotels')
         .where("name", "like", `%${hotelName}%`)
+        .where("country", "=", "VN")
         .select(
             "hotel_id",
-            "hotel_name",
+            "name",
             "address",
             "city",
-            "latitude",
-            "longitude"
+            "lat",
+            "lng"
         );
         return{
             hotelTraveloka: hotel.HotelName,
+            addressTraveloka: hotel.Address,
+            cityTraveloka: hotel.City,
             mappings:
             data.length > 0
               ? data.map((p) => ({ ...p, supplier_code: "GoQuo"}))
               : [],
         }
-    });
+    }));
   }
   
 

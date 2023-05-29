@@ -1,0 +1,828 @@
+[
+    {
+        "hotelTraveloka": "Hoa Mai Hotel",
+        "addressTraveloka": "723-725 Le Hong Phong",
+        "cityTraveloka": "District 10",
+        "mappings": [
+            {
+                "hotel_id": 570850,
+                "name": "OYO 236 Hoa Mai Boutique Hotel",
+                "address": "99 Ho Nghinh, Phuoc My,",
+                "city": "Da Nang",
+                "lat": 16.073339462,
+                "lng": 108.243049622,
+                "supplier_code": "GoQuo"
+            },
+            {
+                "hotel_id": 4051616,
+                "name": "Hoa Mai Trang",
+                "address": "50 Ngu Chi Son Street, Sa Pa, Lao Cai",
+                "city": "Sa Pa",
+                "lat": 22.3377285,
+                "lng": 103.848655701,
+                "supplier_code": "GoQuo"
+            }
+        ]
+    },
+    {
+        "hotelTraveloka": "Rainbow Hotel 2",
+        "addressTraveloka": "618 Nguyen Chi Thanh Street",
+        "cityTraveloka": "District 11",
+        "mappings": []
+    },
+    {
+        "hotelTraveloka": "Camel Hotel",
+        "addressTraveloka": "8/50 Dao Duy Tu",
+        "cityTraveloka": "Hoan Kiem District",
+        "mappings": [
+            {
+                "hotel_id": 372551,
+                "name": "Camel City Hotel",
+                "address": "10 Thanh Ha Hoan Kiem,",
+                "city": "Hanoi",
+                "lat": 21.037570953,
+                "lng": 105.852050781,
+                "supplier_code": "GoQuo"
+            }
+        ]
+    },
+    {
+        "hotelTraveloka": "Yasaka Huong Sen Restaurant & Hotel",
+        "addressTraveloka": "22B Nguyen Tat Thanh Street",
+        "cityTraveloka": "Tuy Hoa City",
+        "mappings": [
+            {
+                "hotel_id": 438540,
+                "name": "Yasaka Huong Sen Restaurant & Hotel",
+                "address": "22B Nguyen Tat Thanh, Ward 1, Tuy Hoa, Phu Yen",
+                "city": "Tuy Hòa",
+                "lat": 13.084560394,
+                "lng": 109.297470093,
+                "supplier_code": "GoQuo"
+            }
+        ]
+    },
+    {
+        "hotelTraveloka": "Royal Hotel Ha Long",
+        "addressTraveloka": "144 Tran Quoc Nghien",
+        "cityTraveloka": "Ha Long City",
+        "mappings": []
+    },
+    {
+        "hotelTraveloka": "Huong Toan Eco Resort",
+        "addressTraveloka": "Group 7, Ben Tram Hamlet, Cua Duong, Phu Quoc, Kien Giang, Vietnam",
+        "cityTraveloka": "Phu Quoc",
+        "mappings": [
+            {
+                "hotel_id": 431250,
+                "name": "Huong Toan Eco Resort & Spa",
+                "address": "Group 7, Ben Tram Hamlet, Cua Duong, Phu Quoc",
+                "city": "Phu Quoc",
+                "lat": 10.244370461,
+                "lng": 104.017471313,
+                "supplier_code": "GoQuo"
+            }
+        ]
+    },
+    {
+        "hotelTraveloka": "Emis Hotel",
+        "addressTraveloka": "Group 5, Suoi May Hamlet, Duong To",
+        "cityTraveloka": "Phu Quoc",
+        "mappings": [
+            {
+                "hotel_id": 429862,
+                "name": "Emis Hotel",
+                "address": "Group 5, Suoi May Hamlet, Duong To, Duong Dong",
+                "city": "Duong Dong",
+                "lat": 10.179063797,
+                "lng": 103.973144531,
+                "supplier_code": "GoQuo"
+            }
+        ]
+    },
+    {
+        "hotelTraveloka": "Tahiti Resort",
+        "addressTraveloka": "90 Tran Hung Dao, Duong Dong Town",
+        "cityTraveloka": "Phu Quoc",
+        "mappings": []
+    },
+    {
+        "hotelTraveloka": "Thien Phu Nghia Guest House",
+        "addressTraveloka": "174/1, 30/4 Street, Duong Dong Town (Nhà Nghỉ Thiên Phú Nghĩa)",
+        "cityTraveloka": "Phu Quoc",
+        "mappings": []
+    },
+    {
+        "hotelTraveloka": "Phi Phung Hotel",
+        "addressTraveloka": "297 Le Van Sy",
+        "cityTraveloka": "Tan Binh District",
+        "mappings": [
+            {
+                "hotel_id": 597014,
+                "name": "Phi Phung Hotel",
+                "address": "297 Le Van Sy Street, Ward 01, Tan Binh District, Ho Chi Minh City",
+                "city": "Ho Chi Minh City",
+                "lat": 10.794872284,
+                "lng": 106.66733551,
+                "supplier_code": "GoQuo"
+            }
+        ]
+    },
+    {
+        "hotelTraveloka": "Nhat Vy Hotel Dalat",
+        "addressTraveloka": "12 Hoang Hoa Tham",
+        "cityTraveloka": "Da Lat",
+        "mappings": []
+    },
+    {
+        "hotelTraveloka": "The Field Homestay",
+        "addressTraveloka": "Group 3, Thanh Nhut, Cam Thanh 2",
+        "cityTraveloka": "Hoi An",
+        "mappings": [
+            {
+                "hotel_id": 598798,
+                "name": "The Field Homestay",
+                "address": "Group 3, Thanh Nhut, xa Cam Thanh 2, Hoi An",
+                "city": "Hoi An",
+                "lat": 15.875277519,
+                "lng": 108.362815857,
+                "supplier_code": "GoQuo"
+            }
+        ]
+    },
+    {
+        "hotelTraveloka": "Thanh Hoang Chau Hotel",
+        "addressTraveloka": "56 Hoang Dieu",
+        "cityTraveloka": "Hai Chau District",
+        "mappings": [
+            {
+                "hotel_id": 597079,
+                "name": "Thanh Hoang Chau Hotel",
+                "address": "56 Hoang Dieu, Ward Phuoc Ninh,Hai Chau District",
+                "city": "Da Nang",
+                "lat": 16.065008163,
+                "lng": 108.219161987,
+                "supplier_code": "GoQuo"
+            }
+        ]
+    },
+    {
+        "hotelTraveloka": "Up Village Phu Quoc",
+        "addressTraveloka": "Area 4, Cua Lap, Duong To, Duong Dong, Phu Quoc, Vietnam",
+        "cityTraveloka": "Phu Quoc",
+        "mappings": [
+            {
+                "hotel_id": 4375939,
+                "name": "Up Village Phu Quoc",
+                "address": "To 4, Ap Cua Lap",
+                "city": "Phu Quoc",
+                "lat": 10.210800171,
+                "lng": 103.964996338,
+                "supplier_code": "GoQuo"
+            }
+        ]
+    },
+    {
+        "hotelTraveloka": "Hanoi Amore Hotel & Travel",
+        "addressTraveloka": "105 Vu Tong Phan Street",
+        "cityTraveloka": "Thanh Xuan District",
+        "mappings": [
+            {
+                "hotel_id": 591529,
+                "name": "Hanoi Amore Hotel & Travel",
+                "address": "105 Vu Tong Phan, Thanh Xuan,",
+                "city": "Hanoi",
+                "lat": 20.997308731,
+                "lng": 105.816871643,
+                "supplier_code": "GoQuo"
+            }
+        ]
+    },
+    {
+        "hotelTraveloka": "Star City Riverside Hotel by Haviland",
+        "addressTraveloka": "147-149 Tran Hung Dao",
+        "cityTraveloka": "Son Tra District",
+        "mappings": []
+    },
+    {
+        "hotelTraveloka": "iBeach Apartment - Muong Thanh Vien Trieu",
+        "addressTraveloka": "3 -5 Pham Van Dong",
+        "cityTraveloka": "Nha Trang",
+        "mappings": []
+    },
+    {
+        "hotelTraveloka": "Justay Luxury Apartment Da Nang",
+        "addressTraveloka": "120 Vo Nguyen Giap",
+        "cityTraveloka": "Son Tra District",
+        "mappings": []
+    },
+    {
+        "hotelTraveloka": "Moon View Hotel 2",
+        "addressTraveloka": "61 Hang Than",
+        "cityTraveloka": "Ba Dinh District",
+        "mappings": []
+    },
+    {
+        "hotelTraveloka": "Hoang Ngoc Hotel 2",
+        "addressTraveloka": "19 Nguyen Thuong Hien",
+        "cityTraveloka": "Hai Ba Trung District",
+        "mappings": [
+            {
+                "hotel_id": 4053878,
+                "name": "Hoang Ngoc Hotel 2",
+                "address": "19 Nguyen Thuong Hien",
+                "city": "HANOI",
+                "lat": 21.019130707,
+                "lng": 105.842941284,
+                "supplier_code": "GoQuo"
+            }
+        ]
+    },
+    {
+        "hotelTraveloka": "Ruby Hotel Nha Trang",
+        "addressTraveloka": "14 Tran Phu",
+        "cityTraveloka": "Nha Trang",
+        "mappings": []
+    },
+    {
+        "hotelTraveloka": "Thanh Thu Hotel",
+        "addressTraveloka": "34 Nguyen An Ninh",
+        "cityTraveloka": "District 1",
+        "mappings": [
+            {
+                "hotel_id": 422472,
+                "name": "Thanh Thu Hotel",
+                "address": "34 Nguyen An Ninh, Ho Chi Minh",
+                "city": "Ho Chi Minh City",
+                "lat": 10.771788597,
+                "lng": 106.697044373,
+                "supplier_code": "GoQuo"
+            },
+            {
+                "hotel_id": 426956,
+                "name": "Thanh Thu Hotel",
+                "address": "282 Lac Long Quan, Hanoi",
+                "city": "Hanoi",
+                "lat": 21.055515289,
+                "lng": 105.808937073,
+                "supplier_code": "GoQuo"
+            }
+        ]
+    },
+    {
+        "hotelTraveloka": "Bach Mai Hotel",
+        "addressTraveloka": "152 Cong Quynh",
+        "cityTraveloka": "District 1",
+        "mappings": [
+            {
+                "hotel_id": 4052498,
+                "name": "Bach Mai Hotel",
+                "address": "152 Cong Quynh Street, Pham Ngu Lao Ward, Ho Chi Minh City, Vietnam",
+                "city": "Ho Chi Minh City",
+                "lat": 10.766066551,
+                "lng": 106.689376831,
+                "supplier_code": "GoQuo"
+            }
+        ]
+    },
+    {
+        "hotelTraveloka": "Villa Sim",
+        "addressTraveloka": "Vo Nguyen Giap Street",
+        "cityTraveloka": "Dong Hoi City",
+        "mappings": [
+            {
+                "hotel_id": 462481,
+                "name": "Sim Garden Resort",
+                "address": "118 Tran Hung Dao Street, Duong Dong Town, Phu Quoc",
+                "city": "Phu Quoc",
+                "lat": 10.194581032,
+                "lng": 103.967315674,
+                "supplier_code": "GoQuo"
+            },
+            {
+                "hotel_id": 480654,
+                "name": "LeSimoLe Boutique Apartments & Hotel",
+                "address": "120/35 Nguyen Thien Thuat, Nha Trang",
+                "city": "Nha Trang",
+                "lat": 12.233352661,
+                "lng": 109.194221497,
+                "supplier_code": "GoQuo"
+            },
+            {
+                "hotel_id": 540632,
+                "name": "The Simplest Phu Quoc Village",
+                "address": "Ba Phong Bridge, Tran Hung Dao, Duong Dong, Phu Quoc",
+                "city": "Phu Quoc",
+                "lat": 10.185922623,
+                "lng": 103.972175598,
+                "supplier_code": "GoQuo"
+            },
+            {
+                "hotel_id": 2751164,
+                "name": "7S Hotel Simmi 2 & Apartment",
+                "address": "R4 - 21 Hung Gia 2, Street No.2,Tan Phong Ward",
+                "city": "Ho Chi Minh City",
+                "lat": 10.733719826,
+                "lng": 106.706939697,
+                "supplier_code": "GoQuo"
+            },
+            {
+                "hotel_id": 4273148,
+                "name": "Saint Simeon Resort & Spa",
+                "address": "Ap Tan Phuoc, Xa Phuoc Tinh,",
+                "city": "Long Dien",
+                "lat": 10.404968262,
+                "lng": 107.191864014,
+                "supplier_code": "GoQuo"
+            }
+        ]
+    },
+    {
+        "hotelTraveloka": "Hoa Sen Hotel Da Lat 62",
+        "addressTraveloka": "62 Phan Dinh Phung",
+        "cityTraveloka": "Da Lat",
+        "mappings": []
+    },
+    {
+        "hotelTraveloka": "Phuong Hoang Hotel",
+        "addressTraveloka": "Dong Nam Village, Quan Lan, Van Đon",
+        "cityTraveloka": "Van Don District",
+        "mappings": [
+            {
+                "hotel_id": 231975,
+                "name": "Phuong Hoang - Phoenix Hotel",
+                "address": "66/3 Le Loi Street, Hue",
+                "city": "Hue",
+                "lat": 16.471572876,
+                "lng": 107.594314575,
+                "supplier_code": "GoQuo"
+            },
+            {
+                "hotel_id": 565833,
+                "name": "Nam Phuong Hoàng Hau Hotel",
+                "address": "10 - 8 Street 7, Trung Sơn Residential, Binh Chanh District, Ho Chi Minh",
+                "city": "Ho Chi Minh City",
+                "lat": 10.738656998,
+                "lng": 106.690704346,
+                "supplier_code": "GoQuo"
+            },
+            {
+                "hotel_id": 570377,
+                "name": "Phuong Hoang Hotel",
+                "address": "998 Dai Lo Hung Vuong, Dong Hai Ward, Thanh Hóa",
+                "city": "Thanh Hóa",
+                "lat": 19.798809052,
+                "lng": 105.804862976,
+                "supplier_code": "GoQuo"
+            },
+            {
+                "hotel_id": 4343955,
+                "name": "Phuong Hoang Hotel",
+                "address": "210/10 Cach Mang Thang Tam St",
+                "city": "Ho Chi Minh City",
+                "lat": 10.779700279,
+                "lng": 106.678001404,
+                "supplier_code": "GoQuo"
+            }
+        ]
+    },
+    {
+        "hotelTraveloka": "Queen Bee Hotel",
+        "addressTraveloka": "R4- 27,28 Hung Gia 5 St., PMH, Dist. 7",
+        "cityTraveloka": "District 7",
+        "mappings": []
+    },
+    {
+        "hotelTraveloka": "Trang Nhung Hotel Vung Tau",
+        "addressTraveloka": "49 La Van Cau",
+        "cityTraveloka": "Vung Tau City",
+        "mappings": []
+    },
+    {
+        "hotelTraveloka": "Organic Garden Hostel",
+        "addressTraveloka": "23 Thien Y street",
+        "cityTraveloka": "Da Lat",
+        "mappings": []
+    },
+    {
+        "hotelTraveloka": "Gia Loi Hotel",
+        "addressTraveloka": "492 Kinh Duong Vuong",
+        "cityTraveloka": "Lien Chieu District",
+        "mappings": [
+            {
+                "hotel_id": 4052323,
+                "name": "Gia Loi Hotel",
+                "address": "492 Kinh Duong Vuong, Lien Chieu, Da Nang",
+                "city": "Da Nang",
+                "lat": 16.074966431,
+                "lng": 108.169181824,
+                "supplier_code": "GoQuo"
+            }
+        ]
+    },
+    {
+        "hotelTraveloka": "Bui Hostel",
+        "addressTraveloka": "236 Nguyen Hung Son",
+        "cityTraveloka": "Rach Gia City",
+        "mappings": [
+            {
+                "hotel_id": 4330898,
+                "name": "Mobu Mot Bui Hostel",
+                "address": "198 Tay Son,",
+                "city": "Quy Nhon",
+                "lat": 13.752839088,
+                "lng": 109.210189819,
+                "supplier_code": "GoQuo"
+            }
+        ]
+    },
+    {
+        "hotelTraveloka": "Rung Hoa Hotel Dalat",
+        "addressTraveloka": "7A/1 Mai Anh Dao",
+        "cityTraveloka": "Da Lat",
+        "mappings": []
+    },
+    {
+        "hotelTraveloka": "Ngoc Chau Hotel Dalat",
+        "addressTraveloka": "23 Nam Ky Khoi Nghia, Ward 1",
+        "cityTraveloka": "Da Lat",
+        "mappings": []
+    },
+    {
+        "hotelTraveloka": "Bostand 2 Hotel Danang",
+        "addressTraveloka": "91 Ha Bong",
+        "cityTraveloka": "Son Tra District",
+        "mappings": []
+    },
+    {
+        "hotelTraveloka": "Thanh Van Hostel",
+        "addressTraveloka": "05 Le Duc Tho",
+        "cityTraveloka": "Son Tra District",
+        "mappings": []
+    },
+    {
+        "hotelTraveloka": "Sapa May Ho Hotel",
+        "addressTraveloka": "5 Kim Dong Street",
+        "cityTraveloka": "Sa Pa District",
+        "mappings": []
+    },
+    {
+        "hotelTraveloka": "Furuya House",
+        "addressTraveloka": "No 12, Alley 71, Linh Lang",
+        "cityTraveloka": "Ba Dinh District",
+        "mappings": []
+    },
+    {
+        "hotelTraveloka": "Sen Vang Hotel",
+        "addressTraveloka": "173 Ho Nghinh",
+        "cityTraveloka": "Son Tra District",
+        "mappings": [
+            {
+                "hotel_id": 403689,
+                "name": "Sen Vang Dalat Hotel",
+                "address": "255 Phan Dinh Phung Street, Ward 2",
+                "city": "Dalat",
+                "lat": 11.948446274,
+                "lng": 108.435661316,
+                "supplier_code": "GoQuo"
+            },
+            {
+                "hotel_id": 2726203,
+                "name": "Sen Vang Hotel",
+                "address": "173 Ho Nghinh, Phuoc My, Son Tra, Da Nang 845113",
+                "city": "Da Nang",
+                "lat": 16.066841125,
+                "lng": 108.243270874,
+                "supplier_code": "GoQuo"
+            },
+            {
+                "hotel_id": 2758604,
+                "name": "Sen Vang Luxury Hotel",
+                "address": "33-37 Me Linh, Phuong Tan Lap,",
+                "city": "Nha Trang",
+                "lat": 12.239852905,
+                "lng": 109.187919617,
+                "supplier_code": "GoQuo"
+            },
+            {
+                "hotel_id": 2759995,
+                "name": "Sen Vang Guest House",
+                "address": "5S Quan Tran, Nha Trang",
+                "city": "Nha Trang",
+                "lat": 12.234321594,
+                "lng": 109.195228577,
+                "supplier_code": "GoQuo"
+            },
+            {
+                "hotel_id": 4053148,
+                "name": "Hoa Sen Vang Hotel Dalat",
+                "address": "4 Triệu Việt Vương f4, Dalat, Vietnam",
+                "city": "Dalat",
+                "lat": 11.93235302,
+                "lng": 108.426986694,
+                "supplier_code": "GoQuo"
+            },
+            {
+                "hotel_id": 4338899,
+                "name": "Sen Vang Hotel",
+                "address": "20 Tran Quy Cap,Thang Tam Ward",
+                "city": "Vung Tau",
+                "lat": 10.338652611,
+                "lng": 107.089942932,
+                "supplier_code": "GoQuo"
+            },
+            {
+                "hotel_id": 4343575,
+                "name": "Sen Vang Hotel",
+                "address": "654 Su Van Hanh Street Ward 12",
+                "city": "HO CHI MINH",
+                "lat": 10.769926071,
+                "lng": 106.670753479,
+                "supplier_code": "GoQuo"
+            }
+        ]
+    },
+    {
+        "hotelTraveloka": "Sunna Hotel Danang",
+        "addressTraveloka": "27 Duong Dinh Nghe, Phuoc My",
+        "cityTraveloka": "Son Tra District",
+        "mappings": []
+    },
+    {
+        "hotelTraveloka": "Son Hien Hotel Cam Ranh",
+        "addressTraveloka": "Highway 1A",
+        "cityTraveloka": "Nha Trang",
+        "mappings": []
+    },
+    {
+        "hotelTraveloka": "Beepub",
+        "addressTraveloka": "74 Truong Cong Dinh",
+        "cityTraveloka": "Da Lat",
+        "mappings": [
+            {
+                "hotel_id": 403636,
+                "name": "Beepub",
+                "address": "74 Truong Cong Dinh, Dalat",
+                "city": "Dalat",
+                "lat": 11.944787979,
+                "lng": 108.434822083,
+                "supplier_code": "GoQuo"
+            }
+        ]
+    },
+    {
+        "hotelTraveloka": "Phu Nguyen Hotel",
+        "addressTraveloka": "02 Phan Phu Tien",
+        "cityTraveloka": "Nha Trang",
+        "mappings": []
+    },
+    {
+        "hotelTraveloka": "O La Guest House",
+        "addressTraveloka": "12 Tran Binh Trong, Cam Chau",
+        "cityTraveloka": "Hoi An",
+        "mappings": []
+    },
+    {
+        "hotelTraveloka": "Hai Khanh Hotel",
+        "addressTraveloka": "100 Ham Nghi Street,",
+        "cityTraveloka": "Hai Duong City",
+        "mappings": [
+            {
+                "hotel_id": 402984,
+                "name": "Hai Khanh Hotel",
+                "address": "100 Ham Nghi, Hai Tan Ward, Hai Duong",
+                "city": "Hai Duong",
+                "lat": 20.929897308,
+                "lng": 106.336975098,
+                "supplier_code": "GoQuo"
+            }
+        ]
+    },
+    {
+        "hotelTraveloka": "Golden Sun Sapa",
+        "addressTraveloka": "075 Thach Son Street",
+        "cityTraveloka": "Sa Pa District",
+        "mappings": []
+    },
+    {
+        "hotelTraveloka": "Kim Quang Apartment",
+        "addressTraveloka": "Kim To Tower, Hoa Hong Street, Phuoc Tinh",
+        "cityTraveloka": "Vung Tau City",
+        "mappings": []
+    },
+    {
+        "hotelTraveloka": "The Opera Hotel Hai Phong",
+        "addressTraveloka": "20B Minh Khai, Hoang Van Thu, Hong Bang",
+        "cityTraveloka": "Hong Bang District",
+        "mappings": []
+    },
+    {
+        "hotelTraveloka": "Phuong Nam Hotel Dien Bien",
+        "addressTraveloka": "211 Group 3",
+        "cityTraveloka": "Dien Bien Phu City",
+        "mappings": []
+    },
+    {
+        "hotelTraveloka": "Hoa Dao Hotel",
+        "addressTraveloka": "Le Thanh Ton",
+        "cityTraveloka": "Hoa Binh City",
+        "mappings": [
+            {
+                "hotel_id": 402615,
+                "name": "Hoa Dao Hotel",
+                "address": "29 Phan Chu Trinh, Nha Trang",
+                "city": "Nha Trang",
+                "lat": 12.251817703,
+                "lng": 109.192359924,
+                "supplier_code": "GoQuo"
+            },
+            {
+                "hotel_id": 429292,
+                "name": "Hoa Dao Hotel",
+                "address": "Le Thanh Tong Street, To 5, Tan Thinh Ward, Hoa Binh, Vietnam",
+                "city": "Hoa Binh",
+                "lat": 20.827680588,
+                "lng": 105.337272644,
+                "supplier_code": "GoQuo"
+            },
+            {
+                "hotel_id": 4052530,
+                "name": "Hoa Dao Hotel",
+                "address": "705 Lac Long Quan, Tay Ho,",
+                "city": "Hanoi",
+                "lat": 21.080627441,
+                "lng": 105.817398071,
+                "supplier_code": "GoQuo"
+            }
+        ]
+    },
+    {
+        "hotelTraveloka": "Kim Quang Villa",
+        "addressTraveloka": "B27 Hoa Sen, Kim To Villa, Phuoc Tinh",
+        "cityTraveloka": "Vung Tau City",
+        "mappings": []
+    },
+    {
+        "hotelTraveloka": "Cong Doan Danang Hotel (Danang Trade Union Hotel)",
+        "addressTraveloka": "50 Pasteur Street",
+        "cityTraveloka": "Hai Chau District",
+        "mappings": []
+    },
+    {
+        "hotelTraveloka": "DLGL Dung Quat Hotel",
+        "addressTraveloka": "Doc Soi, Dung Quat",
+        "cityTraveloka": "Binh Son District",
+        "mappings": []
+    },
+    {
+        "hotelTraveloka": "Nu Hotel",
+        "addressTraveloka": "18 Bui Vien",
+        "cityTraveloka": "District 1",
+        "mappings": [
+            {
+                "hotel_id": 484982,
+                "name": "Poshanu Resort",
+                "address": "Quater 5, Phu Hai Ward,",
+                "city": "Phan Thiet",
+                "lat": 10.936968803,
+                "lng": 108.178153992,
+                "supplier_code": "GoQuo"
+            },
+            {
+                "hotel_id": 2719811,
+                "name": "DUNU Hostel",
+                "address": "K34/20 Le Huu Trac, Da Nang",
+                "city": "Da Nang",
+                "lat": 16.057395935,
+                "lng": 108.238777161,
+                "supplier_code": "GoQuo"
+            },
+            {
+                "hotel_id": 4273312,
+                "name": "Nu Hoang Hotel",
+                "address": "23 Muoi Sau Thang Tu, Kinh Dinh,",
+                "city": "Phan Rang - Thap Cham",
+                "lat": 11.566066742,
+                "lng": 108.992042542,
+                "supplier_code": "GoQuo"
+            }
+        ]
+    },
+    {
+        "hotelTraveloka": "Tan Truong Son Hotel",
+        "addressTraveloka": "34 Mac Dinh Chi Street",
+        "cityTraveloka": "Dong Hoi City",
+        "mappings": [
+            {
+                "hotel_id": 570514,
+                "name": "Tan Truong Son Hotel",
+                "address": "34 Mac Dinh Chi Street,Hai Dinh Ward",
+                "city": "Dong Hoi",
+                "lat": 17.460777283,
+                "lng": 106.624572754,
+                "supplier_code": "GoQuo"
+            },
+            {
+                "hotel_id": 4270228,
+                "name": "Tan Truong Son Hotel ",
+                "address": "02 Nguyen Thi Loi, Phuong Trung Son, TP Sam Son, Tinh Thanh Hoa, Thanh Hoa / Sam Son Beach, Vietnam",
+                "city": "Thanh Hoa / Sam Son Beach",
+                "lat": 19.744392395,
+                "lng": 105.904586792,
+                "supplier_code": "GoQuo"
+            }
+        ]
+    },
+    {
+        "hotelTraveloka": "Hoa Binh 2 Hotel",
+        "addressTraveloka": "395 An Duong Vuong",
+        "cityTraveloka": "Hoa Binh City",
+        "mappings": [
+            {
+                "hotel_id": 570327,
+                "name": "Hoa Binh 2 Hotel",
+                "address": "8 Le Hong Phong, My Binh Ward, Long Xuyên",
+                "city": "Long Xuyên",
+                "lat": 10.389342308,
+                "lng": 105.432792664,
+                "supplier_code": "GoQuo"
+            }
+        ]
+    },
+    {
+        "hotelTraveloka": "Hanoi New Airport Hotel",
+        "addressTraveloka": "Thon Dong, Phu Minh, Soc Son",
+        "cityTraveloka": "Soc Son District",
+        "mappings": []
+    },
+    {
+        "hotelTraveloka": "Eden Hotel Go Vap",
+        "addressTraveloka": "182/45 Le Duc Tho Street, Ward 6, Go Vap",
+        "cityTraveloka": "Go Vap District",
+        "mappings": []
+    },
+    {
+        "hotelTraveloka": "Bach Duong Hotel - Doi Can",
+        "addressTraveloka": "459 Doi Can",
+        "cityTraveloka": "Ba Dinh District",
+        "mappings": []
+    },
+    {
+        "hotelTraveloka": "Hoan Kiem Hotel",
+        "addressTraveloka": "1 Nguyen Sinh Sac",
+        "cityTraveloka": "Hue City",
+        "mappings": [
+            {
+                "hotel_id": 194596,
+                "name": "AncyrA TamTam Hotel by Continent - Near Hoan Kiem Lake",
+                "address": "88 Hang Bac,Hoan Kiem",
+                "city": "Hanoi",
+                "lat": 21.033958435,
+                "lng": 105.8516922,
+                "supplier_code": "GoQuo"
+            },
+            {
+                "hotel_id": 354427,
+                "name": "Hoan Kiem Hostel",
+                "address": "9-11A Hai Tuong Lane, Ta Hien Street, Hoan Kiem, Hanoi",
+                "city": "Hanoi",
+                "lat": 21.034498215,
+                "lng": 105.852142334,
+                "supplier_code": "GoQuo"
+            },
+            {
+                "hotel_id": 367734,
+                "name": "Hoan Kiem Lake Hotel",
+                "address": "29 Hang Trong,Hoan Kiem",
+                "city": "Hanoi",
+                "lat": 21.030706406,
+                "lng": 105.849555969,
+                "supplier_code": "GoQuo"
+            },
+            {
+                "hotel_id": 404096,
+                "name": "Hoan Kiem Hotel",
+                "address": "01 Nguyen Sinh Sac, Hue",
+                "city": "Hue",
+                "lat": 16.475841522,
+                "lng": 107.603019714,
+                "supplier_code": "GoQuo"
+            },
+            {
+                "hotel_id": 4334074,
+                "name": "Hoan Kiem Homestay",
+                "address": "73B Pho Hue St",
+                "city": "Hanoi",
+                "lat": 21.017635345,
+                "lng": 105.851516724,
+                "supplier_code": "GoQuo"
+            }
+        ]
+    },
+    {
+        "hotelTraveloka": "Hung Vuong Hotel Phu Yen",
+        "addressTraveloka": "239-241 Hung Vuong Street",
+        "cityTraveloka": "Tuy Hoa City",
+        "mappings": []
+    }
+]
